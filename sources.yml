@@ -1,0 +1,119 @@
+# Feeds for the daily brief.
+#
+# No API keys, no quotas, no credit card. Add or remove freely — a feed that
+# 404s is skipped with a warning rather than failing the build.
+#
+# `weight` nudges ranking: a story carried by a high-weight outlet sorts higher.
+# Google News query feeds are the fallback for anything without a native feed;
+# `when:1d` limits them to the last day.
+
+window_hours: 26        # how far back an item may be published
+max_stories: 28         # cap on the finished brief
+max_per_sector: 5
+leads: 3                # how many stories get the "Top of the day" treatment
+
+# Only these sectors may take a lead slot — general news can still make the
+# brief, it just never leads it. Remove the list to let any sector lead.
+lead_sectors:
+  - Markets
+  - Macro
+  - Banking
+  - IT & AI
+  - Deals & IPOs
+  - Energy & Industrials
+
+feeds:
+  - sector: Markets
+    name: ET Markets
+    url: https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms
+    weight: 3
+  - sector: Markets
+    name: Mint Markets
+    url: https://www.livemint.com/rss/markets
+    weight: 3
+  - sector: Markets
+    name: Business Standard Markets
+    url: https://www.business-standard.com/rss/markets-106.rss
+    weight: 3
+  - sector: Markets
+    name: Moneycontrol Markets
+    url: https://www.moneycontrol.com/rss/marketreports.xml
+    weight: 2
+
+  - sector: Macro
+    name: ET Economy
+    url: https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms
+    weight: 3
+  - sector: Macro
+    name: Business Standard Economy
+    url: https://www.business-standard.com/rss/economy-102.rss
+    weight: 3
+  - sector: Macro
+    name: Global macro
+    url: https://news.google.com/rss/search?q=(fed+OR+inflation+OR+%22rate+decision%22+OR+treasury+yields)+when:1d&hl=en-IN&gl=IN&ceid=IN:en
+    weight: 2
+
+  - sector: Banking
+    name: Moneycontrol Banking
+    url: https://www.moneycontrol.com/rss/banking.xml
+    weight: 2
+  - sector: Banking
+    name: Banking & NBFC
+    url: https://news.google.com/rss/search?q=(RBI+OR+%22bank+credit%22+OR+NBFC+OR+%22HDFC+Bank%22+OR+%22ICICI+Bank%22)+when:1d&hl=en-IN&gl=IN&ceid=IN:en
+    weight: 2
+
+  - sector: IT & AI
+    name: ET Tech
+    url: https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms
+    weight: 3
+  - sector: IT & AI
+    name: Indian IT services
+    url: https://news.google.com/rss/search?q=(TCS+OR+Infosys+OR+Wipro+OR+HCLTech+OR+%22IT+services%22)+india+when:1d&hl=en-IN&gl=IN&ceid=IN:en
+    weight: 2
+  - sector: IT & AI
+    name: AI
+    url: https://news.google.com/rss/search?q=(%22artificial+intelligence%22+OR+OpenAI+OR+Anthropic+OR+%22AI+model%22)+when:1d&hl=en-IN&gl=IN&ceid=IN:en
+    weight: 2
+
+  - sector: Energy & Industrials
+    name: Energy and infra
+    url: https://news.google.com/rss/search?q=(crude+OR+%22oil+prices%22+OR+%22power+sector%22+OR+renewables+OR+infrastructure)+india+when:1d&hl=en-IN&gl=IN&ceid=IN:en
+    weight: 2
+
+  - sector: Auto
+    name: ET Auto
+    url: https://economictimes.indiatimes.com/industry/auto/rssfeeds/13359412.cms
+    weight: 2
+  - sector: Auto
+    name: Auto and EV
+    url: https://news.google.com/rss/search?q=(Maruti+OR+%22Tata+Motors%22+OR+Mahindra+OR+%22EV+sales%22)+india+when:1d&hl=en-IN&gl=IN&ceid=IN:en
+    weight: 2
+
+  - sector: Pharma & Healthcare
+    name: Pharma
+    url: https://news.google.com/rss/search?q=(pharma+OR+CDMO+OR+%22drug+maker%22+OR+healthcare)+india+when:1d&hl=en-IN&gl=IN&ceid=IN:en
+    weight: 2
+
+  - sector: Consumer
+    name: ET Consumer
+    url: https://economictimes.indiatimes.com/industry/cons-products/rssfeeds/13352306.cms
+    weight: 2
+
+  - sector: Deals & IPOs
+    name: IPOs and M&A
+    url: https://news.google.com/rss/search?q=(IPO+OR+%22merger%22+OR+%22acquisition%22+OR+%22stake+sale%22)+india+when:1d&hl=en-IN&gl=IN&ceid=IN:en
+    weight: 3
+
+  - sector: Startups
+    name: Startup funding
+    url: https://news.google.com/rss/search?q=(%22raises%22+OR+%22funding+round%22+OR+%22series+A%22+OR+%22series+B%22)+india+startup+when:1d&hl=en-IN&gl=IN&ceid=IN:en
+    weight: 2
+
+  - sector: India & World
+    name: The Hindu National
+    url: https://www.thehindu.com/news/national/feeder/default.rss
+    weight: 2
+  - sector: India & World
+    name: World
+    url: https://news.google.com/rss/search?q=world+news+when:1d&hl=en-IN&gl=IN&ceid=IN:en
+    weight: 1

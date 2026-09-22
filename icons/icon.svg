@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Daily Wire">
+  <rect width="512" height="512" rx="96" fill="#111820"/>
+  <rect x="104" y="128" width="304" height="26" rx="4" fill="#f3f5f7"/>
+  <rect x="104" y="196" width="304" height="14" rx="4" fill="#55636f"/>
+  <rect x="104" y="240" width="248" height="14" rx="4" fill="#55636f"/>
+  <rect x="104" y="284" width="280" height="14" rx="4" fill="#55636f"/>
+  <rect x="104" y="340" width="150" height="34" rx="6" fill="#78b6e4"/>
+</svg>

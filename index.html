@@ -1,0 +1,574 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Daily Wire</title>
+<meta name="description" content="A daily business and markets brief, rebuilt every morning from public news feeds.">
+<meta name="theme-color" content="#f3f5f7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d1218" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+  :root {
+    --paper: #f3f5f7;
+    --card: #ffffff;
+    --raised: #e9eef2;
+    --ink: #111820;
+    --ink-2: #55636f;
+    --ink-3: #7d8a95;
+    --line: #d9e1e8;
+    --accent: #17527e;
+    --accent-soft: #c3d6e5;
+    --up: #10714a;
+    --down: #a8332b;
+    --focus: #17527e;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper: #0d1218;
+      --card: #151c24;
+      --raised: #1b242e;
+      --ink: #e6ecf1;
+      --ink-2: #8fa0ae;
+      --ink-3: #6d7d8a;
+      --line: #222c36;
+      --accent: #78b6e4;
+      --accent-soft: #2b4257;
+      --up: #43c08a;
+      --down: #e87068;
+      --focus: #78b6e4;
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper: #0d1218;
+    --card: #151c24;
+    --raised: #1b242e;
+    --ink: #e6ecf1;
+    --ink-2: #8fa0ae;
+    --ink-3: #6d7d8a;
+    --line: #222c36;
+    --accent: #78b6e4;
+    --accent-soft: #2b4257;
+    --up: #43c08a;
+    --down: #e87068;
+    --focus: #78b6e4;
+    color-scheme: dark;
+  }
+
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    padding-top: env(safe-area-inset-top, 0px);
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+  img { max-width: 100%; }
+  a { color: inherit; }
+  :focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 2px; }
+
+  .wrap {
+    max-width: 760px;
+    margin: 0 auto;
+    padding-inline: 20px;
+    padding-block: 0 56px;
+  }
+
+  /* ---- masthead ---- */
+  .masthead {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 8px 16px;
+    padding-block: 28px 12px;
+    border-bottom: 2px solid var(--ink);
+  }
+  .wordmark {
+    font-family: Newsreader, Georgia, serif;
+    font-size: 34px;
+    font-weight: 600;
+    letter-spacing: -0.015em;
+    margin: 0;
+    line-height: 1;
+  }
+  .masthead-right {
+    display: flex;
+    align-items: baseline;
+    gap: 14px;
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 12px;
+    color: var(--ink-2);
+  }
+  select.picker {
+    font: inherit;
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    color: var(--ink);
+    background: transparent;
+    border: 1px solid var(--line);
+    border-radius: 3px;
+    padding: 3px 6px;
+    cursor: pointer;
+  }
+  .standfirst {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 11.5px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+    padding-block: 10px;
+    border-bottom: 1px solid var(--line);
+  }
+
+  /* ---- filters ---- */
+  .filters {
+    position: sticky;
+    top: env(safe-area-inset-top, 0px);
+    z-index: 5;
+    display: flex;
+    gap: 6px;
+    overflow-x: auto;
+    scrollbar-width: none;
+    padding-block: 10px;
+    margin-inline: -20px;
+    padding-inline: 20px;
+    background: var(--paper);
+    border-bottom: 1px solid var(--line);
+  }
+  .filters::-webkit-scrollbar { display: none; }
+  .chip {
+    flex: 0 0 auto;
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 11.5px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--ink-2);
+    background: transparent;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 5px 11px;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .chip:hover { border-color: var(--accent); color: var(--accent); }
+  .chip[aria-pressed="true"] {
+    background: var(--ink);
+    border-color: var(--ink);
+    color: var(--paper);
+  }
+  .chip .count { opacity: 0.55; margin-left: 5px; }
+
+  /* ---- stories ---- */
+  .stories { list-style: none; margin: 0; padding: 0; }
+  .section-label {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 10.5px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+    padding-block: 24px 6px;
+  }
+  .section-label:first-child { padding-top: 18px; }
+  .story { padding-block: 22px; border-bottom: 1px solid var(--line); }
+  .story.is-lead {
+    background: var(--card);
+    margin-inline: -20px;
+    padding-inline: 20px;
+    border-bottom: 1px solid var(--line);
+  }
+  .story.is-lead + .story:not(.is-lead) { padding-top: 26px; }
+
+  .eyebrow {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 10.5px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+    margin-bottom: 8px;
+  }
+  .eyebrow .sector { color: var(--accent); font-weight: 500; }
+  .eyebrow .sep { color: var(--line); }
+  .wires {
+    color: var(--ink);
+    border: 1px solid var(--accent-soft);
+    background: var(--raised);
+    border-radius: 2px;
+    padding: 1px 5px;
+    letter-spacing: 0.04em;
+  }
+
+  .headline {
+    font-family: Newsreader, Georgia, serif;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 1.28;
+    letter-spacing: -0.005em;
+    text-wrap: balance;
+    margin: 0 0 6px;
+  }
+  .is-lead .headline { font-size: 25px; font-weight: 600; }
+  .headline a { text-decoration: none; }
+  .headline a:hover { text-decoration: underline; text-underline-offset: 3px; text-decoration-color: var(--accent); }
+
+  .dek { margin: 0; color: var(--ink-2); font-size: 14.5px; }
+  .is-lead .dek { font-size: 15.5px; }
+
+  .why {
+    font-family: Newsreader, Georgia, serif;
+    font-style: italic;
+    font-size: 15.5px;
+    line-height: 1.45;
+    color: var(--ink);
+    border-left: 2px solid var(--accent);
+    padding-left: 12px;
+    margin-top: 12px;
+  }
+  .why::before {
+    content: "Why it matters";
+    display: block;
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-style: normal;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+    margin-bottom: 3px;
+  }
+  .also {
+    margin-top: 10px;
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 11px;
+    color: var(--ink-3);
+  }
+
+  /* ---- states ---- */
+  .notice {
+    margin-top: 28px;
+    padding: 18px 20px;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    color: var(--ink-2);
+    font-size: 14.5px;
+  }
+  .notice h2 {
+    font-family: Newsreader, Georgia, serif;
+    font-size: 20px;
+    margin: 0 0 8px;
+    color: var(--ink);
+  }
+  .notice code {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 13px;
+    background: var(--raised);
+    padding: 2px 5px;
+    border-radius: 3px;
+    display: inline-block;
+  }
+  .offline-flag {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--down);
+  }
+  .foot {
+    margin-top: 32px;
+    padding-top: 16px;
+    border-top: 1px solid var(--line);
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 11px;
+    color: var(--ink-3);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 14px;
+    justify-content: space-between;
+  }
+  .foot button {
+    font: inherit;
+    color: var(--ink-3);
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  @media (max-width: 520px) {
+    .wordmark { font-size: 28px; }
+    .is-lead .headline { font-size: 21px; }
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .story { animation: rise 0.25s ease-out both; }
+    @keyframes rise { from { opacity: 0.55; transform: translateY(3px); } to { opacity: 1; transform: none; } }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="masthead">
+    <h1 class="wordmark">Daily Wire</h1>
+    <div class="masthead-right">
+      <span id="dateline">—</span>
+      <select class="picker" id="archive" aria-label="Choose a day"></select>
+    </div>
+  </header>
+
+  <p class="standfirst" id="standfirst">Loading the latest brief…</p>
+
+  <nav class="filters" id="filters" aria-label="Filter by sector"></nav>
+
+  <main>
+    <ul class="stories" id="stories"></ul>
+    <div class="notice" id="notice" hidden></div>
+  </main>
+
+  <footer class="foot">
+    <span id="built">—</span>
+    <span>
+      <button type="button" id="theme">Switch theme</button>
+    </span>
+  </footer>
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  var stories = [];
+  var activeSector = "All";
+  var elStories = document.getElementById("stories");
+  var elFilters = document.getElementById("filters");
+  var elNotice = document.getElementById("notice");
+  var elArchive = document.getElementById("archive");
+
+  // ---------- helpers ----------
+
+  function el(tag, className, text) {
+    var node = document.createElement(tag);
+    if (className) node.className = className;
+    if (text !== undefined && text !== null) node.textContent = text;
+    return node;
+  }
+
+  function timeAgo(iso) {
+    if (!iso) return "";
+    var then = new Date(iso).getTime();
+    if (isNaN(then)) return "";
+    var mins = Math.round((Date.now() - then) / 60000);
+    if (mins < 60) return mins <= 1 ? "just now" : mins + "m ago";
+    var hours = Math.round(mins / 60);
+    if (hours < 24) return hours + "h ago";
+    return Math.round(hours / 24) + "d ago";
+  }
+
+  function showNotice(title, body, codeLine) {
+    elNotice.innerHTML = "";
+    elNotice.appendChild(el("h2", null, title));
+    elNotice.appendChild(el("p", null, body));
+    if (codeLine) {
+      var p = el("p");
+      p.appendChild(el("code", null, codeLine));
+      elNotice.appendChild(p);
+    }
+    elNotice.hidden = false;
+  }
+
+  // ---------- rendering ----------
+
+  function renderFilters() {
+    var counts = { All: stories.length };
+    stories.forEach(function (s) {
+      counts[s.sector] = (counts[s.sector] || 0) + 1;
+    });
+    var names = ["All"].concat(
+      Object.keys(counts).filter(function (k) { return k !== "All"; })
+    );
+
+    elFilters.innerHTML = "";
+    names.forEach(function (name) {
+      var chip = el("button", "chip");
+      chip.type = "button";
+      chip.setAttribute("aria-pressed", String(name === activeSector));
+      chip.appendChild(document.createTextNode(name));
+      chip.appendChild(el("span", "count", counts[name]));
+      chip.addEventListener("click", function () {
+        activeSector = name;
+        renderFilters();
+        renderStories();
+      });
+      elFilters.appendChild(chip);
+    });
+  }
+
+  function renderStory(story) {
+    var li = el("li", "story" + (story.lead && activeSector === "All" ? " is-lead" : ""));
+
+    var eyebrow = el("div", "eyebrow");
+    eyebrow.appendChild(el("span", "sector", story.sector));
+    eyebrow.appendChild(el("span", "sep", "/"));
+    eyebrow.appendChild(el("span", null, story.source));
+    var ago = timeAgo(story.published);
+    if (ago) {
+      eyebrow.appendChild(el("span", "sep", "/"));
+      eyebrow.appendChild(el("span", null, ago));
+    }
+    if (story.coverage > 1) {
+      eyebrow.appendChild(el("span", "wires", story.coverage + " wires"));
+    }
+    li.appendChild(eyebrow);
+
+    var h = el("h2", "headline");
+    var a = el("a", null, story.title);
+    a.href = story.url;
+    a.target = "_blank";
+    a.rel = "noopener noreferrer";
+    h.appendChild(a);
+    li.appendChild(h);
+
+    if (story.dek) li.appendChild(el("p", "dek", story.dek));
+    if (story.why) li.appendChild(el("p", "why", story.why));
+    if (story.also && story.also.length) {
+      li.appendChild(el("p", "also", "Also carried by " + story.also.join(", ")));
+    }
+    return li;
+  }
+
+  function renderStories() {
+    var showLeads = activeSector === "All";
+    var list = showLeads
+      ? stories
+      : stories.filter(function (s) { return s.sector === activeSector; });
+
+    elStories.innerHTML = "";
+    var labelled = { lead: false, rest: false };
+
+    list.forEach(function (s) {
+      // Only the unfiltered view is a front page, so only it gets the split
+      // between the day's leads and everything else.
+      if (showLeads) {
+        if (s.lead && !labelled.lead) {
+          elStories.appendChild(el("li", "section-label", "Top of the day"));
+          labelled.lead = true;
+        } else if (!s.lead && !labelled.rest) {
+          elStories.appendChild(el("li", "section-label", "Also today"));
+          labelled.rest = true;
+        }
+      }
+      elStories.appendChild(renderStory(s));
+    });
+  }
+
+  function renderBrief(brief, stale) {
+    stories = brief.stories || [];
+    document.getElementById("dateline").textContent = brief.dateLabel || brief.date;
+    document.getElementById("standfirst").textContent = brief.standfirst || "";
+
+    var built = document.getElementById("built");
+    built.textContent = brief.builtAt
+      ? "Built " + new Date(brief.builtAt).toLocaleString("en-IN", {
+          hour: "2-digit", minute: "2-digit", day: "numeric", month: "short"
+        })
+      : "";
+    if (stale) {
+      built.appendChild(document.createTextNode("  "));
+      built.appendChild(el("span", "offline-flag", "offline copy"));
+    }
+
+    elNotice.hidden = true;
+    renderFilters();
+    renderStories();
+  }
+
+  // ---------- loading ----------
+
+  function getJSON(path) {
+    return fetch(path, { cache: "no-cache" }).then(function (r) {
+      if (!r.ok) throw new Error(path + " returned " + r.status);
+      return r.json();
+    });
+  }
+
+  function loadDay(date, stale) {
+    return getJSON("data/" + date + ".json").then(function (brief) {
+      activeSector = "All";
+      renderBrief(brief, stale);
+      elArchive.value = date;
+    });
+  }
+
+  function fillArchive(dates) {
+    elArchive.innerHTML = "";
+    dates.slice(0, 60).forEach(function (date) {
+      var option = el("option", null, date);
+      option.value = date;
+      elArchive.appendChild(option);
+    });
+    elArchive.hidden = dates.length < 2;
+  }
+
+  getJSON("data/index.json")
+    .then(function (index) {
+      if (!index.dates || !index.dates.length) throw new Error("no briefs yet");
+      fillArchive(index.dates);
+      return loadDay(index.latest || index.dates[0], false);
+    })
+    .catch(function (err) {
+      showNotice(
+        "No brief to show yet",
+        "The reader could not load data/index.json (" + err.message + "). If you have just " +
+        "set the repo up, run the builder once and commit what it writes:",
+        "python scripts/build_brief.py"
+      );
+      document.getElementById("standfirst").textContent = "Waiting for the first brief";
+    });
+
+  elArchive.addEventListener("change", function () {
+    loadDay(elArchive.value, false).catch(function (err) {
+      showNotice("That day could not be loaded", err.message);
+    });
+  });
+
+  // ---------- theme ----------
+
+  var root = document.documentElement;
+  try {
+    var saved = localStorage.getItem("wire-theme");
+    if (saved === "dark" || saved === "light") root.setAttribute("data-theme", saved);
+  } catch (e) { /* private mode: fall back to the OS theme */ }
+
+  document.getElementById("theme").addEventListener("click", function () {
+    var prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    var current = root.getAttribute("data-theme") || (prefersDark ? "dark" : "light");
+    var next = current === "dark" ? "light" : "dark";
+    root.setAttribute("data-theme", next);
+    try { localStorage.setItem("wire-theme", next); } catch (e) { /* ignore */ }
+  });
+
+  // ---------- offline ----------
+
+  if ("serviceWorker" in navigator && location.protocol !== "file:") {
+    window.addEventListener("load", function () {
+      navigator.serviceWorker.register("sw.js").catch(function () { /* optional */ });
+    });
+  }
+})();
+</script>
+</body>
+</html>

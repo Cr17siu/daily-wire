@@ -1,0 +1,53 @@
+name: Daily brief
+
+on:
+  schedule:
+    # 01:30 UTC = 07:00 IST. GitHub runs scheduled jobs late under load, so
+    # expect this to land somewhere between 07:00 and 07:20 IST.
+    - cron: "30 1 * * *"
+  workflow_dispatch: {}
+
+# Needed so the job can push the brief it just built back into the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-brief
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build today's brief
+        env:
+          # Optional. Set either one in Settings -> Secrets and variables ->
+          # Actions to get the "why it matters" lines. Without a key the brief
+          # still builds, just without them.
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/build_brief.py
+
+      - name: Commit the brief
+        run: |
+          git config user.name "wire-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "Nothing changed today."
+          else
+            git commit -m "brief for $(TZ=Asia/Kolkata date +%F)"
+            git push
+          fi
