@@ -128,6 +128,37 @@ def same_story(a: set[str], b: set[str], threshold: float) -> bool:
     return shared >= floor and similarity(a, b) >= threshold
 
 
+def document_frequency(items: list[dict]) -> dict[str, int]:
+    """How many headlines each token appears in, across the whole morning."""
+    df: dict[str, int] = {}
+    for item in items:
+        for token in item["_tokens"]:
+            df[token] = df.get(token, 0) + 1
+    return df
+
+
+def rare_ceiling(n_items: int) -> int:
+    """The document-frequency cutoff below which a token counts as distinctive.
+
+    It has to sit above the number of outlets that might carry one story —
+    otherwise the very tokens that identify a widely covered story ("NSE",
+    "5.71") would themselves look too common to match on — and well below the
+    frequency of filler that every Indian business headline shares ("India",
+    "crore", "shares", "market"). Five per cent of the corpus, floored at 8,
+    lands between the two on a normal morning.
+    """
+    return max(8, round(0.05 * n_items))
+
+
+def shares_distinctive(a: set[str], b: set[str], df: dict[str, int], ceiling: int) -> bool:
+    """True when the overlap includes at least one genuinely identifying token.
+
+    Two stories sharing only "India" and "crore" are not the same story, however
+    well they score on raw overlap. Two sharing "NSE" or "22,562" are.
+    """
+    return any(df.get(token, 0) <= ceiling for token in (a & b))
+
+
 def entry_time(entry) -> datetime | None:
     for key in ("published_parsed", "updated_parsed"):
         parsed = entry.get(key)
@@ -241,10 +272,15 @@ MAX_CLUSTER = 6
 
 def cluster(items: list[dict], threshold: float = 0.4) -> list[dict]:
     """Merge headlines about the same story. Cluster size = how many outlets ran it."""
+    df = document_frequency(items)
+    ceiling = rare_ceiling(len(items))
+
     clusters: list[dict] = []
     for item in sorted(items, key=lambda i: (-i["weight"], i["_at"])):
         for group in clusters:
             if len(group["members"]) >= MAX_CLUSTER:
+                continue
+            if not shares_distinctive(item["_tokens"], group["_tokens"], df, ceiling):
                 continue
             # Compare against the cluster's FIRST headline, never an accumulated
             # union of every member's tokens. Unioning makes the set grow with

@@ -110,9 +110,26 @@ def bulk_items():
             verb = VERBS[(i * 5 + j) % len(VERBS)]
             obj = OBJECTS[(i * 7 + j * 3) % len(OBJECTS)]
             qual = QUALIFIERS[(i * 11 + j * 5) % len(QUALIFIERS)]
-            out.append(f"{company} {verb} {obj} {qual}, sources say {900 + n}")
+            # The trailing clause repeats the vocabulary real Indian business
+            # headlines repeat, so the rarity counter sees those words at a
+            # realistic frequency. Without it the corpus is unrealistically
+            # varied and every word looks distinctive.
+            out.append(
+                f"{company} {verb} {obj} {qual}, shares rise 4 per cent "
+                f"in India on crore inflows, sources say {900 + n}"
+            )
             n += 1
     return out
+
+
+# Different stories that happen to share the filler vocabulary every Indian
+# business headline uses — shares, rise, India, crore, per cent. Raw word
+# overlap says these match; nothing identifying is shared, so they must not.
+COMMON_VOCAB = [
+    "Tata Power shares rise 4 per cent as India adds solar capacity",
+    "Bajaj Auto shares rise 4 per cent as India exports climb",
+    "Vedanta shares rise 4 per cent as India demand improves",
+]
 
 
 def item(title, source, weight=2, hours=3):
@@ -133,6 +150,7 @@ def main() -> int:
     items = [item(t, f"Outlet {i}") for i, t in enumerate(DISTINCT)]
     items += [item(t, src) for t, src in DUPLICATES]
     items += [item(t, f"Wire {i % 40}", hours=(i % 20) + 1) for i, t in enumerate(bulk_items())]
+    items += [item(t, f"Common {i}") for i, t in enumerate(COMMON_VOCAB)]
 
     groups = cluster(items)
     sizes = sorted((len(g["members"]) for g in groups), reverse=True)
@@ -174,7 +192,16 @@ def main() -> int:
                 + ("\n    " + "\n    ".join(m["title"] for m in g["members"]) if g else "")
             )
 
-    # 3. The 25 distinct stories stay distinct.
+    # 3. Shared filler vocabulary is not evidence of a shared story.
+    for g in groups:
+        common = [m for m in g["members"] if m["title"] in COMMON_VOCAB]
+        if len(common) > 1:
+            failures.append(
+                "merged on common vocabulary alone:\n    "
+                + "\n    ".join(m["title"] for m in common)
+            )
+
+    # 4. The 25 distinct stories stay distinct.
     merged_distinct = [
         g for g in groups
         if len(g["members"]) > 1 and all(m["title"] in DISTINCT for m in g["members"])

@@ -139,8 +139,16 @@ outrank a story only one outlet bothered with.
    so a big cluster becomes a magnet that swallows anything sharing three
    common words. `MAX_CLUSTER` caps membership at 6 as a backstop — a real
    story runs on a handful of wires, not dozens.
-3. **Rank** on `coverage × 2 + feed weight + freshness × 2`.
-4. **Select** — one lead per sector so the first screen isn't four versions of
+3. **Require a distinctive shared token.** Overlap alone is not enough: every
+   Indian business headline shares *India*, *crore*, *shares*, *per cent*. Each
+   token is scored by how many of the morning's headlines contain it, and a
+   merge needs at least one shared token below that frequency cutoff — a
+   company, a figure, a specific event. Two stories sharing only filler stay
+   apart; two sharing "NSE" and "5.71" combine. The cutoff sits above the
+   number of outlets that might carry one story, so the tokens identifying a
+   widely covered story don't themselves look too common to match on.
+4. **Rank** on `coverage × 2 + feed weight + freshness × 2`.
+5. **Select** — one lead per sector so the first screen isn't four versions of
    the same sector, then the rest under a per-sector cap.
 
 The number of outlets that ran a story is shown on the card as a *wires* badge.
@@ -188,6 +196,7 @@ data/index.json               list of available days
 index.html                    the reader
 manifest.json  sw.js  icons/  the installable-app bits
 tests/make_fixtures.py        offline sample feeds
+tests/test_clustering.py      regression test for story merging
 ```
 
 ## Cost
