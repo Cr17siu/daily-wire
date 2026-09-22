@@ -1,7 +1,7 @@
 {
   "date": "2026-09-22",
   "dateLabel": "Tuesday, 22 September 2026",
-  "builtAt": "2026-09-22T20:22:17.551734+05:30",
+  "builtAt": "2026-09-22T20:32:16.823380+05:30",
   "standfirst": "45 stories across 10 sectors · 45 running on more than one wire",
   "sectors": [
     "Auto",
@@ -25,10 +25,10 @@
       "why": "",
       "source": "ET Markets",
       "also": [
+        "CNBC TV18",
         "Moneycontrol.com",
-        "The Economic Times",
-        "TradingView",
-        "business-standard.com"
+        "NDTV Profit",
+        "The Economic Times"
       ],
       "coverage": 6,
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sunil-singhania-led-abakkus-asset-manager-files-drhp-with-sebi-for-ipo/articleshow/134410183.cms",
@@ -39,14 +39,14 @@
       "lead": true,
       "sector": "Deals & IPOs",
       "title": "NSE IPO subscribed nearly 6 times; attracts nearly Rs 90,300 crore of demand",
-      "dek": "NSE IPO subscribed nearly 6 times; attracts nearly Rs 90,300 crore of demand Press Trust of India",
+      "dek": "NSE IPO subscribed nearly 6 times; attracts nearly Rs 90,300 crore of demand ptinews.com",
       "why": "",
-      "source": "Press Trust of India",
+      "source": "ptinews.com",
       "also": [
+        "Bloomberg.com",
         "Entrackr",
         "Firstpost",
-        "IndiaIPO",
-        "TradingView"
+        "IndiaIPO"
       ],
       "coverage": 6,
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdlQ5QUdzZk1mQWw2ZGNWeDlsU0wtYTRJOUZvbXRITkxPMUVnUlZ4T3Fac3ZWU0x4aW9lNVNYWEJEVGdkb251c3Y4b29DdHYxTjVMMUlNYVkydHJjckg2MWRDRWdjNDFocXpZaV9kYUVsc2wxNFlRWURDclVKQkVWUks2cGVYeElLTU84QTJ3dE1yclV4dUlXV3ZLVVBaZGlNNWNKeXdVT0ZpM19RSjVBN0xiRU8zTS1jdUdQTV9xaDY1UQ?oc=5",
@@ -62,9 +62,9 @@
       "source": "ET Tech",
       "also": [
         "BusinessLine",
-        "CXO Digitalpulse",
         "Deccan Chronicle",
-        "Reuters"
+        "ETV Bharat",
+        "StratNews Global"
       ],
       "coverage": 6,
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibaba-plans-ai-model-with-5-trillion-to-10-trillion-parameters-unveils-new-chip/articleshow/134401408.cms",
@@ -81,7 +81,7 @@
       "also": [
         "AD HOC NEWS",
         "ET Consumer",
-        "The Economic Times",
+        "NDTV Profit",
         "TradingView"
       ],
       "coverage": 6,
@@ -115,10 +115,10 @@
       "why": "",
       "source": "ET Markets",
       "also": [
+        "Business Standard",
         "Fortune India",
         "Moneycontrol.com",
-        "Rediff MoneyWiz",
-        "business-standard.com"
+        "Rediff MoneyWiz"
       ],
       "coverage": 6,
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/softbank-backed-acevectors-rs-420-cr-ipo-to-open-on-sep-25-sets-price-band-at-rs-30-32/share/articleshow/134403031.cms",
@@ -133,9 +133,9 @@
       "why": "",
       "source": "The Economic Times",
       "also": [
+        "Business Standard",
         "Business Today",
         "IndiaIPO",
-        "Pluang",
         "TradingView"
       ],
       "coverage": 6,
@@ -147,14 +147,14 @@
       "lead": false,
       "sector": "Auto",
       "title": "Car Sales Gain Fresh Momentum Under GST 2.0, Maruti Suzuki Fast-Tracks Expansion And Capacity Investments",
-      "dek": "Car Sales Gain Fresh Momentum Under GST 2.0, Maruti Suzuki Fast-Tracks Expansion And Capacity Investments Free Press Journal",
+      "dek": "Car Sales Gain Fresh Momentum Under GST 2.0, Maruti Suzuki Fast-Tracks Expansion And Capacity Investments freepressjournal.in",
       "why": "",
-      "source": "Free Press Journal",
+      "source": "freepressjournal.in",
       "also": [
+        "Business Standard",
         "CarWale",
-        "Daily Pioneer",
-        "The Statesman",
-        "business-standard.com"
+        "NDTV Profit",
+        "The Statesman"
       ],
       "coverage": 6,
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdGJPbktzYkp4U0U4V3dCV0JVeG41ZFpTTS14LXZ3UjBPQTZyenJuY2pOZmtLS2hlZ1hhQUozTGgyRkFHaGZmX3Y2Q3hTQjN3MUNkVHY0MTgtaVZEN2t6ckZMbmFzRXJBQ1lMNnI0NFVHbkhIc0R4d2tkS29ubmo5clhhNjlnQ1JNUWpTenZiZzI0ZXlvYWNIUWQxQV9aN2xSU2dCbjdQTFBJUDJMZmVwbXR5M3JsZGh1OGNaaWdfV196a0liSTZHeWxLV3QtNVpCQUFhS3owWm1yWUNKaFgtTmJn0gHiAUFVX3lxTE10Yk9uS3NiSnhTRThXd0JXQlV4bjVkWlNNLXgtdndSME9BNnJ6cm5jak5ma0tLaGVnWGFBSjNMaDJGQUdoZmZfdjZDeFNCM3cxQ2RUdjQxOC1pVkQ3a3pyRkxuYXNFckFDWUw2cjQ0VUduSEhzRHh3a2RLb25uajlyWGE2OWdDUk1RalN6dmJnMjRleW9hY0hRZDFBX1o3bFJTZ0JuN1BMUElQMkxmZXBtdHkzcmxkaHU4Y1ppZ19XX3prSWJJNkd5bEtXdC01WkJBQWFLejBabXJZQ0poWC1OYmc?oc=5",
@@ -169,8 +169,8 @@
       "why": "",
       "source": "ET Tech",
       "also": [
+        "CNBC",
         "ET Enterprise AI",
-        "Inshorts",
         "Techzine Global",
         "The Indian Express"
       ],
@@ -190,29 +190,65 @@
         "Business Recorder",
         "IndiaIPO",
         "The Tribune",
-        "indiagazette.com"
+        "ddindia.co.in"
       ],
       "coverage": 6,
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQ0xrUnh1RWtjUUUzZ0pyOXg1LUhVdk5heTBGbVdva1lUbWV1QWtTX2hwVjBfRk9scjRFUGlnV1RyQWlFQ09TcW5ZLWYwWFRMQW1GWkpXaXNOMGZISklfYkJKRG9tdEs5blF6ajNFekF1aGJ5c0tLZTJjTHVOM1NIcloxRUtGQ2RRYlVNTTNjT3RpdS1XZG9QM3RiUERlbXN5cC1ZTVNXaDE3UldCVnVmRFBNc3E0OXpmV3BzbUZIWmlVOU1DWVpqemI0ZkdPeEpWeHhfTXJsczhkTG9RZWpRblF3RlZQQTFiLWo1TnktV25RQkZMdS01M3VEcUtjWE8takhN0gGIAkFVX3lxTE5ISGs2Q19YaHVtSGhrZGVWb0hBYUlVV2JRYXljVnBxYnY0Z0JnNVNBN0xQQTR4X2c1dmw2UXNQNTZ2Mng5M0lmMW16dzJLMm4xTzNBTWxCZVRQcVEwN1dDU2xXSTYwaVdwRUFfWDhWVE12a0hTeHFRa0RSbUZWMS1fdzhWNXdNRGZrREZ5TTNYNDBmdWpjdURtTGN4Z1RuMHJ6Nk44NWtSUTZaUGduUDI2VExzc0hGZEhJNkstWFJqblFpYjNkY1pQY0JRcjlHMFgwdDh5b0xRQi14ZnB3UkNIcjBfWGZHM0c2QlNUdU1qdjdBUjZYSjVyNVEtRl80UG8xZU9IV0EzUA?oc=5",
       "published": "2026-09-22T03:50:00+00:00"
     },
     {
-      "id": "us-stocks-us-market-ends-sharply-higher-as-ai-optimism-reign",
+      "id": "rbi-amends-valuation-rules-for-invit-reit-units-held-by-all",
       "lead": false,
       "sector": "Macro",
-      "title": "US stocks: US market ends sharply higher as AI optimism reignites and Treasury yields retreat",
-      "dek": "US stocks: US market ends sharply higher as AI optimism reignites and Treasury yields retreat The Economic Times",
+      "title": "RBI amends valuation rules for InvIT, REIT units held by all-India financial institutions",
+      "dek": "The RBI has amended valuation norms for InvIT and REIT units held by all-India financial institutions, introducing separate provisions for quoted and unquoted units.",
       "why": "",
-      "source": "The Economic Times",
+      "source": "ET Economy",
       "also": [
-        "CryptoRank",
-        "Reuters",
-        "The Lufkin Daily News",
-        "TradingView"
+        "BW Businessworld",
+        "ET Consumer",
+        "The Economic Times",
+        "economictimes.indiatimes.com"
+      ],
+      "coverage": 5,
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-amends-valuation-rules-for-invit-reit-units-held-by-all-india-financial-institutions/articleshow/134413607.cms",
+      "published": "2026-09-22T13:21:05+00:00"
+    },
+    {
+      "id": "auburn-engineering-climbs-three-spots-in-latest-u-s-news-and",
+      "lead": false,
+      "sector": "India & World",
+      "title": "Auburn Engineering climbs three spots in latest U.S. News and World Report Best Undergraduate Engineering Programs rankings",
+      "dek": "Auburn Engineering climbs three spots in latest U.S. News and World Report Best Undergraduate Engineering Programs rankings Auburn University",
+      "why": "",
+      "source": "Auburn University",
+      "also": [
+        "Texas Christian University",
+        "augie.edu",
+        "depauw.edu",
+        "magazine.holycross.edu"
       ],
       "coverage": 6,
-      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQekNqbTNPX3RneWRiUy1kSWtsa1hTUmFIa1FEZUdEYUNQVTBqZDk4VlRrRmxaTWpHajB0ZHBiVjIxcndkUmQ2djBjY0MtVHBJdlZUeE1sT2hhbV8yRmVRVmlsZWVpZDhrTUVpSXQxRlpJbDAwNkZkelZoUFVHa3NjaldQbmdOQWo4bDdXdWNTMjBIUHR0WWxaVVVOT3FHZzlTWkVqQXNWMUprM2dPNVpXcEtVSFpTS0hhb3BVU082YWMwTFN0dHh0c2NxSERQUWtZajZJa2ZEc1paOTJMS3p6ZTJnZHJWczhTUW1wLVp3VmNiRnh6elh6ZklrMk1YU1hrdUlYbnd2aWZYV3RSS3UzcHlGSjk3VndJdjVoc2lHQXo0VmFLLXhlRi1TUlBvVnpYcnFDS1pjdGdSRnI3c0FpWENkQVlIcnNfMTVRaUxHZVlCWkRUUW92WWpvUnNPd3ZoLWVXU0p1c9IBgwJBVV95cUxPUUNEYkl3RzhENnBJdWM4c28xREtTWVp1WXFvQ2ZWUUN1UFZ6eEVmTS1mamRFdlBRZllQUnpzYVpkaDlScUE5NHdiMXoxWWJjcGZIbHRLN0t2THBwck5yUU91cXowc0t5STI1b2lUUGthWFA3ZjlrbkZfQ2h5SFdpclVyYjVpcUJWenJFaHlNNTN0TjA1NS02NDRNdE1tYmlEOEtOSTU5Y2E2QUhtRkpLYS13N01XeXVYM1lKMHZsQjlqLXR2aUxCXzYtaklnZnNOSGptTTZtTlI4eTJwSlN1Sjd1LTBSLUVaMXJxVFI2QWRTMHZaZjlZdDJDUGwzMHJZOEhv?oc=5",
-      "published": "2026-09-21T20:14:34+00:00"
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNllmVEVvYUNWMXRxZTFPTlRobGg4c2I0d1N6bTdYR3NjRGdPWW13ZWZuVXRGZWszY3Q0SWhhMXM3akkydVRHeERELWhCcVdQZ1NIQ1ZYZ1dDNVR2M3Z1VWY4Q3c5SllaVGlIZTNzNmsxUVU2bDMxWVV3SE5nNmJYOFQtV1Y3dUp4c0R4VlhuaEJDV0V2RXY1R2pNR0lja21ERU1sUDcwNDJIVW1ndzcxcGFVUWZWR2lBdk9nNnI5Yw?oc=5",
+      "published": "2026-09-22T13:11:24+00:00"
+    },
+    {
+      "id": "jmu-rises-to-no-67-among-public-universities-in-2027-u-s-new",
+      "lead": false,
+      "sector": "India & World",
+      "title": "JMU rises to No. 67 among public universities in 2027 U.S. News & World Report Best Colleges rankings",
+      "dek": "JMU rises to No. 67 among public universities in 2027 U.S. News & World Report Best Colleges rankings James Madison University",
+      "why": "",
+      "source": "James Madison University",
+      "also": [
+        "Chico State Today",
+        "University of Pittsburgh",
+        "case.edu",
+        "news.luc.edu"
+      ],
+      "coverage": 6,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNFJ2X3h6bFRselBncFdaMkQxYUJ5MWFweGNkdk1nM3ZEZzdfMWlFUEgzZXhXZTBMa3YwY0RmVGFBTDNTRy1KTU5qYS1QOUpHem1pT0JXM1lSWTZCZVdqbEJOMmlGc2hPU0hwZUM5SHoyMXNfUjhOSUV0TmhuZlBaRA?oc=5",
+      "published": "2026-09-22T10:04:05+00:00"
     },
     {
       "id": "rbi-bond-sales-fx-intervention-help-halve-india-s-cash-overh",
@@ -226,7 +262,7 @@
         "CNBC TV18",
         "IndiaIPO",
         "Reuters",
-        "The Economic Times"
+        "economictimes.indiatimes.com"
       ],
       "coverage": 5,
       "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-bond-sales-fx-intervention-help-halve-indias-cash-overhang/articleshow/134408593.cms",
@@ -242,49 +278,13 @@
       "source": "ET Markets",
       "also": [
         "CNA",
-        "INDIA New England News",
         "Wilson Asset Management",
+        "indiagazette.com",
         "marketscreener.com"
       ],
       "coverage": 5,
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-rise-as-oil-prices-rebound-above-100/articleshow/134407409.cms",
       "published": "2026-09-22T08:39:45+00:00"
-    },
-    {
-      "id": "nse-ipo-allotment-today-how-to-check-status-on-bse-and-mufg",
-      "lead": false,
-      "sector": "Markets",
-      "title": "NSE IPO allotment today: How to check status on BSE and MUFG Intime? GMP hints at 4% listing gains",
-      "dek": "NSE IPO allotment: The Rs 22,562-crore NSE IPO, which was subscribed 5.71 times overall, is likely to finalise share allotment today.",
-      "why": "",
-      "source": "ET Markets",
-      "also": [
-        "Fortune India",
-        "India Infoline",
-        "The Economic Times",
-        "ndtvprofit.com"
-      ],
-      "coverage": 5,
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-allotment-today-how-to-check-status-on-bse-and-mufg-intime-gmp-hints-at-4-listing-gains/articleshow/134407016.cms",
-      "published": "2026-09-22T08:33:38+00:00"
-    },
-    {
-      "id": "jindal-supreme-ipo-allotment-status-check-online-steps-gmp-l",
-      "lead": false,
-      "sector": "Deals & IPOs",
-      "title": "Jindal Supreme IPO Allotment Status Check Online: Steps, GMP, Listing Date and Key Details",
-      "dek": "Jindal Supreme IPO Allotment Status Check Online: Steps, GMP, Listing Date and Key Details India Infoline",
-      "why": "",
-      "source": "India Infoline",
-      "also": [
-        "HDFC Sky",
-        "IPO Watch",
-        "Moneycontrol.com",
-        "business-standard.com"
-      ],
-      "coverage": 5,
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQnlRR3Y2amNqQk5rb2czMnFCcFp1LXpSN0pzQk5rMDJKSVdqVmJfTThWeThTYkdGOWI4UGprLW1xVHVrdi03Q3NKUGlKUnROT3JfYWRYVHMtOUhSS1ZodmFYbXpVVzE4YXhHX1V3cWZKNWdRZl9aNmh4ckZ2THNOVXA1eDBITThjZmxsYUxOazBuampHZlpNcWJhbTJtUjFRSFlOYnNnTmxYQXFGMFJvZEgydTFmdkllMTJ5MHBBQ052R3FD?oc=5",
-      "published": "2026-09-22T05:57:41+00:00"
     },
     {
       "id": "snapdeal-parent-acevector-to-launch-ipo-on-september-25-seek",
@@ -295,32 +295,32 @@
       "why": "",
       "source": "ET Tech",
       "also": [
+        "Business Standard",
         "Fortune India",
         "Reuters",
-        "TradingView",
-        "business-standard.com"
+        "TradingView"
       ],
       "coverage": 5,
       "url": "https://economictimes.indiatimes.com/tech/technology/snapdeal-parent-acevector-to-launch-ipo-on-september-25-seeks-rs-1741-crore-valuation/articleshow/134403541.cms",
       "published": "2026-09-22T05:43:17+00:00"
     },
     {
-      "id": "sonaselection-india-allotment-status-today-how-to-check-on-b",
+      "id": "nse-ipo-allotment-today-gmp-at-4-check-status-on-bse-nse-and",
       "lead": false,
       "sector": "Deals & IPOs",
-      "title": "Sonaselection India Allotment Status Today: How To Check On BSE, NSE And Kfin Technologies",
-      "dek": "Sonaselection India Allotment Status Today: How To Check On BSE, NSE And Kfin Technologies ndtvprofit.com",
+      "title": "NSE IPO allotment today; GMP at 4% — check status on BSE, NSE and registrar",
+      "dek": "NSE IPO allotment today; GMP at 4% — check status on BSE, NSE and registrar Moneycontrol.com",
       "why": "",
-      "source": "ndtvprofit.com",
+      "source": "Moneycontrol.com",
       "also": [
         "Groww",
-        "HDFC Sky",
         "India Today",
-        "Moneycontrol.com"
+        "NDTV Profit",
+        "hdfcsky.com"
       ],
       "coverage": 5,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS2MyWlhCd211ZE1mazNqLXZ3VFAwbjZpdXJja1dMeUFlSnlGa0JxUjJ5UkJvU2dyOTg4aUtlWFp4VmZfeDNXeHhrN2ZuV0M4bWc4OVcyZjRsdDlZTzRjRzNSSDRJSi05eC1hLS04clljSGdIWVpOT1g1RUtYV2xBemhqeHdfVG1qTk5xNGk2bVQzWkROSDM3UmhLcVVKWi1jYWtwbXBVMmlJZWZDN1B0d25GeXJmc3dLblIxdmZ4V1BRYUhDa2xVc19rTHrSAdQBQVVfeXFMUE1QT1ZfbG5xUi1oWFRaazFqNVF4U1VCeHhlVjhEdjF6UXVidy10d0hDbkhfTFNGWHhRdnVSZHc5eVpTRTQwcldPT0k1dEthMnM0STNjYklJSzA1a0p3OUgzNlNfd095MWdKaWlMT2lRbXpXUGtFdmJEeVhvdlhBWC1HQ29QRGZWNS1fWWd0WDNLY2xBVVBNVzJUMWI3SUxqdGtoRDY1TWdycjNWLUVnZDBSMENvN3pqcExYQ2lCRllXbWR0dzNpVVMxNUF5Vy1kdzVvUVo?oc=5",
-      "published": "2026-09-22T03:30:52+00:00"
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPckpfQXNOMHhxdVhyaHNKQlJZeExOZm9zMkRYemtCWTdDcGNabkI0RHlEVVNUNjNrM0FTTDJKaVV4ZlVtcnpvN05ydk1yU3o2Zkl3Ty1VeHpfQ3pNbXcyLTdFTkFwQm91Vl9JaW1RODJDM1dfX1R5SjQzY3ZOM0d3Vm1fSTlBTWNraFBFWDZzSDZIdXRTTmc4RW1pNFd4MTA0SmxPWXh1XzY5ZFJPUTc1V3ZrUm1ZZnFZSHNLWDYwNlhKMmNTb0U0U19ESktPVk1OOXNYUS1PWnVpV3BDbTQ5Q3plY1d1cElVdnZ1V3JSMWNXVldULXRDSmxyLTJHbjMtem1jZUNmeFNtZVZtb25KZzlpZjdOdS1DdXIteTJTV0hJWXU2Y3FZ0gGnAkFVX3lxTE9ySl9Bc04weHF1WHJoc0pCUll4TE5mb3MyRFh6a0JZN0NwY1puQjREeURVU1Q2M2szQVNMMkppVXhmVW1yem83TnJ2TXJTejZmSXdPLVV4el9Dek1tdzItN0VOQXBCb3VWX0lpbVE4MkMzV19fVHlKNDNjdk4zR3dWbV9JOUFNY2toUEVYNnNINkh1dFNOZzhFbWk0V3gxMDRKbE9ZeHVfNjlkUk9RNzVXdmtSbVlmcVlIc0tYNjA2WEoyY1NvRTRTX0RKS09WTU45c1hRLU9adWlXcENtNDlDemVjV3VwSVV2dnVXclIxY1dWV1QtdENKbHItMkduMy16bWNlQ2Z4U21lVm1vbkpnOWlmN051LUN1ci15MlNXSElZdTZjcVk?oc=5",
+      "published": "2026-09-22T04:07:58+00:00"
     },
     {
       "id": "british-columbia-sues-openai-over-tumbler-ridge-school-shoot",
@@ -331,10 +331,10 @@
       "why": "",
       "source": "ET Tech",
       "also": [
+        "Al Jazeera",
         "Anadolu Ajansı",
         "Livemint",
-        "aljazeera.com",
-        "theguardian.com"
+        "The Guardian"
       ],
       "coverage": 5,
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/british-columbia-sues-openai-over-tumbler-ridge-school-shooting/articleshow/134401259.cms",
@@ -352,7 +352,7 @@
         "BW Businessworld",
         "Daily Excelsior",
         "ET Government",
-        "newsonair.gov.in"
+        "News On AIR"
       ],
       "coverage": 5,
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeUJWNmNKbEV6WEpPVDc1UXpUZlhnMjdzSlVHYzc3VGw0WWJjYVFqdWd6MDd3Qjk5UVZRSWVtdXlkUlA0STgzVUpfUVY5U0RUM0kyeGN5TnNrXzIwX1pSU0U1M3BpdUk0MXY2MFdaeHhjVHRZZ0hDcmlzYmpmdEM3SW56QUd6T2ZLcnhZMnJoR0hSY29jX25XdEx5U0pDN1pYME9ZMnF3WG9uc1hzUXNRWXJaSThtR3hyTjNYdXZLTjVwSDJGU0JSYTlhQ1hsNTA4N1MwNDhjWFJ5ZUZ0Z0HSAeMBQVVfeXFMTzJJejFWT0J0MmVLVlJoQi1CMEZpM1lKVl9aYzFkQzc5djk2SVJSVDV2WjZ3Mk0wN0Y0NEtWSDBRSjdUZDVYWFZLRXlOZFREemR0VXdteVVIOUJBa3BNMG9zOEhHTWFOQjg3dkpzVjRRNG1BVWROSXFUNXEyRl9pN29vZlZfbFQyX2tyYmw4ZksyTmFQd3d0ZmhaVW9abF95U0M0RWpweGI0b212Tmx4eDR2VkFfTDFZSWlUZGVvY2dhTS1WWXlCRWExNndTMElxSTBmTXVBVnVIaWdBN0poa2ZSdHc?oc=5",
@@ -367,9 +367,9 @@
       "why": "",
       "source": "qz.com",
       "also": [
+        "Bloomberg.com",
         "Investing.com",
         "Investing.com India",
-        "bloomberg.com",
         "finance.biggo.com"
       ],
       "coverage": 5,
@@ -377,22 +377,22 @@
       "published": "2026-09-22T13:51:43+00:00"
     },
     {
-      "id": "openai-says-its-internal-model-solved-over-100-long-standing",
+      "id": "rising-treasury-yields-are-wreaking-havoc-on-the-bond-market",
       "lead": false,
-      "sector": "IT & AI",
-      "title": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
-      "dek": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training the-decoder.com",
+      "sector": "Macro",
+      "title": "Rising Treasury Yields Are Wreaking Havoc on the Bond Market. Here's How It Could Affect Stock Investors.",
+      "dek": "Rising Treasury Yields Are Wreaking Havoc on the Bond Market. Here's How It Could Affect Stock Investors. The Globe and Mail",
       "why": "",
-      "source": "the-decoder.com",
+      "source": "The Globe and Mail",
       "also": [
-        "India Today",
-        "Moneycontrol.com",
-        "analyticsindiamag.com",
-        "business-standard.com"
+        "ETF.com",
+        "Morningstar Australia",
+        "The New York Times",
+        "Yahoo Finance"
       ],
       "coverage": 5,
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQk83MlBwdmtHWVV6MTN4X0d6cWZTaENwQUdBSFpGMFVJR2xpNHgyRW9NNHBsekoxM01xUXNYTmVMQXpVZUFuaGtEaWg1TnNYTENEeHZnb0lLU3BtZEFoX0QydUlHTllweWJsVkpSSE5qaThzQUNKZHh6LUFZN2xLaXp5WjR0bVRlc0wtS3l6Y1hrMmFYbTV0ODRNam15UDB0R2FESE1WOFl4elFYQjl1SzQ1ZGNEbHRIbVJFUHhMSl8yckJqckFwTDB3?oc=5",
-      "published": "2026-09-22T11:22:57+00:00"
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPNXFWeHNBRzh3WXE2bERfdUtTRU9kZW44eDZTY1J1dHNLekkzNmhBRFo4OVo2RUJUSzQtMWVveEhSdnNkMTNjdDVWdTROaHJTaFJrbzhYNzZrUmw0ZmJqX2VkVTIyY1M1V1MyRkgxU3RyZ2NTQ0g0UVBKd2VzNWt6dU9fT0V2M29WMEU0Y1FVaDJUeFE2WE5wSGhVTW1NZzZoYWlaWWs4Z3Y5ZVZEU0NjVDFObUhjaldMV1U5WWNVUy1GWG01WFV0YjNMUmlEc1F1Q0pvWWhaOWtPNFNuN2VKWVZsMzhJeE9vOGV3MHdYXzZ5WTJ5dUhubXNubEFrc3JOY280Z0dCTUtCN0NoNE9pWVR2UnR2bGla?oc=5",
+      "published": "2026-09-22T10:11:02+00:00"
     },
     {
       "id": "definedge-raises-rs-22-crore-in-pre-series-a-round-to-scale",
@@ -405,8 +405,8 @@
       "also": [
         "BW Disrupt",
         "Dailyhunt",
-        "Punekar News",
-        "indianstartupnews.com"
+        "Indian Startup News",
+        "Punekar News"
       ],
       "coverage": 5,
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQanNJampjQ1ZtRXhYcDBCS3E3RXZ3aDRXcnVVaGZ1YVVpYzJpd0hYcjdRa1J3NE9qVHJfQzFheUQ4NDlzbGQxdk9USUdhV180cHgzWHhxbXYtRXZYNXNDVjdBTDBFZVVMYXozVTdvYkRfR0kxaDVseU83VmJWeHBtenVzeGJqZkQzcnBiRzVVY2pPV2tSTU1nUmpTSGphMHVnOVZaYlJoOVd3T19YSVpGMVpQODh5WU1aV0lLN0lNZG9fd3plZGNJ?oc=5",
@@ -431,42 +431,6 @@
       "published": "2026-09-22T01:04:00+00:00"
     },
     {
-      "id": "inflation-the-iran-war-a-hawkish-fed-soaring-bond-yields-and",
-      "lead": false,
-      "sector": "Macro",
-      "title": "Inflation. The Iran War. A Hawkish Fed. Soaring Bond Yields. And Concerns About Artificial Intelligence. The Stock Market Faces Many Hurdles, But Only 1 Metric Truly Matters Right Now",
-      "dek": "Inflation. The Iran War. A Hawkish Fed. Soaring Bond Yields. And Concerns About Artificial Intelligence. The Stock Market Faces Many Hurdles, But Only 1 Metric Truly Matters Right Now fool.com",
-      "why": "",
-      "source": "fool.com",
-      "also": [
-        "ETF.com",
-        "Reuters",
-        "The New York Times",
-        "roger montgomery"
-      ],
-      "coverage": 5,
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTEJ2bHo5ZzNxOWtDc2pnMVh2YllPeGFCTVlSXzQtOTgxOFg1UTlnVEhKeG9jWFYwQkxaSDctTk1ZOHlvenZ5LWg0QXFYcm04N3duTVlhNzBFODUtb2tBSkVzdlZyUElsT1RzVklJRXBrN0VRSDljUGFzWTY2V200OVg1ajNDMmtqWVA0ZHdIT0RVNkx6QTdn?oc=5",
-      "published": "2026-09-21T22:15:00+00:00"
-    },
-    {
-      "id": "auburn-engineering-climbs-three-spots-in-latest-u-s-news-and",
-      "lead": false,
-      "sector": "India & World",
-      "title": "Auburn Engineering climbs three spots in latest U.S. News and World Report Best Undergraduate Engineering Programs rankings",
-      "dek": "Auburn Engineering climbs three spots in latest U.S. News and World Report Best Undergraduate Engineering Programs rankings Auburn University",
-      "why": "",
-      "source": "Auburn University",
-      "also": [
-        "augie.edu",
-        "depauw.edu",
-        "magazine.holycross.edu",
-        "salve.edu"
-      ],
-      "coverage": 5,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNllmVEVvYUNWMXRxZTFPTlRobGg4c2I0d1N6bTdYR3NjRGdPWW13ZWZuVXRGZWszY3Q0SWhhMXM3akkydVRHeERELWhCcVdQZ1NIQ1ZYZ1dDNVR2M3Z1VWY4Q3c5SllaVGlIZTNzNmsxUVU2bDMxWVV3SE5nNmJYOFQtV1Y3dUp4c0R4VlhuaEJDV0V2RXY1R2pNR0lja21ERU1sUDcwNDJIVW1ndzcxcGFVUWZWR2lBdk9nNnI5Yw?oc=5",
-      "published": "2026-09-22T13:11:24+00:00"
-    },
-    {
       "id": "us-stock-market-today-nasdaq-hits-another-record-high-as-tec",
       "lead": false,
       "sector": "Markets",
@@ -484,40 +448,39 @@
       "published": "2026-09-22T11:31:46+00:00"
     },
     {
-      "id": "wall-street-ends-sharply-higher-as-ai-optimism-reignites-and",
+      "id": "us-stocks-us-market-ends-sharply-higher-as-ai-optimism-reign",
       "lead": false,
       "sector": "Macro",
-      "title": "Wall Street ends sharply higher as AI optimism reignites and Treasury yields retreat",
-      "dek": "Wall Street ends sharply higher as AI optimism reignites and Treasury yields retreat TradingView",
+      "title": "US stocks: US market ends sharply higher as AI optimism reignites and Treasury yields retreat",
+      "dek": "US stocks: US market ends sharply higher as AI optimism reignites and Treasury yields retreat economictimes.indiatimes.com",
       "why": "",
-      "source": "TradingView",
+      "source": "economictimes.indiatimes.com",
       "also": [
-        "Devdiscourse",
         "Livemint",
         "Moomoo",
+        "TradingView",
         "WSJ"
       ],
       "coverage": 5,
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNU5LMjhRUWtSVU0xYWFoby1LRDN6ckpmYlN6THJnNGVzS0RvdGxZT1ByUFh5Xy1OTEtGNFZnbllvZGFDVW1NTHVlUE8tNy1pZE9XVlFKV1lIdUFnREhvR1dFYkR6dTJUdHhkV2NkMDRhSklVS0VuenZxWk9TdUwxd1V0WEVvbWNWRlRLcU93UW1HblBRczVjbWZGOXJuOVBFd1NQb3ZvNUhiaFVkeHFHOHBIc2kxbUJIWENVc3hXR0ZETGplT21WYXlrdktQM2JtazlPcTZhN3kxN2EzMFZLYWFBNHh1VzRYMHc?oc=5",
-      "published": "2026-09-21T20:00:35+00:00"
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQekNqbTNPX3RneWRiUy1kSWtsa1hTUmFIa1FEZUdEYUNQVTBqZDk4VlRrRmxaTWpHajB0ZHBiVjIxcndkUmQ2djBjY0MtVHBJdlZUeE1sT2hhbV8yRmVRVmlsZWVpZDhrTUVpSXQxRlpJbDAwNkZkelZoUFVHa3NjaldQbmdOQWo4bDdXdWNTMjBIUHR0WWxaVVVOT3FHZzlTWkVqQXNWMUprM2dPNVpXcEtVSFpTS0hhb3BVU082YWMwTFN0dHh0c2NxSERQUWtZajZJa2ZEc1paOTJMS3p6ZTJnZHJWczhTUW1wLVp3VmNiRnh6elh6ZklrMk1YU1hrdUlYbnd2aWZYV3RSS3UzcHlGSjk3VndJdjVoc2lHQXo0VmFLLXhlRi1TUlBvVnpYcnFDS1pjdGdSRnI3c0FpWENkQVlIcnNfMTVRaUxHZVlCWkRUUW92WWpvUnNPd3ZoLWVXU0p1c9IBgwJBVV95cUxPUUNEYkl3RzhENnBJdWM4c28xREtTWVp1WXFvQ2ZWUUN1UFZ6eEVmTS1mamRFdlBRZllQUnpzYVpkaDlScUE5NHdiMXoxWWJjcGZIbHRLN0t2THBwck5yUU91cXowc0t5STI1b2lUUGthWFA3ZjlrbkZfQ2h5SFdpclVyYjVpcUJWenJFaHlNNTN0TjA1NS02NDRNdE1tYmlEOEtOSTU5Y2E2QUhtRkpLYS13N01XeXVYM1lKMHZsQjlqLXR2aUxCXzYtaklnZnNOSGptTTZtTlI4eTJwSlN1Sjd1LTBSLUVaMXJxVFI2QWRTMHZaZjlZdDJDUGwzMHJZOEhv?oc=5",
+      "published": "2026-09-21T20:14:34+00:00"
     },
     {
-      "id": "jmu-rises-to-no-67-among-public-universities-in-2027-u-s-new",
+      "id": "iran-offers-to-open-strait-of-hormuz-say-reports-how-can-it",
       "lead": false,
-      "sector": "India & World",
-      "title": "JMU rises to No. 67 among public universities in 2027 U.S. News & World Report Best Colleges rankings",
-      "dek": "JMU rises to No. 67 among public universities in 2027 U.S. News & World Report Best Colleges rankings James Madison University",
+      "sector": "Markets",
+      "title": "Iran offers to open Strait of Hormuz, say reports | How can it impact the Indian stock market, gold prices?",
+      "dek": "Iran's offer to reopen the crucial Strait of Hormuz, contingent on the US easing military pressure, as per Reuters. Analysts predict that this development could lead to significant declines in crude oil prices and potential rises in gold, influencing the…",
       "why": "",
-      "source": "James Madison University",
+      "source": "Mint Markets",
       "also": [
-        "Baruch News Center.",
-        "Chico State Today",
-        "Loyola Today",
-        "University of Pittsburgh"
+        "Investing.com India",
+        "Investopedia",
+        "hdfcsky.com"
       ],
-      "coverage": 5,
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNFJ2X3h6bFRselBncFdaMkQxYUJ5MWFweGNkdk1nM3ZEZzdfMWlFUEgzZXhXZTBMa3YwY0RmVGFBTDNTRy1KTU5qYS1QOUpHem1pT0JXM1lSWTZCZVdqbEJOMmlGc2hPU0hwZUM5SHoyMXNfUjhOSUV0TmhuZlBaRA?oc=5",
-      "published": "2026-09-22T10:04:05+00:00"
+      "coverage": 4,
+      "url": "https://www.livemint.com/market/stock-market-news/iran-offers-to-open-strait-of-hormuz-say-reports-how-can-it-impact-the-indian-stock-market-gold-prices-11790071673902.html",
+      "published": "2026-09-22T11:05:54+00:00"
     },
     {
       "id": "microsoft-launches-fourth-cloud-region-in-india-expands-ai-i",
@@ -528,10 +491,10 @@
       "why": "",
       "source": "INDIA New England News",
       "also": [
+        "Business Today",
         "CRN Asia",
         "TechGig",
-        "dqindia.com",
-        "konsulteer.com"
+        "dqindia.com"
       ],
       "coverage": 5,
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYnZLWHRPM29NZGRocDJkYUdzM2RFN0tvRy1Vbk5kSk5zN0lKcDYtMUpHSWpZeTVFc2wzVjRqNXpLZ2lpdVhhT0Y0M05wb2FCR2xSQlRnOTRFRnBTOWtVd2NaSnZCVnI2Q0E3SWtNNkFQbm1sb1NFQW03ZWlPU0FMWVQ1ckliZWcyRzE1S1pqdTJvRlZKV2oyaFRSOUktZzROUXE4ZGZrQnRnWWc?oc=5",
@@ -546,13 +509,30 @@
       "why": "",
       "source": "TradingView",
       "also": [
+        "Bloomberg.com",
         "DhanamOnline",
-        "Moneycontrol.com",
-        "bloomberg.com"
+        "Moneycontrol.com"
       ],
       "coverage": 4,
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdmZqTHFMWjg4anFkcmNXei10OTNHaHR2VGNpS1p3b0tKMm92M1R1dUFPU0dOYlkydDdqVDBOcXJ0OGZMYzgzWFgzUVpaeFlhcENiSXRHVm1OdFR2TGhNb1RCdk5mN0R6X05iTEtFdUZiR2Iwb0t5QXlmSUY5RXRlbDczMzZJaU1fSWw3YkdEMUxXdnRqV1loMTdrY25qdG5UbWZmMGRodkt6NWZiaGNjU1U5bmp1SVhCLS1CUGdRVFdRQjJ1ZTBnNzlfTlVUQWh1UVZJeF82aw?oc=5",
       "published": "2026-09-22T08:34:43+00:00"
+    },
+    {
+      "id": "jindal-supreme-ipo-allotment-status-check-online-steps-gmp-l",
+      "lead": false,
+      "sector": "Deals & IPOs",
+      "title": "Jindal Supreme IPO Allotment Status Check Online: Steps, GMP, Listing Date and Key Details",
+      "dek": "Jindal Supreme IPO Allotment Status Check Online: Steps, GMP, Listing Date and Key Details India Infoline",
+      "why": "",
+      "source": "India Infoline",
+      "also": [
+        "Business Standard",
+        "IPO Watch",
+        "Moneycontrol.com"
+      ],
+      "coverage": 4,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQnlRR3Y2amNqQk5rb2czMnFCcFp1LXpSN0pzQk5rMDJKSVdqVmJfTThWeThTYkdGOWI4UGprLW1xVHVrdi03Q3NKUGlKUnROT3JfYWRYVHMtOUhSS1ZodmFYbXpVVzE4YXhHX1V3cWZKNWdRZl9aNmh4ckZ2THNOVXA1eDBITThjZmxsYUxOazBuampHZlpNcWJhbTJtUjFRSFlOYnNnTmxYQXFGMFJvZEgydTFmdkllMTJ5MHBBQ052R3FD?oc=5",
+      "published": "2026-09-22T05:57:41+00:00"
     },
     {
       "id": "india-s-semiconductor-opportunity-expanding-beyond-fabs-repo",
@@ -580,9 +560,9 @@
       "why": "",
       "source": "TradingView",
       "also": [
+        "Bloomberg.com",
         "CNBC",
-        "Investing.com India",
-        "bloomberg.com"
+        "Investing.com India"
       ],
       "coverage": 4,
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOU3pXTjdmRkxVaXRFRXdIWVBkaThiWUpRNWNOczE4SHF5UmRfTHZmU2dua3d0aXh5M0wyU1BwYkVVWWVVNC1RZkNocTQxRmRZVjdaN2pCUlVkWDRzQ2VuZ2h6b3EwWENXVHlGRGkwWVVkVHUxNFRiTmtGN3hNS0FILTlCN0p6WXU3YktlMDF1clhhY05saEVmSW90Q21ncHVGaWJhdmlnM3BWWHUwOWI1ejZzdXB3cGU2QzFPM0t3M2M0SUlvODZsNHE5TGtrZTBUZ0FGc21SYi1HdjdTT1BMX3U1SHF5emhIX3FpdVMtNmo2dkkyeWRITA?oc=5",
@@ -610,9 +590,9 @@
       "lead": false,
       "sector": "Macro",
       "title": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",
-      "dek": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck finance.yahoo.com",
+      "dek": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck Yahoo Finance",
       "why": "",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "also": [
         "Traders Union",
         "UA.NEWS",
@@ -623,21 +603,21 @@
       "published": "2026-09-22T13:41:37+00:00"
     },
     {
-      "id": "noel-tata-s-latest-proposal-offers-alternative-to-tata-sons",
+      "id": "security-researchers-used-claude-to-break-into-openai-system",
       "lead": false,
-      "sector": "Banking",
-      "title": "Noel Tata's latest proposal offers alternative to Tata Sons' listing but Shapoorji Pallonji Group supports going public",
-      "dek": "Noel Tata's latest proposal offers alternative to Tata Sons' listing but Shapoorji Pallonji Group supports going public Livemint",
+      "sector": "IT & AI",
+      "title": "Security researchers used Claude to break into OpenAI systems in under 72 hours",
+      "dek": "Security researchers used Claude to break into OpenAI systems in under 72 hours Tech Edition",
       "why": "",
-      "source": "Livemint",
+      "source": "Tech Edition",
       "also": [
-        "DhanamOnline",
-        "India.com",
-        "People Matters - HR News"
+        "CXOToday.com",
+        "Malwarebytes",
+        "The News Minute"
       ],
       "coverage": 4,
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPeDZuQ0liQmZheGE0SWtNN0xkZjNOLTBnSlBwbTZNMTBvd2lHQ3JVLXJaYW1GWUFNV1NMU1pSZjVEZmJZUTFIemY3dkhlcGowMTRCRHdnYUZfWk5EbzJnWS1pSFdyVjRKOEw3M19aenpPRVV0SG5KT3VHZktOck1VLUtoVVN6M1pITm41QTFMUUhNWFBTa19RSkJINnYtYnpqVjZsQmROTk9obTJ1RE1pRFJqUTc3U3ZSc1ZRQUFXWUduLVNOSGZDSzNGR3Nvcnl4eUI0WFk1S24yNHlpYWZudTJLMGowUmZpejBWeXJxZVhUT3RsVmJWZDdrS1VnWGZ1SDBEZ0RscnZQMlVDN3dtN3BibXFSUdIBmwJBVV95cUxPSjFjM0J4Mm5TcmRNdGc5Sl90eE9aMFpQdWYtN1AyYndLU1F4WTVzQzhJNTh1VGJtd2pKbGlEcTg1Z0Q3cU5nZ3I1RzQ4S1FiUkREb191QjZtYmRUQ1hIbWtUbTAyeEdya1VZQnRvamp6R2l6TjFZQU1Wd1RNNHRubU1PM3duTEx3RmhGR1ZsUmVHdmVVZEdjTFBqczNZNTVHS3U2M1ZNOGY5VVFEeWV0YzNpOXZmejZ1X1c4VnRPcW5oVWVlMVJGZmw5LWg2NjBVSTBRRmVwQzk4RjRHWmxkbVVxOGxOYnE3SVhsam1TSGptZk5ZNWROYU1ZaHB5UzNXQ3c3M3htUmdXbERyaGVyRkVGZlhqRmFqemhF?oc=5",
-      "published": "2026-09-22T09:19:07+00:00"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObE5WME45U0RWRDhzR0tLZjFhRXVnVVVYajdtVTNHOFBMQ083SGp2azI0MnR5NkREOXRaSE9tRXVOanAzaWdLU2k0R3VCdmpQWEYyb3JfMGdFSGEyb0t1enZtSEt1ZjJ3RURlNngwVVdwMk9MLVhOZzVjcUJEQTBPNlhtRDI4VjlyeWM5RFpxaXdZTmZrWTliSUJQTHJaWWxEak9mMGd3?oc=5",
+      "published": "2026-09-22T12:02:19+00:00"
     },
     {
       "id": "microsoft-eyes-north-and-west-india-for-data-centre-expansio",
@@ -648,13 +628,30 @@
       "why": "",
       "source": "digital terminal",
       "also": [
-        "Data Centre Magazine",
         "ET Datacenters",
-        "Firstpost"
+        "Firstpost",
+        "datacentremagazine.com"
       ],
       "coverage": 4,
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS3d5aDlOV3R4aktBdmZZSW5GelNPaE1SVTFQa1RJdnRhek1XRUZvMTFEcUVpNUlRN21HOTJpSEJwbGREWkQ1RThmTFhDOFpydGY2MjJJTHlmTkFmQmJ3MThQTkMtWGRuSnZFMWxyR3A4QUNnVm5VQzZmM1R4YTV3blNxV1NpSWJXSE5LWjR3SGFfZFFkSTdBeFRWQS1HT1doWkczdzFlMkZNTm5IUlc4U3pRVGtiZV92MUQzdDdmSkVUbS1UaXAybEpCVkhmMDFkLXJwQjYzZEx3MGk0cUHSAd4BQVVfeXFMUEt3eWg5Tld0eGpLQXZmWUluRnpTT2hNUlUxUGtUSXZ0YXpNV0VGbzExRHFFaTVJUTdtRzkyaUhCcGxkRFpENUU4ZkxYQzhacnRmNjIySUx5Zk5BZkJidzE4UE5DLVhkbkp2RTFsckdwOEFDZ1ZuVUM2ZjNUeGE1d25TcVdTaUliV0hOS1o0d0hhX2RRZEk3QXhUVkEtR09XaFpHM3cxZTJGTU5uSFJXOFN6UVRrYmVfdjFEM3Q3ZkpFVG0tVGlwMmxKQlZIZjAxZC1ycEI2M2RMdzBpNHFB?oc=5",
       "published": "2026-09-22T06:45:00+00:00"
+    },
+    {
+      "id": "india-s-crude-import-bill-rises-48-to-74-8-bn-in-apr-aug-ami",
+      "lead": false,
+      "sector": "Energy & Industrials",
+      "title": "India's crude import bill rises 48% to $74.8 bn in Apr-Aug amid high costs",
+      "dek": "India's crude import bill rises 48% to $74.8 bn in Apr-Aug amid high costs Business Standard",
+      "why": "",
+      "source": "Business Standard",
+      "also": [
+        "India Business Trade",
+        "UA.NEWS",
+        "oilprice.com"
+      ],
+      "coverage": 4,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQajN0amVTbGlDRUJ3bnhUZjFzTE50cFVZcUxWZzhDcng1U3JKejI4WWNqelExaUQ0TjZ6QUg2VGwtQ2c3WUFtWWV2SVRoLUl1OXl0bVRySGZmMGhnTDlITkF0MFIxUEkySnFkZk9qNmtuNFVBUkt3eDZZQmdXdDBPTTZ2TV84ekhXZnNBRmd4MWlCRERnbU9YLWVGaWFzb200Q0ttdzd4LUtKQl9mamtUZldBTEg4R3ZueW5kNnBHRmFpZERKN3FR0gHMAUFVX3lxTFBjWXVoNnkyMlFGbEVTX285WUJUTDFlOXZCaU43WnVQaEQ2endMOU9pVVJXQ19sOENLOW1rdnRrSjlDYjd5aFhOT1J0cFBvRW4tZGJsRG1HMWxNZU5ORlo3Q2MwZjhUdDI1N0h4Q1NieXo5SnhqZ0dQVW02MXRIUlhXVG8ydFdxVDBjSDZ4SGxGVFlPTWlKSHBHNGtrY1h1amFIRGpDOG0tQ2hWZnMxZGU3S0dCRzhFVnh1d2l3a3BtbWxDZjAyek1nVnNyYw?oc=5",
+      "published": "2026-09-22T05:37:00+00:00"
     },
     {
       "id": "forex-inflows-under-rbi-swap-facility-rise-to-usd-143-6-bill",
@@ -665,9 +662,9 @@
       "why": "",
       "source": "ET Economy",
       "also": [
+        "News On AIR",
         "TradeFlock",
-        "boldnewsonline.com",
-        "newsonair.gov.in"
+        "boldnewsonline.com"
       ],
       "coverage": 4,
       "url": "https://economictimes.indiatimes.com/news/economy/indicators/forex-inflows-under-rbi-swap-facility-rise-to-usd-143-6-billion/articleshow/134391984.cms",
@@ -708,22 +705,6 @@
       "published": "2026-09-22T00:00:00+00:00"
     },
     {
-      "id": "rbi-amends-valuation-rules-for-invit-reit-units-held-by-all",
-      "lead": false,
-      "sector": "Macro",
-      "title": "RBI amends valuation rules for InvIT, REIT units held by all-India financial institutions",
-      "dek": "The RBI has amended valuation norms for InvIT and REIT units held by all-India financial institutions, introducing separate provisions for quoted and unquoted units.",
-      "why": "",
-      "source": "ET Economy",
-      "also": [
-        "ET Consumer",
-        "The Economic Times"
-      ],
-      "coverage": 3,
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-amends-valuation-rules-for-invit-reit-units-held-by-all-india-financial-institutions/articleshow/134413607.cms",
-      "published": "2026-09-22T13:21:05+00:00"
-    },
-    {
       "id": "rbi-issues-directions-on-minimum-capital-requirements-for-ma",
       "lead": false,
       "sector": "Banking",
@@ -762,9 +743,9 @@
       "lead": false,
       "sector": "Auto",
       "title": "New Mahindra Thar OG Launched – Prices, New Design & Features",
-      "dek": "New Mahindra Thar OG Launched – Prices, New Design & Features India Car News",
+      "dek": "New Mahindra Thar OG Launched – Prices, New Design & Features indiacarnews.com",
       "why": "",
-      "source": "India Car News",
+      "source": "indiacarnews.com",
       "also": [
         "Autocar India",
         "CarWale"
@@ -790,20 +771,36 @@
       "published": "2026-09-22T12:55:54+00:00"
     },
     {
-      "id": "protein-pantry-raises-rs-9-cr-seed-funding-to-scale-in-house",
+      "id": "festive-season-2026-hyundai-bayon-tata-aeris-maruti-baleno-f",
       "lead": false,
-      "sector": "Startups",
-      "title": "Protein Pantry Raises Rs 9 Cr Seed Funding to Scale In-House Frozen Food Manufacturing",
-      "dek": "Protein Pantry Raises Rs 9 Cr Seed Funding to Scale In-House Frozen Food Manufacturing ascendants.in",
+      "sector": "Auto",
+      "title": "Festive season 2026: Hyundai Bayon, Tata Aeris, Maruti Baleno facelift and other eagerly awaited cars coming to India",
+      "dek": "Festive season 2026: Hyundai Bayon, Tata Aeris, Maruti Baleno facelift and other eagerly awaited cars coming to India Fortune India",
       "why": "",
-      "source": "ascendants.in",
+      "source": "Fortune India",
       "also": [
-        "Indian Television Dot Com",
-        "Passionate In Marketing"
+        "CarDekho",
+        "GaadiFy"
       ],
       "coverage": 3,
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQU51LTUwQWVyc05PZ0ZqdThvX1ZnVFJ5R1lEbTdMV0doa1ktX2hFbWJzRDE4MXJBQ3ZxdHQ2eUVNVndGdDF5eUpmNFh0aXlvd3ZRdzVTT2ZDby11bk5HOVdrUWhVbk1UZTBJUXQ4LTlqTkl3a0hZVEZtNzgycHA0QlNlczBZdC1BbzF2R1MxLVdHM2MwbVJ3NnV0TmVHU2J2MmE5S2FhUEFFOC1BMWxnal9uM2FJQ3BrTFB6c1o5RGI2Q0lIdXhrS3N3M042bEdjckxkRHMzWE9PSDZnMG5fNVRVcw?oc=5",
-      "published": "2026-09-22T12:37:22+00:00"
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZTBVZHJkdVppRmxZWThGZV8zVFluNzFNR1JtZm1zVXFLSzhsR20zN0xHOThFVEpuanJqdUEzRFNVaVVRZ3FYOUt6UHNzVGFEdFNLbWJJZkpSVWtrZklwUlNHZVlmZEhmU1VZS0pMbDIyakNuM0VpY1c0TEpUUS15LW1aNWYyclJFdmo3alVGUG5fMW40RmdvdkJvQXhWQkxKeHNEUURubkxCekZNZC1oZEV4Y2pMa0hDZjV1Slg4azZMd0U0bzZ4YUZyRV8wQWZYR1dGVmR6LTY0X3FoR05yb1FIdThnWXE4ODZDbFdCdzFuRDNCLURWbtIB-AFBVV95cUxOZTBVZHJkdVppRmxZWThGZV8zVFluNzFNR1JtZm1zVXFLSzhsR20zN0xHOThFVEpuanJqdUEzRFNVaVVRZ3FYOUt6UHNzVGFEdFNLbWJJZkpSVWtrZklwUlNHZVlmZEhmU1VZS0pMbDIyakNuM0VpY1c0TEpUUS15LW1aNWYyclJFdmo3alVGUG5fMW40RmdvdkJvQXhWQkxKeHNEUURubkxCekZNZC1oZEV4Y2pMa0hDZjV1Slg4azZMd0U0bzZ4YUZyRV8wQWZYR1dGVmR6LTY0X3FoR05yb1FIdThnWXE4ODZDbFdCdzFuRDNCLURWbg?oc=5",
+      "published": "2026-09-22T09:46:42+00:00"
+    },
+    {
+      "id": "noel-tata-s-latest-proposal-offers-alternative-to-tata-sons",
+      "lead": false,
+      "sector": "Banking",
+      "title": "Noel Tata's latest proposal offers alternative to Tata Sons' listing but Shapoorji Pallonji Group supports going public",
+      "dek": "Noel Tata's latest proposal offers alternative to Tata Sons' listing but Shapoorji Pallonji Group supports going public Livemint",
+      "why": "",
+      "source": "Livemint",
+      "also": [
+        "DhanamOnline",
+        "India.com"
+      ],
+      "coverage": 3,
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPeDZuQ0liQmZheGE0SWtNN0xkZjNOLTBnSlBwbTZNMTBvd2lHQ3JVLXJaYW1GWUFNV1NMU1pSZjVEZmJZUTFIemY3dkhlcGowMTRCRHdnYUZfWk5EbzJnWS1pSFdyVjRKOEw3M19aenpPRVV0SG5KT3VHZktOck1VLUtoVVN6M1pITm41QTFMUUhNWFBTa19RSkJINnYtYnpqVjZsQmROTk9obTJ1RE1pRFJqUTc3U3ZSc1ZRQUFXWUduLVNOSGZDSzNGR3Nvcnl4eUI0WFk1S24yNHlpYWZudTJLMGowUmZpejBWeXJxZVhUT3RsVmJWZDdrS1VnWGZ1SDBEZ0RscnZQMlVDN3dtN3BibXFSUdIBmwJBVV95cUxPSjFjM0J4Mm5TcmRNdGc5Sl90eE9aMFpQdWYtN1AyYndLU1F4WTVzQzhJNTh1VGJtd2pKbGlEcTg1Z0Q3cU5nZ3I1RzQ4S1FiUkREb191QjZtYmRUQ1hIbWtUbTAyeEdya1VZQnRvamp6R2l6TjFZQU1Wd1RNNHRubU1PM3duTEx3RmhGR1ZsUmVHdmVVZEdjTFBqczNZNTVHS3U2M1ZNOGY5VVFEeWV0YzNpOXZmejZ1X1c4VnRPcW5oVWVlMVJGZmw5LWg2NjBVSTBRRmVwQzk4RjRHWmxkbVVxOGxOYnE3SVhsam1TSGptZk5ZNWROYU1ZaHB5UzNXQ3c3M3htUmdXbERyaGVyRkVGZlhqRmFqemhF?oc=5",
+      "published": "2026-09-22T09:19:07+00:00"
     }
   ]
 }
