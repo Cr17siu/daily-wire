@@ -8,8 +8,8 @@
 # `when:1d` limits them to the last day.
 
 window_hours: 26        # how far back an item may be published
-max_stories: 28         # cap on the finished brief
-max_per_sector: 5
+max_stories: 45         # cap on the finished brief
+max_per_sector: 8
 leads: 3                # how many stories get the "Top of the day" treatment
 
 # Only these sectors may take a lead slot — general news can still make the

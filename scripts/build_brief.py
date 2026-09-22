@@ -232,14 +232,28 @@ def collect(config: dict, fixtures: Path | None) -> list[dict]:
 # --------------------------------------------------------------- selection
 
 
+# A real story runs on a handful of wires, not dozens. Past this many members a
+# cluster has stopped being a story and become a magnet, so it takes no more —
+# a cheap backstop against any similarity metric behaving badly on a corpus we
+# have not seen.
+MAX_CLUSTER = 6
+
+
 def cluster(items: list[dict], threshold: float = 0.4) -> list[dict]:
     """Merge headlines about the same story. Cluster size = how many outlets ran it."""
     clusters: list[dict] = []
     for item in sorted(items, key=lambda i: (-i["weight"], i["_at"])):
         for group in clusters:
+            if len(group["members"]) >= MAX_CLUSTER:
+                continue
+            # Compare against the cluster's FIRST headline, never an accumulated
+            # union of every member's tokens. Unioning makes the set grow with
+            # each merge while the overlap coefficient divides by the smaller
+            # set, so a large cluster becomes a magnet that swallows anything
+            # sharing three common words. That turned 163 unrelated stories
+            # into one "cluster" on a real run.
             if same_story(item["_tokens"], group["_tokens"], threshold):
                 group["members"].append(item)
-                group["_tokens"] |= item["_tokens"]
                 break
         else:
             clusters.append({"lead": item, "members": [item], "_tokens": set(item["_tokens"])})

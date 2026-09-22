@@ -133,7 +133,12 @@ outrank a story only one outlet bothered with.
 2. **Cluster** by overlap coefficient — shared tokens over the smaller set,
    requiring at least three in common. Plain Jaccard fails here because the
    longer of two headlines inflates the union and pushes real matches below
-   any usable threshold.
+   any usable threshold. Each candidate is compared against the cluster's
+   *first* headline, never a union of every member's tokens: unioning makes the
+   set grow with each merge while the coefficient divides by the smaller set,
+   so a big cluster becomes a magnet that swallows anything sharing three
+   common words. `MAX_CLUSTER` caps membership at 6 as a backstop — a real
+   story runs on a handful of wires, not dozens.
 3. **Rank** on `coverage × 2 + feed weight + freshness × 2`.
 4. **Select** — one lead per sector so the first screen isn't four versions of
    the same sector, then the rest under a per-sector cap.
