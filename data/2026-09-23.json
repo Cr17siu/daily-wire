@@ -1,0 +1,809 @@
+{
+  "date": "2026-09-23",
+  "dateLabel": "Wednesday, 23 September 2026",
+  "builtAt": "2026-09-23T07:04:35.844686+05:30",
+  "standfirst": "45 stories across 11 sectors · 45 running on more than one wire",
+  "sectors": [
+    "Auto",
+    "Banking",
+    "Consumer",
+    "Deals & IPOs",
+    "Energy & Industrials",
+    "IT & AI",
+    "India & World",
+    "Macro",
+    "Markets",
+    "Pharma & Healthcare",
+    "Startups"
+  ],
+  "stories": [
+    {
+      "id": "openai-expands-gpt-6-lineup-with-cheaper-sol-and-luna-models",
+      "lead": true,
+      "sector": "IT & AI",
+      "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models",
+      "dek": "The launch of low-cost GPT-6 Sol and GPT-6 Luna follows the rollout of GPT-6 Astra, a faster model for handling more tasks than previous iterations, earlier this month.",
+      "why": "",
+      "source": "ET Tech",
+      "also": [
+        "OpenAI",
+        "Reuters",
+        "TechCrunch",
+        "The GitHub Blog"
+      ],
+      "coverage": 6,
+      "url": "https://economictimes.indiatimes.com/tech/technology/openai-expands-gpt-6-lineup-with-cheaper-sol-and-luna-models/articleshow/134418905.cms",
+      "published": "2026-09-22T18:23:03+00:00"
+    },
+    {
+      "id": "rbi-amends-valuation-rules-for-invit-reit-units-held-by-all",
+      "lead": true,
+      "sector": "Macro",
+      "title": "RBI amends valuation rules for InvIT, REIT units held by all-India financial institutions",
+      "dek": "The RBI has amended valuation norms for InvIT and REIT units held by all-India financial institutions, introducing separate provisions for quoted and unquoted units.",
+      "why": "",
+      "source": "ET Economy",
+      "also": [
+        "BW Businessworld",
+        "ET Consumer",
+        "IndiaIPO",
+        "The Economic Times"
+      ],
+      "coverage": 6,
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-amends-valuation-rules-for-invit-reit-units-held-by-all-india-financial-institutions/articleshow/134413607.cms",
+      "published": "2026-09-22T13:21:05+00:00"
+    },
+    {
+      "id": "sunil-singhania-led-abakkus-asset-manager-files-drhp-with-se",
+      "lead": true,
+      "sector": "Markets",
+      "title": "Sunil Singhania-led Abakkus Asset Manager files DRHP with Sebi for IPO",
+      "dek": "Sunil Singhania-led Abakkus Asset Manager has filed its DRHP with SEBI for a 15-million-share OFS IPO. The company reported Rs 796 crore revenue and Rs 327 crore PAT in FY26, alongside strong growth in non-mutual fund assets and PMS.",
+      "why": "",
+      "source": "ET Markets",
+      "also": [
+        "CNBC TV18",
+        "Moneycontrol.com",
+        "NDTV Profit",
+        "The Economic Times"
+      ],
+      "coverage": 6,
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sunil-singhania-led-abakkus-asset-manager-files-drhp-with-sebi-for-ipo/articleshow/134410183.cms",
+      "published": "2026-09-22T10:54:05+00:00"
+    },
+    {
+      "id": "anthropic-unveils-claude-opus-5-5",
+      "lead": false,
+      "sector": "IT & AI",
+      "title": "Anthropic unveils Claude Opus 5.5",
+      "dek": "The company said Opus 5.5 performs on par with its Claude Fable 5.1 model on most tasks while costing 40% less to run on typical workloads than its predecessor, Claude Opus 5.",
+      "why": "",
+      "source": "ET Tech",
+      "also": [
+        "Bloomberg.com",
+        "Britannica",
+        "NDTV Profit",
+        "TechCrunch"
+      ],
+      "coverage": 6,
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-unveils-claude-opus-5-5/articleshow/134417201.cms",
+      "published": "2026-09-22T17:07:39+00:00"
+    },
+    {
+      "id": "nse-ipo-subscribed-nearly-6-times-attracts-nearly-rs-90-300",
+      "lead": false,
+      "sector": "Deals & IPOs",
+      "title": "NSE IPO subscribed nearly 6 times; attracts nearly Rs 90,300 crore of demand",
+      "dek": "NSE IPO subscribed nearly 6 times; attracts nearly Rs 90,300 crore of demand Press Trust of India",
+      "why": "",
+      "source": "Press Trust of India",
+      "also": [
+        "Bloomberg.com",
+        "Business Standard",
+        "Entrackr",
+        "IndiaIPO"
+      ],
+      "coverage": 6,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdlQ5QUdzZk1mQWw2ZGNWeDlsU0wtYTRJOUZvbXRITkxPMUVnUlZ4T3Fac3ZWU0x4aW9lNVNYWEJEVGdkb251c3Y4b29DdHYxTjVMMUlNYVkydHJjckg2MWRDRWdjNDFocXpZaV9kYUVsc2wxNFlRWURDclVKQkVWUks2cGVYeElLTU84QTJ3dE1yclV4dUlXV3ZLVVBaZGlNNWNKeXdVT0ZpM19RSjVBN0xiRU8zTS1jdUdQTV9xaDY1UQ?oc=5",
+      "published": "2026-09-22T09:07:06+00:00"
+    },
+    {
+      "id": "nse-ipo-allotment-today-how-to-check-status-on-bse-and-mufg",
+      "lead": false,
+      "sector": "Markets",
+      "title": "NSE IPO allotment today: How to check status on BSE and MUFG Intime? GMP hints at 4% listing gains",
+      "dek": "NSE IPO allotment: The Rs 22,562-crore NSE IPO, which was subscribed 5.71 times overall, is likely to finalise share allotment today.",
+      "why": "",
+      "source": "ET Markets",
+      "also": [
+        "Fortune India",
+        "India Infoline",
+        "The Economic Times",
+        "TradingView"
+      ],
+      "coverage": 6,
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-allotment-today-how-to-check-status-on-bse-and-mufg-intime-gmp-hints-at-4-listing-gains/articleshow/134407016.cms",
+      "published": "2026-09-22T08:33:38+00:00"
+    },
+    {
+      "id": "anthropic-releases-claude-opus-5-5-and-openai-counters-with",
+      "lead": false,
+      "sector": "IT & AI",
+      "title": "Anthropic releases Claude Opus 5.5 and OpenAI counters with two cheaper GPT-6 models",
+      "dek": "Anthropic releases Claude Opus 5.5 and OpenAI counters with two cheaper GPT-6 models SiliconANGLE",
+      "why": "",
+      "source": "SiliconANGLE",
+      "also": [
+        "Anthropic",
+        "Mashable",
+        "PYMNTS.com",
+        "TechTarget"
+      ],
+      "coverage": 6,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQTJMZ1lvVFRqajJaWF9udFJqNTktMWJMeE4xemx4S1R1S2xXT21uNnVBV2JJMkY0WXJ4YjZsdFBUbUpjWG1iYjZQRFFzWkhleDdkTTl3eGNOOGJhTW1IRmhucjZaX1hQbnZyWjhDdmVfUEt4RU5pTDBIV1lKb3ZyYmN4Nm9qLU1aaTZZLW1sVWhGY0dkb0trUDM3TE1pNnI0Mm9KZk5YQm1wT2Q2NnFLcURRZDAyVGtMaWdjX1h3?oc=5",
+      "published": "2026-09-22T22:58:00+00:00"
+    },
+    {
+      "id": "openai-introduces-gpt-6-sol-and-luna-slashing-api-prices-50",
+      "lead": false,
+      "sector": "IT & AI",
+      "title": "OpenAI Introduces GPT-6 Sol And Luna, Slashing API Prices 50% To Bring Advanced AI To More Users",
+      "dek": "OpenAI Introduces GPT-6 Sol And Luna, Slashing API Prices 50% To Bring Advanced AI To More Users Yahoo Finance",
+      "why": "",
+      "source": "Yahoo Finance",
+      "also": [
+        "9to5Google",
+        "Constellation Research",
+        "TestingCatalog AI News",
+        "The New Stack"
+      ],
+      "coverage": 6,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMG9KM1dYMzdNZUpQRHQycW9XWXFSaU9nZzBQWUFrUmVPbVdTcHloakVjR3ZKaVhNcEZTbmxSSGxyMmFtSm15Ym1qWl90RU5XalZaMGlqLXZsa0xyc1RnTlpRUThSMld1T3psX0ZIUUZ3bXF5MnBmcDV5X1lUVEt4ZHBkNHd2d0pVZDJZUzB1RjhpeGduZmc?oc=5",
+      "published": "2026-09-22T20:40:03+00:00"
+    },
+    {
+      "id": "openai-rolls-out-more-affordable-gpt-6-sol-and-luna-models-w",
+      "lead": false,
+      "sector": "IT & AI",
+      "title": "OpenAI rolls out more affordable GPT-6 Sol and Luna models with Astra-like capabilities",
+      "dek": "OpenAI rolls out more affordable GPT-6 Sol and Luna models with Astra-like capabilities Firstpost",
+      "why": "",
+      "source": "Firstpost",
+      "also": [
+        "Moneycontrol.com",
+        "The Next Web",
+        "VentureBeat",
+        "entARABI"
+      ],
+      "coverage": 6,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSTA5azVXcXcyZUVqRG01a1FzUGtOaE56VndnT05rOXhUQWUzRkZjaklKRXUySkpnV2JPOTlpUTRjTlNqdWw0VlBUMzZSOTNMTzJOaHM0R255ZVcwM3AwMkpibEFXcTVGbUVaYTRSdFg4SDNWeXM4WUlZV2NndlNOdHlWY3E5OW1FX1hodVVDUFM2SlV1ZlZxazlaejBEZUt3N2tlR0U4OC1ORllfdHJwTEYwOUxxRnJxbXg2aXdENzIwM1JBcHpyMWJzd0_SAdIBQVVfeXFMTXh0dTd5QS1Kc1pWZFUyMDlXRWFidUwtZG1rVURYTDRRUXJFYUltbVdYQl9NVjNOcHM0VHlweVYyOGpRM2RpNlhQaFdGUEV5eHpkZEZQd1p2MHFyeDlqTEl0UUVaY3ZkNmxDWlg0cTd1Y3QyVHBYVkZwelk1Y2hfQllCdDZ6UDg1Sm1SVF96M1hVem1hclFHN2JBQmMwZDJPUF9ieUI4WTRZQjBVVDJGOUFYbmZSSzljMElQTXdZaWJkcEpDSmsxcFJOYWhjaGhvSU5n?oc=5",
+      "published": "2026-09-22T18:39:48+00:00"
+    },
+    {
+      "id": "anthropic-and-openai-roll-out-cheaper-models-in-first-releas",
+      "lead": false,
+      "sector": "IT & AI",
+      "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
+      "dek": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown CNBC",
+      "why": "",
+      "source": "CNBC",
+      "also": [
+        "Engadget",
+        "Financial Times",
+        "Fortune",
+        "UA.NEWS"
+      ],
+      "coverage": 6,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sZVdROFlLTUpZMmZPb0lWNWUtenNWaDhjX2JqeVZQM19lM2JVMmNYSHllQXczQWN5VVFHejNVOGFVU2NpVXdHQnJiWEU0eENSTmxaZGFBaTNQNXd3Vi1WM25wTVg3bjI1TEFsX2x3VlVHYzZWLWRvVW5vUdIBgAFBVV95cUxNWlZ6cE5mOEo5cUFESnpnbEFnU3h6OEhFU2hRWVFUNVVMR1FTUXk4cnR0b2Vjb3V2LVRUQXR3dl9sZDRKamNnYkhpQ3hMM3ZsckdaTlk5a2p2NDRud25uMWtUV1E0Ny1NblVMWTlGNTdYdTF6Q0JsZ3l5V3hOaHQ1cA?oc=5",
+      "published": "2026-09-22T18:23:57+00:00"
+    },
+    {
+      "id": "anthropic-unveils-claude-opus-5-5-this-comes-amid-growing-de",
+      "lead": false,
+      "sector": "IT & AI",
+      "title": "Anthropic unveils Claude Opus 5.5 | This comes amid growing debate over AI risks | Inshorts",
+      "dek": "Anthropic unveils Claude Opus 5.5 | This comes amid growing debate over AI risks | Inshorts Inshorts",
+      "why": "",
+      "source": "Inshorts",
+      "also": [
+        "Amazon Web Services (AWS)",
+        "CNBC TV18",
+        "Firstpost",
+        "Moneycontrol.com"
+      ],
+      "coverage": 6,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd0pOdGVIX3BJSjdXZUhIanBrMExMSzhHNzFtZnM1MlM2Ym82eTZxbXVXVFFKTmZFdjVnbm53WFlfMEczX3B2ZFdQVUxhZlQ1ODJNTENJU1pyU3JGb3FHTUZyMnJXSjlyMmRGYzZIV3Jzc0VlQzRKdTVqZm9WWEI3S3F0YWFmaGvSAYcBQVVfeXFMT3dKTnRlSF9wSUo3V2VISGpwazBMTEs4RzcxbWZzNTJTNmJvNnk2cW11V1RRSk5mRXY1Z25ud1hZXzBHM19wdmRXUFVMYWZUNTgyTUxDSVNaclNyRm9xR01GcjJyV0o5cjJkRmM2SFdyc3NFZUM0SnU1amZvVlhCN0txdGFhZmhr?oc=5",
+      "published": "2026-09-22T17:48:47+00:00"
+    },
+    {
+      "id": "rbi-absorbs-rs-71-971-cr-via-overnight-vrrr-auction-amid-hug",
+      "lead": false,
+      "sector": "Banking",
+      "title": "RBI absorbs Rs 71,971 cr via overnight VRRR auction amid huge surplus liquidity",
+      "dek": "RBI absorbs Rs 71,971 cr via overnight VRRR auction amid huge surplus liquidity bfsi.economictimes.indiatimes.com",
+      "why": "",
+      "source": "bfsi.economictimes.indiatimes.com",
+      "also": [
+        "BW Businessworld",
+        "Daily Excelsior",
+        "ET Government",
+        "News On AIR"
+      ],
+      "coverage": 6,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObEszM1k0UnVIbUFMU1dWSlJleHVXaS02UWxUZWxKbVgzdEdUYmFzaFowOU1zeW5QRno1bGhVMHNMUHRsUU5yMERMQjEzTWk2bWpiMHFhV1piZlVVZmV2NzZEd1ZLRjNSMGNrQlc0a2FPS3FHcVl1ZG5SVFE2aUlyMVF2SDR4bkg4MHpJVXhsMDhMRDlhdVJRaXo2SWNOX3FmREpBd3cwaV91MU5aRmJkbVFqSjFoaXFCSWhudklZd01FMHJpNkI4RmtEQ0V5Zl9LY3M1ZWNFR2I4N0XSAdsBQVVfeXFMTmxLMzNZNFJ1SG1BTFNXVkpSZXh1V2ktNlFsVGVsSm1YM3RHVGJhc2haMDlNc3luUEZ6NWxoVTBzTFB0bFFOcjBETEIxM01pNm1qYjBxYVdaYmZVVWZldjc2RHdWS0YzUjBja0JXNGthT0txR3FZdWRuUlRRNmlJcjFRdkg0eG5IODB6SVV4bDA4TEQ5YXVSUWl6NkljTl9xZkRKQXd3MGlfdTFOWkZiZG1RakoxaGlxQklobnZJWXdNRTByaTZCOEZrRENFeWZfS2NzNWVjRUdiODdF?oc=5",
+      "published": "2026-09-22T10:40:27+00:00"
+    },
+    {
+      "id": "car-sales-gain-fresh-momentum-under-gst-2-0-maruti-suzuki-fa",
+      "lead": false,
+      "sector": "Auto",
+      "title": "Car Sales Gain Fresh Momentum Under GST 2.0, Maruti Suzuki Fast-Tracks Expansion And Capacity Investments",
+      "dek": "Car Sales Gain Fresh Momentum Under GST 2.0, Maruti Suzuki Fast-Tracks Expansion And Capacity Investments Free Press Journal",
+      "why": "",
+      "source": "Free Press Journal",
+      "also": [
+        "Business Standard",
+        "CarWale",
+        "NDTV Profit",
+        "The Statesman"
+      ],
+      "coverage": 6,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdGJPbktzYkp4U0U4V3dCV0JVeG41ZFpTTS14LXZ3UjBPQTZyenJuY2pOZmtLS2hlZ1hhQUozTGgyRkFHaGZmX3Y2Q3hTQjN3MUNkVHY0MTgtaVZEN2t6ckZMbmFzRXJBQ1lMNnI0NFVHbkhIc0R4d2tkS29ubmo5clhhNjlnQ1JNUWpTenZiZzI0ZXlvYWNIUWQxQV9aN2xSU2dCbjdQTFBJUDJMZmVwbXR5M3JsZGh1OGNaaWdfV196a0liSTZHeWxLV3QtNVpCQUFhS3owWm1yWUNKaFgtTmJn0gHiAUFVX3lxTE10Yk9uS3NiSnhTRThXd0JXQlV4bjVkWlNNLXgtdndSME9BNnJ6cm5jak5ma0tLaGVnWGFBSjNMaDJGQUdoZmZfdjZDeFNCM3cxQ2RUdjQxOC1pVkQ3a3pyRkxuYXNFckFDWUw2cjQ0VUduSEhzRHh3a2RLb25uajlyWGE2OWdDUk1RalN6dmJnMjRleW9hY0hRZDFBX1o3bFJTZ0JuN1BMUElQMkxmZXBtdHkzcmxkaHU4Y1ppZ19XX3prSWJJNkd5bEtXdC01WkJBQWFLejBabXJZQ0poWC1OYmc?oc=5",
+      "published": "2026-09-22T09:46:21+00:00"
+    },
+    {
+      "id": "indias-crude-oil-imports-bill-increased-by-48-4-to-usd74-8-b",
+      "lead": false,
+      "sector": "Energy & Industrials",
+      "title": "Indias crude oil imports bill increased by 48.4% to USD74.8 billion during April-August due to higher global prices",
+      "dek": "Indias crude oil imports bill increased by 48.4% to USD74.8 billion during April-August due to higher global prices tribuneindia.com",
+      "why": "",
+      "source": "tribuneindia.com",
+      "also": [
+        "Business Standard",
+        "Crude Oil Prices Today | OilPrice.com",
+        "IndexBox",
+        "India Business Trade"
+      ],
+      "coverage": 6,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeDZYcWZqTkYzWHplMXNfZkNsMVFkMVpNTHBqLUd1RWptM01zdXFQSlJ0YnBrR1J1QlYwbXFRU2R1MGJDckEyVlAyeVNZRGd1R1ljNjAta2FLVnpYclhtRDZwM1VUbmtJSGJnNTUzdUtMM0RMMXQtcXZ2d2VFaFJ5ZnZzTVlOT3pxbUNCVU4wYnMxYTFmVnpfMTZTWW85RFBCTDA3V2xCcEVvVDNxeTRjR1dwNlpaQVFvN0x6YTJILWhELW9qbE92ODM3VmhDUUNpSHJnZDNTQ1FwNjJUcHlHb2s1dzdwc0x3ODdwUm1rWdIB8wFBVV95cUxQcWxLNlA3ZEY3Z2taZUpzX2xJekhna1VkLUhSbmJTUno2TzhYWWVHUlh1V0FHWEJzR1JPSkxCQnB4SDVTMEVPTFM0dE9sM0N6MmNJZ1Bua3AxcGRuU3BnQXo0bGxua05Jem5MdVQxcDBRQVRRTXMtUWUxcHpDZnN0LUpueFJjYjR1cHBsYnpOM1NRR196ZHVncnpYdGltaXRpdDRwTERMTFl1bXhFTU8xTEI0Vm5HWVY5c2NJUkRCaXdPNWMyYjI2dEtGdjdMN1hmdVNValVUYm1HdUprbm9iMnBFUHltd3paVjdlVXZMRFByYkU?oc=5",
+      "published": "2026-09-22T09:36:49+00:00"
+    },
+    {
+      "id": "virginia-tech-a-top-20-public-university-nationally-in-lates",
+      "lead": false,
+      "sector": "India & World",
+      "title": "Virginia Tech a top 20 public university nationally in latest U.S. News & World Report Best Colleges rankings",
+      "dek": "Virginia Tech a top 20 public university nationally in latest U.S. News & World Report Best Colleges rankings Virginia Tech News",
+      "why": "",
+      "source": "Virginia Tech News",
+      "also": [
+        "Case Western Reserve University",
+        "DePauw University",
+        "Muhlenberg College |",
+        "Salve Regina University"
+      ],
+      "coverage": 6,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YY1hLRUU3Q09sZWpVeW9yRzh4UWRsTHcxX1FOYWFqckV2aFhlZ21fcW9ENVB3dnU2NkRmYzlxaDhvMml4UmVzRVZLYjdWeWF2ZU9BTG9zMUpfSV94THV6bUFVUWRQN3I0OEFuWHlVU1dMLVREckdkaQ?oc=5",
+      "published": "2026-09-22T15:46:21+00:00"
+    },
+    {
+      "id": "cci-clears-l-or-al-india-s-acquisition-of-bare-anatomy-maker",
+      "lead": false,
+      "sector": "Deals & IPOs",
+      "title": "CCI clears L’Oréal India's acquisition of Bare Anatomy maker Innovist: All you need to know",
+      "dek": "CCI clears L’Oréal India's acquisition of Bare Anatomy maker Innovist: All you need to know Livemint",
+      "why": "",
+      "source": "Livemint",
+      "also": [
+        "Fortune India",
+        "Moneycontrol.com",
+        "NDTV Profit",
+        "The Economic Times"
+      ],
+      "coverage": 5,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTHBvMVRXd3JtSEFHTklWRzdheHRpdHpJZWdfSjFBRHFkbjR3YlBhUzdQbHlaelBHRFlLdWFISjBnTXUtMGNncjlxNUFYSXl5dXItcTVlRWltaE42LW5xTXFhRjFRQlJaQUV5ZHN2MDJab2V0NHhteF9pdGJVdDdmN1h1SVZoazVOUUxhMW1QUzkyQkxXQzZjR1pwQndmT0hvQTdsMTJ1SExmMklzbGZmT0VYWDlFbzNMbWxrU21PbEw3RTk1LWkyTkZ5a1BrZ2NBZXlMNFBJbkRyY3FQMVV3RVpJQdIB6AFBVV95cUxNS0RIV2JCM1ZzeHk1LWZ3b3JoZkUwS0VRSFAzdGVxaldJYWx4LXZjNTQySjlIZTU1aWxXSG9sUWFsa0k5TGZOWjdvSmdEOWg4dFVxVF9jRW1aU3Y3V3BTdkMxd2o0akxlUkhRWFQ0TDJDNDRmRjVkU3I2MExEV3htUWYzdC1OdmpmQ3hsWUVEbEo5eEs3ejFMeDRNVDN5QTJxU0NlQXJxYXFaYk8wYVZrUUNIMHdON2VHMnpqWU41bVI2X2lfSlljRFY2MFIzUno4V2QtTktDdC1BZWpxYUNHMGNoMGwzbDVj?oc=5",
+      "published": "2026-09-22T15:17:00+00:00"
+    },
+    {
+      "id": "iran-offers-to-open-strait-of-hormuz-say-reports-how-can-it",
+      "lead": false,
+      "sector": "Markets",
+      "title": "Iran offers to open Strait of Hormuz, say reports | How can it impact the Indian stock market, gold prices?",
+      "dek": "Iran's offer to reopen the crucial Strait of Hormuz, contingent on the US easing military pressure, as per Reuters. Analysts predict that this development could lead to significant declines in crude oil prices and potential rises in gold, influencing the…",
+      "why": "",
+      "source": "Mint Markets",
+      "also": [
+        "AIMA Media",
+        "Investing.com India",
+        "Investopedia",
+        "hdfcsky.com"
+      ],
+      "coverage": 5,
+      "url": "https://www.livemint.com/market/stock-market-news/iran-offers-to-open-strait-of-hormuz-say-reports-how-can-it-impact-the-indian-stock-market-gold-prices-11790071673902.html",
+      "published": "2026-09-22T11:05:54+00:00"
+    },
+    {
+      "id": "india-s-russian-crude-buying-now-driven-by-west-asia-supply",
+      "lead": false,
+      "sector": "Energy & Industrials",
+      "title": "India’s Russian Crude Buying Now Driven By West Asia Supply Shocks, Not Discounts: Axis Bank Research",
+      "dek": "India’s Russian Crude Buying Now Driven By West Asia Supply Shocks, Not Discounts: Axis Bank Research BW Businessworld",
+      "why": "",
+      "source": "BW Businessworld",
+      "also": [
+        "ETV Bharat",
+        "India Today",
+        "Sarkaritel.com",
+        "Telangana Today"
+      ],
+      "coverage": 5,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWjR4VkxhZHdyNl8zMUxRTm5BLWhkQ1ZveEpHZFVfcl9hSVB3SDl1UEl5cGFYRm5TekNOUndkZkZ0TVN4VGltUXVkTUxMSUItYVN3Nll3QlhXNGV5ZWhtSWR3amMwLUtpN01sSmFtSFR6X0pqRC1EUFNhcWI4OGgyUzJQV19paGgxMnI1ME9DYXFrcE1NNDNzYjQ2ZjcwQ3A4NG9RRlptbWdJNkZfclNydWR5Wm5ya2pobTJNVUE5WF9OMlNfdEp2TUJHck15bFJBbGtWSWRraXllcUU?oc=5",
+      "published": "2026-09-23T00:39:02+00:00"
+    },
+    {
+      "id": "rbi-bond-sales-fx-intervention-help-halve-india-s-cash-overh",
+      "lead": false,
+      "sector": "Markets",
+      "title": "RBI bond sales, FX intervention help halve India's cash overhang",
+      "dek": "Sustained Reserve Bank of India action through bond sales, foreign exchange swaps, and rupee defence has helped more than halve the banking system's liquidity surplus, bankers said.",
+      "why": "",
+      "source": "ET Markets",
+      "also": [
+        "CNBC TV18",
+        "IndiaIPO",
+        "Reuters",
+        "The Economic Times"
+      ],
+      "coverage": 5,
+      "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-bond-sales-fx-intervention-help-halve-indias-cash-overhang/articleshow/134408593.cms",
+      "published": "2026-09-22T09:37:24+00:00"
+    },
+    {
+      "id": "lic-said-to-lead-bidding-in-nse-s-2-4-billion-india-ipo-bloo",
+      "lead": false,
+      "sector": "Deals & IPOs",
+      "title": "LIC Said To Lead Bidding In NSE’S $2.4 Billion India IPO - Bloomberg News",
+      "dek": "LIC Said To Lead Bidding In NSE’S $2.4 Billion India IPO - Bloomberg News TradingView",
+      "why": "",
+      "source": "TradingView",
+      "also": [
+        "Bloomberg.com",
+        "Moneycontrol.com",
+        "Pluang",
+        "The Economic Times"
+      ],
+      "coverage": 5,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdmZqTHFMWjg4anFkcmNXei10OTNHaHR2VGNpS1p3b0tKMm92M1R1dUFPU0dOYlkydDdqVDBOcXJ0OGZMYzgzWFgzUVpaeFlhcENiSXRHVm1OdFR2TGhNb1RCdk5mN0R6X05iTEtFdUZiR2Iwb0t5QXlmSUY5RXRlbDczMzZJaU1fSWw3YkdEMUxXdnRqV1loMTdrY25qdG5UbWZmMGRodkt6NWZiaGNjU1U5bmp1SVhCLS1CUGdRVFdRQjJ1ZTBnNzlfTlVUQWh1UVZJeF82aw?oc=5",
+      "published": "2026-09-22T08:34:43+00:00"
+    },
+    {
+      "id": "spinny-files-confidential-ipo-papers-with-sebi",
+      "lead": false,
+      "sector": "Markets",
+      "title": "Spinny files confidential IPO papers with Sebi",
+      "dek": "The proposed IPO is expected to give some of Spinny’s early investors an opportunity to exit, while also bringing fresh capital into the company to fund its expansion",
+      "why": "",
+      "source": "Mint Markets",
+      "also": [
+        "Entrackr",
+        "Livemint",
+        "Reuters",
+        "The Times of India"
+      ],
+      "coverage": 5,
+      "url": "https://www.livemint.com/market/ipo/spinny-confidential-ipo-papers-sebi-used-car-market-india-11790061163570.html",
+      "published": "2026-09-22T08:11:50+00:00"
+    },
+    {
+      "id": "sonaselection-india-ipo-allotment-today-check-status-on-bse",
+      "lead": false,
+      "sector": "Deals & IPOs",
+      "title": "Sonaselection India IPO allotment today; check status on BSE, NSE and registrar",
+      "dek": "Sonaselection India IPO allotment today; check status on BSE, NSE and registrar Moneycontrol.com",
+      "why": "",
+      "source": "Moneycontrol.com",
+      "also": [
+        "Business Standard",
+        "Groww",
+        "India Today",
+        "hdfcsky.com"
+      ],
+      "coverage": 5,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUldCdFZGajVYRVJlUjhHOGFZdEFSWXQ0X2hhSTFXRm4zR20wcGxxZ3BrZ2E5UEVFU1Bnc0pORU42VWttQlV3T3RDOVN6cG9QemROWnhmdjlTWUFCVkRqdHBITmlCcURKN0NhN1ZaNC1JZzQ3MFRjY2dPMVMxNFk4WUM5VkJ5SU5zNjVOS0F3SG1CYUNqbHk5NDVYbXhZOFZNbERmS19YZWM3SGd3UW92MlM0LXRvWlZST0lOanFaNnRtV0t5cXRLWTJGNmVRLXlxZ3BLZUhOdXEzd9IB2gFBVV95cUxQUldCdFZGajVYRVJlUjhHOGFZdEFSWXQ0X2hhSTFXRm4zR20wcGxxZ3BrZ2E5UEVFU1Bnc0pORU42VWttQlV3T3RDOVN6cG9QemROWnhmdjlTWUFCVkRqdHBITmlCcURKN0NhN1ZaNC1JZzQ3MFRjY2dPMVMxNFk4WUM5VkJ5SU5zNjVOS0F3SG1CYUNqbHk5NDVYbXhZOFZNbERmS19YZWM3SGd3UW92MlM0LXRvWlZST0lOanFaNnRtV0t5cXRLWTJGNmVRLXlxZ3BLZUhOdXEzdw?oc=5",
+      "published": "2026-09-22T05:25:08+00:00"
+    },
+    {
+      "id": "national-stock-exchange-of-india-ltd-fixes-ipo-offer-price-a",
+      "lead": false,
+      "sector": "Deals & IPOs",
+      "title": "National Stock Exchange Of India Ltd Fixes IPO Offer Price At 1,785 Rupees Per Share- Prospectus",
+      "dek": "National Stock Exchange Of India Ltd Fixes IPO Offer Price At 1,785 Rupees Per Share- Prospectus TradingView",
+      "why": "",
+      "source": "TradingView",
+      "also": [
+        "Bloomberg.com",
+        "CNBC",
+        "Investing.com India",
+        "Univest"
+      ],
+      "coverage": 5,
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOU3pXTjdmRkxVaXRFRXdIWVBkaThiWUpRNWNOczE4SHF5UmRfTHZmU2dua3d0aXh5M0wyU1BwYkVVWWVVNC1RZkNocTQxRmRZVjdaN2pCUlVkWDRzQ2VuZ2h6b3EwWENXVHlGRGkwWVVkVHUxNFRiTmtGN3hNS0FILTlCN0p6WXU3YktlMDF1clhhY05saEVmSW90Q21ncHVGaWJhdmlnM3BWWHUwOWI1ejZzdXB3cGU2QzFPM0t3M2M0SUlvODZsNHE5TGtrZTBUZ0FGc21SYi1HdjdTT1BMX3U1SHF5emhIX3FpdVMtNmo2dkkyeWRITA?oc=5",
+      "published": "2026-09-22T03:41:00+00:00"
+    },
+    {
+      "id": "gold-dips-near-4300-as-dollar-strengthens-and-treasury-yield",
+      "lead": false,
+      "sector": "Macro",
+      "title": "Gold dips near $4300 as dollar strengthens and Treasury yields rise, with rate hike odds at 53%.",
+      "dek": "Gold dips near $4300 as dollar strengthens and Treasury yields rise, with rate hike odds at 53%. Pluang",
+      "why": "",
+      "source": "Pluang",
+      "also": [
+        "TradingView",
+        "Yahoo Finance",
+        "fananews.com",
+        "وكالة الأنباء العمانية (العمانية)"
+      ],
+      "coverage": 5,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdXB4WERLV3RUb0tjUWhqUzY0aFhERjZfNHZxaEFNR180UVdUZ2JpTTNPcmtydVBISnYwZU9KYjlYamtsQUttZW1nMnZRMnFDVWIzWmRlTnNUUFpHTmJKNWQ5WjZ3SEFKaDZHaHFXQXExVkpCMUNHYl9SNFFzNk9zcWMyZm9TZ3RlZ2FlYWJHYTY4SFJVQ21DamUwbw?oc=5",
+      "published": "2026-09-22T18:25:42+00:00"
+    },
+    {
+      "id": "the-10-year-treasury-yield-just-hit-5-for-the-first-time-sin",
+      "lead": false,
+      "sector": "Macro",
+      "title": "The 10-year Treasury yield just hit 5% for the first time since 2007 — is a 1970s-style ‘stagflation’ on the return?",
+      "dek": "The 10-year Treasury yield just hit 5% for the first time since 2007 — is a 1970s-style ‘stagflation’ on the return? Fortune",
+      "why": "",
+      "source": "Fortune",
+      "also": [
+        "ETF Database",
+        "ETF Trends",
+        "WSJ",
+        "investingLive"
+      ],
+      "coverage": 5,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM1lJMXVHb0J4NnVmUmRfOG9QRWhtUGhMZTcwaldKZGk3MmxBSUk1UVd3aERGNkxjUUgzeVNfSWNZMGgtbS05bUFTc0U5RXVUM1JZWklYTWxCZnpnUzRpWHJNckZjRUEwVC1uQVM5bGtJV3FsWUVIak1YZUI5ZXJzZ0hvbU9EQQ?oc=5",
+      "published": "2026-09-22T17:06:00+00:00"
+    },
+    {
+      "id": "new-mahindra-thar-3-door-india-launch-today-design-features",
+      "lead": false,
+      "sector": "Auto",
+      "title": "New Mahindra Thar 3-Door India Launch Today: Design, Features, And Expected Price",
+      "dek": "New Mahindra Thar 3-Door India Launch Today: Design, Features, And Expected Price NDTV Profit",
+      "why": "",
+      "source": "NDTV Profit",
+      "also": [
+        "Autocar India",
+        "CarWale",
+        "India Car News",
+        "NewsBytes"
+      ],
+      "coverage": 5,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORmJKMXpfVWJCanFDRi1wT3VMN243WGoyekZkU2lJSjBWX2hxSk00bzRGejVKNDZjU3hQa1RhRzRWTjBOUm5VZEloZklyOTNka2UwZUdOYUtZMk1mdVV1cEZTakZRRVQ1T1ZGU2thdnc0N1lrRG4xRl9KWUpaampTVDlEUzVZTnlhTEdLbG5HbVRGSUZwbkVOeEQ3TGxRTk9WY3ZnOGJaWC1rM0pxelJNRmtvODNBdi15V1HSAcIBQVVfeXFMT1YyRXBsRzdMbWRBRmt1UHJ4SzE4eWVKTGtpU3hFbk5yQ3JESDFMMWgybnp4d3F3S3ZHSGt5b3NwS1VuOXU4WFRuUExyMkZ2ZEtfVGJVbG1uX1FJV0NrbTFadmRGdl9pdUpIaVoyZ00tQnZJSlZQZzdFTWZVSWhZX0RwdURWY19kTHBCaWRxa1AyZjBnbnJNWHc2dG5JNC1aaFNhdXhjRlNTRFYtU2o3N2ZRQV9yT3ZOT3MtanltUDJfRWc?oc=5",
+      "published": "2026-09-22T10:46:42+00:00"
+    },
+    {
+      "id": "rupee-strengthens-to-95-59-amid-drop-in-oil-prices-amp-rbi-d",
+      "lead": false,
+      "sector": "Markets",
+      "title": "Rupee strengthens to 95.59 amid drop in oil prices &amp; RBI dollar sales",
+      "dek": "On Tuesday, the Indian rupee appreciated to 95.59, benefiting from a decrease in oil prices. The central bank's dollar sales helped mitigate pressure on the currency. The rupee fluctuated between 95.58 and 95.86 during the trading session.",
+      "why": "",
+      "source": "ET Markets",
+      "also": [
+        "Investing.com India",
+        "Rediff MoneyWiz",
+        "The Economic Times"
+      ],
+      "coverage": 4,
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-strengthens-to-95-59-amid-drop-in-oil-prices-rbi-dollar-sales/articleshow/134423415.cms",
+      "published": "2026-09-23T00:23:13+00:00"
+    },
+    {
+      "id": "definedge-raises-rs-22-crore-in-pre-series-a-round-to-scale",
+      "lead": false,
+      "sector": "Startups",
+      "title": "Definedge Raises Rs 22 Crore in Pre-Series A Round to Scale Wealth-Tech Platforms",
+      "dek": "Definedge Raises Rs 22 Crore in Pre-Series A Round to Scale Wealth-Tech Platforms Indian Startup Times",
+      "why": "",
+      "source": "Indian Startup Times",
+      "also": [
+        "BW Disrupt",
+        "Indian Startup News",
+        "Punekar News",
+        "dailyhunt.in"
+      ],
+      "coverage": 5,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQanNJampjQ1ZtRXhYcDBCS3E3RXZ3aDRXcnVVaGZ1YVVpYzJpd0hYcjdRa1J3NE9qVHJfQzFheUQ4NDlzbGQxdk9USUdhV180cHgzWHhxbXYtRXZYNXNDVjdBTDBFZVVMYXozVTdvYkRfR0kxaDVseU83VmJWeHBtenVzeGJqZkQzcnBiRzVVY2pPV2tSTU1nUmpTSGphMHVnOVZaYlJoOVd3T19YSVpGMVpQODh5WU1aV0lLN0lNZG9fd3plZGNJ?oc=5",
+      "published": "2026-09-22T05:21:03+00:00"
+    },
+    {
+      "id": "rbi-warns-banks-against-a-loan-price-war",
+      "lead": false,
+      "sector": "Markets",
+      "title": "RBI warns banks against a loan price war",
+      "dek": "In situations where banks are inundated with liquidity, the natural tendency among many lenders is to push loans and go down the credit matrix.",
+      "why": "",
+      "source": "ET Markets",
+      "also": [
+        "ET Consumer",
+        "NDTV Profit",
+        "The Economic Times"
+      ],
+      "coverage": 4,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-warns-banks-against-a-loan-price-war/articleshow/134423379.cms",
+      "published": "2026-09-22T19:13:47+00:00"
+    },
+    {
+      "id": "us-stock-market-today-nasdaq-hits-another-record-high-as-tec",
+      "lead": false,
+      "sector": "Markets",
+      "title": "US stock market today: Nasdaq hits another record high as tech rally extends; oil prices fall",
+      "dek": "The US stock market rose on September 22, with the Nasdaq 100 reaching a record high amid a tech rally. Crude oil prices and declining Treasury yields supported the rally, as investors looked forward to US-China talks.",
+      "why": "",
+      "source": "Mint Markets",
+      "also": [
+        "ET Markets",
+        "Livemint",
+        "The Times of India"
+      ],
+      "coverage": 4,
+      "url": "https://www.livemint.com/market/stock-market-news/us-market-prediction-today-wall-street-futures-hold-steady-after-nasdaq-hits-record-high-oil-prices-extend-losses-11790073538074.html",
+      "published": "2026-09-22T11:31:46+00:00"
+    },
+    {
+      "id": "brahma-ai-raises-150m-at-2b-valuation-in-multiples-led-round",
+      "lead": false,
+      "sector": "Consumer",
+      "title": "Brahma AI raises $150m at $2b valuation in multiples-led round",
+      "dek": "Brahma AI has successfully raised $150 million through preferred share issuance led by Multiples. This funding values the company at $2 billion post-money and aims to support product development and research initiatives.",
+      "why": "",
+      "source": "ET Consumer",
+      "also": [
+        "Indian Television Dot Com",
+        "Siliconindia",
+        "ascendants.in"
+      ],
+      "coverage": 4,
+      "url": "https://economictimes.indiatimes.com/industry/media/entertainment/media/brahma-ai-raises-150m-at-2b-valuation-in-multiples-led-round/articleshow/134419743.cms",
+      "published": "2026-09-22T19:18:29+00:00"
+    },
+    {
+      "id": "british-columbia-sues-openai-over-tumbler-ridge-school-shoot",
+      "lead": false,
+      "sector": "IT & AI",
+      "title": "British Columbia sues OpenAI over Tumbler Ridge school shooting",
+      "dek": "The lawsuit filed in San Francisco federal court names OpenAI and its CEO, Sam Altman, as defendants. It is seeking damages to cover what the province has and will spend on its recovery from the February attack, as well as an order directing changes to the…",
+      "why": "",
+      "source": "ET Tech",
+      "also": [
+        "CNN",
+        "The Guardian",
+        "asiainsurancepost.com"
+      ],
+      "coverage": 4,
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/british-columbia-sues-openai-over-tumbler-ridge-school-shooting/articleshow/134401259.cms",
+      "published": "2026-09-22T03:13:03+00:00"
+    },
+    {
+      "id": "trump-backs-india-middle-east-europe-economic-corridor-says",
+      "lead": false,
+      "sector": "Energy & Industrials",
+      "title": "Trump backs India-Middle East-Europe Economic Corridor, says need to shift energy infrastructure away from Iranian checkpoints",
+      "dek": "Trump backs India-Middle East-Europe Economic Corridor, says need to shift energy infrastructure away from Iranian checkpoints malaysiasun.com",
+      "why": "",
+      "source": "malaysiasun.com",
+      "also": [
+        "ANI News",
+        "NDTV",
+        "news18.com"
+      ],
+      "coverage": 4,
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQU5zYkZXbzZaNGRXdDdPTnphUmZqU1FuckQwMGhFdHJETlIxdUpsNmdwQnRmam5SOGlXbWhfOExrS1lzV1Z2TmRwTUxWRWdHOWFWd095NXBFemFQS0xBN2xMbWxYOGo5alZyWHdPcFpMVGRKaDVOcUJXOWlRWlc3b1BtMGs3dUNibmVaN2NyR3FkNlcwaVBLNTNSMkV1eFlRNmk3MUFvODY3VlRDTlBBdmpjZWFYZzNIaC1DNkNuTTQ4NUJPb2hvZS1JSDY1SmEyTWs3QVNvTUpvcjZkX3Y2eVlkaUlvRDVJelBZWG1xYXJaZDZBaThFRlZZNA?oc=5",
+      "published": "2026-09-22T17:59:00+00:00"
+    },
+    {
+      "id": "microsoft-sees-hyderabad-cloud-region-as-strategic-hub-for-i",
+      "lead": false,
+      "sector": "Energy & Industrials",
+      "title": "Microsoft sees Hyderabad cloud region as strategic hub for India and the Global South: Rajiv Kumar, MD of",
+      "dek": "Microsoft sees Hyderabad cloud region as strategic hub for India and the Global South: Rajiv Kumar, MD of The Times of India",
+      "why": "",
+      "source": "The Times of India",
+      "also": [
+        "CRN Asia",
+        "businesstoday.in",
+        "konsulteer.com"
+      ],
+      "coverage": 4,
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPel9PNlN6T0cyN004bVJNbG13QVI3TDRHM3NwVElaS1VSTE1KUkV4WlozT2JRNGNYejQxU1FYTURpV0lRYjBnMG1BYnNYTUV0aEFLQ0UzcVljbkc4cVpyaFlqc1FiMlBRZVBpM3NscHVnUXdFLXVfNVpNSmdBdXMyT0hZOUZfT2xtU0QyVkdpWXdBQWFITkhEbGZPYTVGS1pIcDhvMW1yS0hRYzN4R00zOF9zNWhPZXRvdnl6MHNLY0ZiSUVYVHhQOS1ab1Y1dXExWmxOS0NhcTh3dDl1T05VcF9JUkxtRnJvcUFiMWFyNUhaX3NPQXViNkVPMmZpeEY3VFlwUEFha242b25uSm1wV2psYXBKYVBSc1RlTzRXbk5UNkptT1dnMVVLM0pGWjJGM3BhYzhn0gG7AkFVX3lxTE9SZ0VkV2pfU3drM1VmT0ZkSGNhQ2szLXVZQ0lFX3huV0hwdDVVeWhLYXVfMWRYMEZ2RUgyckFZV0Z4SGZzT3RGRTUtQ25vZnBWaUo0UGFzYzNZMjlMbXRYZmp6NFgtQ0tRZW8wcU9zenVvVVZQalhTaXpEMGhJeHVIeGFnaVZSMldPaWRHYXZkcVFISDFrMVBEODZSTnhWUXo4czdNb05mRWsxb3hfczlfaGxWYXRRejZncUhUWVhGZHd0eTlWLUtfTGF6eTlIYldMXzZMZldwQi1qZEhkYjJmaTA2aERaaVNaQ3I3cXM0QXFpLU1MRW5VQXdvMG9XcVQ5YTdpMHl4RXZtOUpzd2RUcVhyTENMN3NnenVIZjdPT1FpRFZuWG5vVTE5V3A5RnZ6T2UzeDNyRGpyQQ?oc=5",
+      "published": "2026-09-22T15:12:00+00:00"
+    },
+    {
+      "id": "as-oil-bills-rise-why-global-co-op-matters-for-india-s-clean",
+      "lead": false,
+      "sector": "Energy & Industrials",
+      "title": "As oil bills rise, why global co-op matters for India's clean energy transition",
+      "dek": "As oil bills rise, why global co-op matters for India's clean energy transition Global Times",
+      "why": "",
+      "source": "Global Times",
+      "also": [
+        "Business Standard",
+        "Telegraph India",
+        "thecore.in"
+      ],
+      "coverage": 4,
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IVmdUMWJoOWJJMEZiTE5rSWZmX0FSTlJQM2RHNTZ5ZWhrZmhuSFk5cFlZUmlDcmRkTXRIRE95M1lFeS1veGsyZExQYm5UUHY3N09NcWR4UVZyT1FxRnVUT1hn?oc=5",
+      "published": "2026-09-22T14:57:00+00:00"
+    },
+    {
+      "id": "icici-bank-q2-results-date-dividend-share-price-history-earn",
+      "lead": false,
+      "sector": "Banking",
+      "title": "ICICI Bank Q2 Results: Date, Dividend, Share Price History, Earnings Call Schedule And More",
+      "dek": "ICICI Bank Q2 Results: Date, Dividend, Share Price History, Earnings Call Schedule And More NDTV Profit",
+      "why": "",
+      "source": "NDTV Profit",
+      "also": [
+        "BusinessLine",
+        "Equitymaster",
+        "Univest"
+      ],
+      "coverage": 4,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT2NIclpqTjY4RDh4bkZyWVZFTFhZenQ5Mkg5THVEb2swUGR4YW02clVKbmNMajd1R2IxTWtVNVZ4RktxSUR5ekJ6TDhYeFdtNzkzRTVJQnpJcm4tTlp6bjVnV2FsT1JWR1FyRUJ6VExEMHdMNUp0UE5Xbk1XWnF2YXZDNXJsaDNwcnRNdUIxZUl6eG9PSmtWMS1UVExHUkR5UmhpQi1tVTBrQ09mbzd6NzRyaUVBcm5yWUlWeDdmLVNiWDREcmQwS21iSdIB0wFBVV95cUxPMG1uT2xLY3Z6c3FwT3RqdkxZVGpSN0xrYmZzVHA1SVBBR0oyWjhHZTJmQWRaRVRsWEJzbE11M2xqNFlzT3Y2UVNVVVdFa3NTckVVQkV6SGtMLTNfVWwzcVpvM015VUtUUWJkeWlkZ0R0Nk42TzZ1T0hWZThPdmJuNHB0RTE4Z3YySG1ocG5CRm9ETEk5ZGFVa3Rpb1pZVjFEZEVDOGt1SHJtZ29WOEFXYWtiaWx5Y29DSEtQd2VGTzRaY01HSnc1Y2dOM0VOVE0tTTlN?oc=5",
+      "published": "2026-09-22T14:26:05+00:00"
+    },
+    {
+      "id": "indian-banks-regulatory-data-quality-improves-as-rbi-s-super",
+      "lead": false,
+      "sector": "Banking",
+      "title": "Indian banks' regulatory data quality improves as RBI's Supervisory Data Quality Index rises to 93.3 in June..",
+      "dek": "Indian banks' regulatory data quality improves as RBI's Supervisory Data Quality Index rises to 93.3 in June.. bfsi.economictimes.indiatimes.com",
+      "why": "",
+      "source": "bfsi.economictimes.indiatimes.com",
+      "also": [
+        "BusinessLine",
+        "CNBC TV18",
+        "Traders Union"
+      ],
+      "coverage": 4,
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQaWhCSzg2d09XaFVzUkZSTVJBM1RJSGVzR2pXZkUxS3VoYVkzTzlZdzhPQjhLMzRYS3RndXIxMUtCRXBhQ0lHQXR5eFlEeDZlYmN6RjQ0a1RxS3YtT0ZRdVlpVHBuZmREakJ5U3RkUzh1dVdTd3YwRy1peV9GOU9zTlZmMDdFNnJqbXU5WVhvS3NGbGo5dFI3UVRvb2JHSzJWMkxrOXJaanM4UjlCcVBlWS1QSUNDUjQtZnp3eEdfN2NxZkV6MzFNUmhxSmRoNkpmR0tZT2s0dUFmQWN1SkF1bTRmTE5LMnp1QjE1WWJZam5PV0d5NnlQdHBIRGgya2F5Yk1TWl9pdzZPd1XSAZACQVVfeXFMTUJNZTg0Z3J1RXFYNUp2b0JVSHFhT0JETEVuR21XZkV2b20zazNGNTliWGV6bkJ0MDBuQ1oyY1dLbmkzclYzTUdSUzdjeENIUGRZaFlmVkxhNkdyMmpmOVAxM2JsOC1OSWhDTTdEQlhxMmVCdWYwSFlYeEpxdDdidWZjLUJTYlRTYXEzSVY3ZkY4V2loQmZsNUVwS0kyaUZHWGJUcmRodFIzZktSbHYwTlhLSkRweFRMODNZdzFVUTFHOUJWcXAxUWlyelZzcmQ0NU5nSjcxZnBCcnJOdUNtUU9WRkMwYXNpbUdsbzlQUl9LUUdZNHFmZkxjNHI3N2RkS3BqVHI3NDFkLWhiNGN4NXY?oc=5",
+      "published": "2026-09-22T13:52:07+00:00"
+    },
+    {
+      "id": "maruti-suzuki-eyes-raising-female-student-intake-at-jim-mane",
+      "lead": false,
+      "sector": "Auto",
+      "title": "Maruti Suzuki eyes raising female student intake at JIM Manesar to 30% by 2028-29",
+      "dek": "Maruti Suzuki eyes raising female student intake at JIM Manesar to 30% by 2028-29 EdexLive",
+      "why": "",
+      "source": "EdexLive",
+      "also": [
+        "BW People",
+        "dailypioneer.com",
+        "metroindia.net"
+      ],
+      "coverage": 4,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRTcwSDFXTXVaLXB4b0FFX1JmWW1ZM0FJZXdGaFF5RXRYdEYzRVk2QWZBeGZzbnJaTE52U2RMQUY0Q3ZhUnNiRUF5WjNmMkNYTnV5TGJLSUJqQ3BZQmcxdGlwZDFfdGktUkQxMkhfZzBCejVxa3dpVVR5d1JBZEFtRHJpZkU1Zm83TkpVaXpJSEdMTTEtbGRtQXFOZDBHVTBiT2NtZjZRd3MyZ3hzZW9KRWlPb9IBwAFBVV95cUxQYmZsQVpBdnNiQXdsYlhyZFV6ck9Wb0dIOTlGUERxZnhmc0ltdW9Vb18wZGcwUVZLVzJrMGRvN0FiVDlaclRRZ3pSb0xsUUtrZ0lCeGZPaDd2eldjaVdfdXNJY05lOUVxbXdTR0tEYThzeHdBdk5sUlJ6NFB1Q1hXZDFOdFZoNTZ6R05nR0FrbUM3VlphTXhsdVNad0xKZS04Sjh3bm03VDUxMjdhQ3BkN01fN1BkZHF4ZlFTUGxWenI?oc=5",
+      "published": "2026-09-22T11:55:00+00:00"
+    },
+    {
+      "id": "maruti-suzuki-baleno-dzire-swift-cng-amt-full-price-list-out",
+      "lead": false,
+      "sector": "Auto",
+      "title": "Maruti Suzuki Baleno, Dzire & Swift CNG AMT Full Price List Out In India",
+      "dek": "Maruti Suzuki Baleno, Dzire & Swift CNG AMT Full Price List Out In India Gaadiwaadi.com",
+      "why": "",
+      "source": "Gaadiwaadi.com",
+      "also": [
+        "Machine Maker",
+        "NewsBytes",
+        "scanx.trade"
+      ],
+      "coverage": 4,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU2dpUE5LbG5JNkJiTW1MUWczbGpqcEZvWGdXMVZwWEZBOVFpVkhMdU5QUTRPcVdxREl6bklYNFoyTlhwUmc2eDdsd3VIRlVfXzBDV3dFcGY3WjNmQVFBRTRoaFFibVhtOVB0N3g1OWNhYXl6OUd1dmJSOHVCSGRrTS1iOXVqRURwbllTSnU3YWo2SDJmV1JpQdIBmAFBVV95cUxQU2dpUE5LbG5JNkJiTW1MUWczbGpqcEZvWGdXMVZwWEZBOVFpVkhMdU5QUTRPcVdxREl6bklYNFoyTlhwUmc2eDdsd3VIRlVfXzBDV3dFcGY3WjNmQVFBRTRoaFFibVhtOVB0N3g1OWNhYXl6OUd1dmJSOHVCSGRrTS1iOXVqRURwbllTSnU3YWo2SDJmV1JpQQ?oc=5",
+      "published": "2026-09-22T10:08:21+00:00"
+    },
+    {
+      "id": "maruti-suzuki-sees-over-10-growth-this-year-as-demand-outpac",
+      "lead": false,
+      "sector": "Auto",
+      "title": "Maruti Suzuki sees over 10% growth this year as demand outpaces supply, says Rahul Bharti",
+      "dek": "Maruti Suzuki sees over 10% growth this year as demand outpaces supply, says Rahul Bharti CNBC TV18",
+      "why": "",
+      "source": "CNBC TV18",
+      "also": [
+        "Gaadiwaadi.com",
+        "Sahi",
+        "metroindia.net"
+      ],
+      "coverage": 4,
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQX1I3OUp4ck1WWlpNMnZKSWVfT3RoZ2h1WUV0d2dqbkxqbUg1aktSQ1Y2QUh4MFh2LWtaSHoyZFpqbFdlZ3JVMFlDM3JLMFdULW9NV0hIRjQwaTNQbDNtVUpGTGRJS29JZXdMMlVRcDF4Um1MY0kyLW5uY3BLLW10OHROWHA2SFpzYWtzcjZGcmVpT0NxRkJIaUZGX2hVRFNxRDlYUWRpREZ0akxRajVLZkY1elhRNWQ4WlM4U09XdjZNaFVJcUN0cm5XNDNDMW5pVWkzOHZ5VllhY2Jfdzdzd1JPRWVyTVczR3ptUdIB8gFBVV95cUxQZ0tOeFZLYjJuR1gzWDBlc0RmR0UzZ1Q0NkRzWFhmOW9ydEdhMF82a0swZDlhb2lYRTgyUHFlNklDRE1UdlltY3lXaEtIai1WQkpmNmx3TlN2am5LQWtETnBLRW1UWk1nZkhNUHJubjQtQWFwOGVacjQwd0dYUS15VFFDdG14ODkyRE5sZ2xJVnZsM3d6LXE3Ynk0cGdTVnlSYklHNzNYWDllM0dlZFlsQ3E3TW1aTFdIWUpvRDVLenozRnlkNjFfNFZyYlV6azRyYjFrbm1uaGFhREN6NWVYMFVMczh4eUlVbERheHFqbnZvZw?oc=5",
+      "published": "2026-09-22T09:15:01+00:00"
+    },
+    {
+      "id": "hdfc-bank-shares-hit-7-week-high-as-rbi-weighs-anup-bagchi-f",
+      "lead": false,
+      "sector": "Banking",
+      "title": "HDFC Bank shares hit 7-week high as RBI weighs Anup Bagchi for CEO post. What lies ahead?",
+      "dek": "HDFC Bank shares hit 7-week high as RBI weighs Anup Bagchi for CEO post. What lies ahead? The Economic Times",
+      "why": "",
+      "source": "The Economic Times",
+      "also": [
+        "CNBC TV18",
+        "NDTV Profit",
+        "TradingView"
+      ],
+      "coverage": 4,
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWlk5YlRxQkZ6dEpDUDE2a2FZTG83dXhiVkZBTjFPSzFFaDVQSmVhVHhfV3dnYXRlTXpXNzJSWEFsYzVqYmdpenRXNHVMWXlXMkNfLUxsTlB6YlhmRkdOX1BpaWxkSkxOVENiSHNjVjNVUXFYNnBTb0xTaGVfV29FV003WmJmODVHMHRaeXZ6Y1dIYWpya0Yzdldmd2FVMExCQnZQUkl2RG1TSENLY3ZkQXZEc2N0SWYwQnRLdmFpVG9vVnhaWXNuYnRGYU1HaldVWGRYVWNZdkxRU1FIaDZnU2Q2QmpnWTZiN2N0cEpYN3ktcWfSAfgBQVVfeXFMUHkxMjg5a29fVlFoZXNla0h6YmwyWW56MjhsSnF0MTlPVnp4dnN1OXF2enpOMHl2ZU8xU2pTbmNTek9IdUswZlRxZllYOXZEaE53aENPUkNmeklKbnJTSDJ2VWl4N2w3SVNfWlg3MlRvbTk0TFBHckFPbGI4NEFUalZuQVZjcENpSjFKdGlnd3BaVV9sU1FrdFpubWt4TjY2VWt3X2hHck4wdTVOWi1NaVExTE5ZVnFha0Jsd1VnNWtoWFJkWmhjUTBGLUNMemlRRkdVTmhKOGI5Qk5Db3Zralg0bkdnVTJaRTBNSktGRmQtTEZESkFUYjI?oc=5",
+      "published": "2026-09-22T06:38:49+00:00"
+    },
+    {
+      "id": "nse-ipo-allotment-status-live-how-to-check-status-on-mufg-in",
+      "lead": false,
+      "sector": "Deals & IPOs",
+      "title": "NSE IPO Allotment Status Live: How to check status on MUFG Intime, BSE and NSE? Check steps, GMP, gu",
+      "dek": "NSE IPO Allotment Status Live: How to check status on MUFG Intime, BSE and NSE? Check steps, GMP, gu IndiaIPO",
+      "why": "",
+      "source": "IndiaIPO",
+      "also": [
+        "IPO Watch",
+        "India Infoline"
+      ],
+      "coverage": 3,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZjhlYm8wUVN3TUZ3WWVtYTMwVUJJOGdRT2ZHQTF2MEpScjd2bmY5THNsUkhQUDRGV2VFLVVyVWRIQnpLRmlWUXFaNm8zalEtMmxOV1NIRGtVQkpZMkxnaVF3NDhleU50SmNTaldoYmtOdlF0SzRFeGJEdlNHUUtvZ3FINGw5aGV2MEZmNjVTZ1gwS0ZOODJud3Rnb1pVY3hldzJpdHlEd1UybDNCdXVSZ2RfYWh4UEFJMi02MjRCTEhBQWIxTnhzZ1V6TQ?oc=5",
+      "published": "2026-09-22T15:04:14+00:00"
+    },
+    {
+      "id": "orient-cables-acevector-german-green-steel-announce-ipo-pric",
+      "lead": false,
+      "sector": "Deals & IPOs",
+      "title": "Orient Cables, AceVector, German Green Steel announce IPO price bands",
+      "dek": "Orient Cables, AceVector, German Green Steel announce IPO price bands Business Standard",
+      "why": "",
+      "source": "Business Standard",
+      "also": [
+        "Fortune India",
+        "fintechbiznews.com"
+      ],
+      "coverage": 3,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeWFycnFsakFnU0FCWkt0MzZBZHRmQy1xTWlpMDI2enNndGdnY1FyNGRhTjZaNkoxTEpWZnlxRnhHczRHVmxyT09CX1FyTkJ1TlczS3YtTkpEN3cyU3VlTXItb1FmRnliSmYtYkRxcjNQeVB5ZjVFMUNFTWF0QmJfTjRMUVhEcmJvaVQyUkRiY2JpbVZDcG5iTUZvXy1XS2RsZDVXUWQ1STFEVnhlYmZKOFdiZ1ZibHBaNzROemQ4R09IemU0S3MzbGxpYWlkZ9IB0wFBVV95cUxNb2szRnZsb2VmaFdHTFhNamJOX3ptRlRYajI5dWdJYndyMUh1QjF2SVNETE53cHMwSDMtbzhnTkVmOXJZcmtsN0NlcVpVM20waFR2cl9EenFXRHBwUk5fS2s4VXJkc1ViSUgwUUNDOUxubTlRMWhpRjFNUHBVTkt1aWc3dGlNSjhkeFdCU1RFcUt2WEs4QzhROEg1SGxJdnZ5dGZ3SmhoZHFGTVl5YkMzeUhwLVJ0RzN4dmdYYVZuNDBlUExpR2p4amZyUFVrX1IxWEU4?oc=5",
+      "published": "2026-09-22T14:12:20+00:00"
+    },
+    {
+      "id": "india-on-track-to-add-about-8-gw-wind-energy-capacity-in-fy2",
+      "lead": false,
+      "sector": "Deals & IPOs",
+      "title": "India on track to add about 8 GW wind energy capacity in FY27: Official",
+      "dek": "India on track to add about 8 GW wind energy capacity in FY27: Official Moneycontrol.com",
+      "why": "",
+      "source": "Moneycontrol.com",
+      "also": [
+        "ET Consumer",
+        "The Economic Times"
+      ],
+      "coverage": 3,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUkZOajNWM1JzS1hIdGMwUW5jc1RrU2U4YXlnVVRwdU9pV29fX2xId2RKRzlCeUFXUVl2MFhJdXU5bE9CV09jbk1aN1JnUU1rcWZtaDJwZ3Q1eUsyRVM4a0hvMzBrSE5iYi1SN2tJVmVHOExQSVpjY1c1dkJ4UVAwcnVWWEZiTmxqdW1WdG9hTHEtRW51bmIzWFRTRlkxR2RQX29oc3lIVDBhSktYekg1c293M0lEVWEtRUhpenVRbXcxd2xtbTc2WHpPONIBywFBVV95cUxPUkZOajNWM1JzS1hIdGMwUW5jc1RrU2U4YXlnVVRwdU9pV29fX2xId2RKRzlCeUFXUVl2MFhJdXU5bE9CV09jbk1aN1JnUU1rcWZtaDJwZ3Q1eUsyRVM4a0hvMzBrSE5iYi1SN2tJVmVHOExQSVpjY1c1dkJ4UVAwcnVWWEZiTmxqdW1WdG9hTHEtRW51bmIzWFRTRlkxR2RQX29oc3lIVDBhSktYekg1c293M0lEVWEtRUhpenVRbXcxd2xtbTc2WHpPOA?oc=5",
+      "published": "2026-09-22T13:58:55+00:00"
+    },
+    {
+      "id": "india-fortifies-patient-safety-net-with-launch-of-7th-nation",
+      "lead": false,
+      "sector": "Pharma & Healthcare",
+      "title": "India Fortifies Patient Safety Net with Launch of 7th National Formulary and Biovigilance Program",
+      "dek": "India Fortifies Patient Safety Net with Launch of 7th National Formulary and Biovigilance Program Pragativadi",
+      "why": "",
+      "source": "Pragativadi",
+      "also": [
+        "Medical Dialogues",
+        "boldnewsonline.com"
+      ],
+      "coverage": 3,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMmF5Q1IxbWwxUTRiU180dkhFSmxOcEJrOFdOaGJudThRMkdpdWVxSktWVXhVeEhrYkc1Z0tPOXd1aF9vZUh1RlBJdGdiOHJFZGV0Wk1MT1FtX2JYbEYxcWJqU2ZVTTFqUlctWW5Tbk1hZVR2WnJoQ3lSNVI5dlFMLVdfY2Rsck9IX3RjNURNQUJfSWM3ZGpycnpOWDFaWnF4cDIzN2MxbDhpdjBQUlV6cFRZZWdyUGtOejlfeXQwRQ?oc=5",
+      "published": "2026-09-22T22:13:35+00:00"
+    }
+  ]
+}
