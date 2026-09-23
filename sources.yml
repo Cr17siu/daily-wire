@@ -113,7 +113,10 @@ feeds:
     name: The Hindu National
     url: https://www.thehindu.com/news/national/feeder/default.rss
     weight: 2
+  # A bare "world news" query returns whatever Google thinks is popular —
+  # US college rankings turned up in this slot. Naming the beats keeps it to
+  # world events that actually bear on India.
   - sector: India & World
-    name: World
-    url: https://news.google.com/rss/search?q=world+news+when:1d&hl=en-IN&gl=IN&ceid=IN:en
+    name: World affairs
+    url: https://news.google.com/rss/search?q=(geopolitics+OR+%22trade+deal%22+OR+tariffs+OR+%22foreign+policy%22+OR+sanctions+OR+%22United+Nations%22)+when:1d&hl=en-IN&gl=IN&ceid=IN:en
     weight: 1

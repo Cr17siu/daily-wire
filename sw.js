@@ -10,7 +10,7 @@
  * keep the old shell until their browser evicts it.
  */
 
-const CACHE_VERSION = "wire-v2";
+const CACHE_VERSION = "wire-v3";
 const SHELL = [
   "./",
   "./index.html",

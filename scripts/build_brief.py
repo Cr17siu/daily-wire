@@ -73,6 +73,76 @@ def strip_html(raw: str) -> str:
     return text.strip()
 
 
+# Curly quotes, stray doubled punctuation and non-breaking spaces all arrive
+# from publishers' CMSes. None of it should reach the page.
+PUNCT_FIXES = [
+    (" ", " "), ("‘", "'"), ("’", "'"),
+    ("“", '"'), ("”", '"'), ("–", "-"), ("—", "—"),
+]
+
+# Headlines that stop mid-thought. Feeds truncate at a character count, so the
+# tail is a fragment: a dangling function word, a broken-off word after a comma
+# ("... GMP, gu"), or an ellipsis. Another outlet almost always carries the same
+# story intact, so a mangled copy is dropped rather than shown.
+DANGLING = {
+    "a", "an", "and", "as", "at", "but", "by", "for", "from", "in", "into",
+    "is", "of", "on", "or", "the", "to", "was", "were", "with", "that",
+    "after", "amid", "over", "says", "said", "how", "why", "what", "its",
+}
+
+
+def normalize_text(text: str) -> str:
+    """Decode entities, straighten punctuation, collapse whitespace."""
+    if not text:
+        return ""
+    text = html.unescape(html.unescape(text))  # feeds sometimes double-escape
+    for bad, good in PUNCT_FIXES:
+        text = text.replace(bad, good)
+    text = re.sub(r"\s+", " ", text)
+    text = re.sub(r"\.{2,}$", ".", text)       # "June.." -> "June."
+    text = re.sub(r"\s+([,.;:!?])", r"\1", text)
+    return text.strip()
+
+
+def looks_truncated(title: str) -> bool:
+    """True when a headline has been cut off mid-sentence."""
+    if not title:
+        return True
+    if title.endswith(("…", "...", "-", ",", ";", ":")):
+        return True
+    words = title.split()
+    if len(words) < 4:
+        return True
+    last = words[-1].strip(".,;:!?'\"").lower()
+    if last in DANGLING:
+        return True
+    # A short fragment right after a comma is a cut-off word, not a real ending:
+    # "... GMP, gu". Allow genuine short endings that carry a digit or capital.
+    if len(words) > 2 and words[-2].endswith(",") and len(last) <= 3:
+        if last.isalpha() and last == words[-1]:
+            return True
+    return False
+
+
+def dek_is_redundant(dek: str, title: str, source: str) -> bool:
+    """True when a description adds nothing over the headline it sits under."""
+    if not dek:
+        return True
+    d = re.sub(r"[^a-z0-9 ]", "", dek.lower()).strip()
+    t = re.sub(r"[^a-z0-9 ]", "", title.lower()).strip()
+    if not d:
+        return True
+    if d.startswith(t[:60]) or t.startswith(d[:60]):
+        return True
+    if source and d.replace(source.lower(), "").strip() in ("", "-"):
+        return True
+    # Mostly the headline's own words, with nothing new added.
+    dw, tw = set(d.split()), set(t.split())
+    if dw and len(dw & tw) / len(dw) > 0.85:
+        return True
+    return len(d) < 25
+
+
 def trim(text: str, limit: int = 260) -> str:
     """Cut to a sentence boundary under `limit` characters."""
     text = text.strip()
@@ -185,11 +255,14 @@ def source_name(entry, fallback: str) -> str:
 
 
 def clean_title(title: str) -> str:
-    """Drop the trailing " - Publisher" that Google News appends."""
+    """Normalize a headline and drop the " - Publisher" Google News appends."""
+    title = normalize_text(title)
     if " - " in title:
         head, tail = title.rsplit(" - ", 1)
         if 2 < len(tail.strip()) < 40 and tail.count(" ") < 4 and len(head) > 25:
-            return head.strip()
+            title = head.strip()
+    # Some feeds repeat the outlet as a prefix: "Moneycontrol: Nifty ends...".
+    title = re.sub(r"^[A-Z][\w& ]{2,24}:\s+(?=[A-Z])", "", title, count=1)
     return title.strip()
 
 
@@ -232,22 +305,32 @@ def collect(config: dict, fixtures: Path | None) -> list[dict]:
             continue
 
         kept = 0
+        dropped = 0
         for entry in parsed.entries:
             link = (entry.get("link") or "").strip()
             title = clean_title(entry.get("title", ""))
             if not link or not title or link in seen_urls:
                 continue
+            if looks_truncated(title):
+                dropped += 1
+                continue
             published = entry_time(entry)
             if published and now - published > window:
                 continue
             seen_urls.add(link)
+
+            source = source_name(entry, feed["name"])
+            dek = trim(normalize_text(strip_html(entry.get("summary", ""))))
+            if dek_is_redundant(dek, title, source):
+                dek = ""
+
             items.append(
                 {
                     "title": title,
                     "url": link,
-                    "dek": trim(strip_html(entry.get("summary", ""))),
+                    "dek": dek,
                     "sector": feed["sector"],
-                    "source": source_name(entry, feed["name"]),
+                    "source": source,
                     "weight": feed.get("weight", 1),
                     "published": published.isoformat() if published else None,
                     "_at": published or now,
@@ -255,7 +338,8 @@ def collect(config: dict, fixtures: Path | None) -> list[dict]:
                 }
             )
             kept += 1
-        print(f"  ok     {feed['name']}: {kept} of {len(parsed.entries)}", file=sys.stderr)
+        note = f" ({dropped} truncated)" if dropped else ""
+        print(f"  ok     {feed['name']}: {kept} of {len(parsed.entries)}{note}", file=sys.stderr)
 
     return items
 
@@ -295,11 +379,19 @@ def cluster(items: list[dict], threshold: float = 0.4) -> list[dict]:
             clusters.append({"lead": item, "members": [item], "_tokens": set(item["_tokens"])})
 
     for group in clusters:
-        outlets = {m["source"] for m in group["members"]}
         best = max(group["members"], key=lambda m: (m["weight"], len(m["dek"])))
+        # Keep each outlet's own link, not just its name — a "6 wires" badge the
+        # reader cannot click is a claim, not evidence.
+        outlets: dict[str, str] = {}
+        for member in group["members"]:
+            outlets.setdefault(member["source"], member["url"])
         group["story"] = dict(best)
         group["story"]["coverage"] = len(outlets)
-        group["story"]["also"] = sorted(outlets - {best["source"]})[:4]
+        group["story"]["also"] = [
+            {"name": name, "url": url}
+            for name, url in sorted(outlets.items())
+            if name != best["source"]
+        ]
     return clusters
 
 
@@ -475,14 +567,19 @@ def add_why(stories: list[dict]) -> None:
 # ------------------------------------------------------------------ output
 
 
-def build_standfirst(stories: list[dict]) -> str:
-    """A one-line summary of the brief itself, shown under the masthead."""
+def build_standfirst(stories: list[dict], collected: int) -> str:
+    """A one-line summary of the brief itself, shown under the masthead.
+
+    "45 of 45 running on more than one wire" read like a broken counter. What
+    the reader actually wants to know is the compression: how many separate
+    reports went in, and how many stories came out.
+    """
     sectors = len({s["sector"] for s in stories})
-    widely = sum(1 for s in stories if s.get("coverage", 1) > 1)
-    parts = [f"{len(stories)} stories across {sectors} sectors"]
-    if widely:
-        parts.append(f"{widely} running on more than one wire")
-    return " · ".join(parts)
+    reports = sum(s.get("coverage", 1) for s in stories)
+    return (
+        f"{len(stories)} stories across {sectors} sectors · "
+        f"consolidated from {reports} reports of {collected} collected"
+    )
 
 
 def to_public(story: dict, is_lead: bool) -> dict:
@@ -501,7 +598,7 @@ def to_public(story: dict, is_lead: bool) -> dict:
     }
 
 
-def write_outputs(stories: list[dict], day: str, config: dict) -> Path:
+def write_outputs(stories: list[dict], day: str, config: dict, collected: int) -> Path:
     leads = config.get("leads", 3)
     DATA.mkdir(parents=True, exist_ok=True)
 
@@ -509,7 +606,7 @@ def write_outputs(stories: list[dict], day: str, config: dict) -> Path:
         "date": day,
         "dateLabel": datetime.strptime(day, "%Y-%m-%d").strftime("%A, %-d %B %Y"),
         "builtAt": datetime.now(IST).isoformat(),
-        "standfirst": build_standfirst(stories),
+        "standfirst": build_standfirst(stories, collected),
         "sectors": sorted({s["sector"] for s in stories}),
         "stories": [to_public(s, i < leads) for i, s in enumerate(stories)],
     }
@@ -556,7 +653,7 @@ def main() -> int:
     if not args.no_why:
         add_why(stories)
 
-    path = write_outputs(stories, day, config)
+    path = write_outputs(stories, day, config, len(items))
     print(f"Wrote {len(stories)} stories to {path.relative_to(ROOT)}", file=sys.stderr)
     return 0
 
