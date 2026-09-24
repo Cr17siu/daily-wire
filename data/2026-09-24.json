@@ -1,0 +1,633 @@
+{
+  "date": "2026-09-24",
+  "dateLabel": "Thursday, 24 September 2026",
+  "builtAt": "2026-09-24T07:06:11.659560+05:30",
+  "standfirst": "44 stories across 6 sectors · consolidated from 53 reports of 251 collected",
+  "sectors": [
+    "Auto",
+    "Consumer",
+    "IT & AI",
+    "India & World",
+    "Macro",
+    "Markets"
+  ],
+  "stories": [
+    {
+      "id": "govt-cuts-edible-oil-duty-to-ease-prices",
+      "lead": true,
+      "sector": "Markets",
+      "title": "Govt cuts edible oil duty to ease prices",
+      "dek": "The government has cut customs duty on various edible oils, which includes crude and refined oils. These changes aim to reduce import costs and potentially ease domestic prices.",
+      "why": "",
+      "source": "ET Markets",
+      "also": [
+        {
+          "name": "ET Consumer",
+          "url": "https://economictimes.indiatimes.com/industry/cons-products/govt-slashes-edible-oil-import-duties-to-combat-rising-prices-and-food-inflation/articleshow/134445168.cms"
+        }
+      ],
+      "coverage": 2,
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/govt-slashes-edible-oil-import-duties-to-combat-rising-prices-and-food-inflation/articleshow/134448837.cms",
+      "published": "2026-09-23T19:11:25+00:00"
+    },
+    {
+      "id": "cbdt-eases-tds-compliance-for-property-buyers-dealing-with-n",
+      "lead": true,
+      "sector": "Macro",
+      "title": "CBDT eases TDS compliance for property buyers dealing with non-residents",
+      "dek": "The Central Board of Direct Taxes is set to simplify TDS compliance requirements for residents buying property from non-residents. From October 1, 2026, residents can use their PAN instead of obtaining a TAN for taxing purposes.",
+      "why": "",
+      "source": "ET Economy",
+      "also": [
+        {
+          "name": "ET Consumer",
+          "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/cbdt-eases-tds-compliance-for-property-buyers-dealing-with-non-residents/articleshow/134438865.cms"
+        }
+      ],
+      "coverage": 2,
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/cbdt-eases-tds-compliance-for-property-buyers-dealing-with-non-residents/articleshow/134438795.cms",
+      "published": "2026-09-23T13:02:15+00:00"
+    },
+    {
+      "id": "ai-coding-startup-byteask-raises-1-million-from-yc-entrepren",
+      "lead": true,
+      "sector": "IT & AI",
+      "title": "AI coding startup ByteAsk raises $1 million from YC, Entrepreneur First",
+      "dek": "The startup is building AI coding agents for C and C++ developers working in high-stakes industries such as defence, aerospace, robotics, high-frequency trading, automotive and semiconductors, ByteAsk said.",
+      "why": "",
+      "source": "ET Tech",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/tech/startups/ai-coding-startup-byteask-raises-1-million-from-yc-entrepreneur-first/articleshow/134443548.cms",
+      "published": "2026-09-24T00:30:00+00:00"
+    },
+    {
+      "id": "rupee-has-scope-to-stabilise-appreciate-rbi-deputy-governor",
+      "lead": false,
+      "sector": "Markets",
+      "title": "Rupee has scope to stabilise, appreciate: RBI deputy governor Poonam Gupta",
+      "dek": "\"One may think of the cumulative depreciation of the INR in the past year and a half to be a temporary phenomenon,\" she said. \"If anything, there seems to be a fair case for the rupee to not just stabilise but perhaps even appreciate from the current levels…",
+      "why": "",
+      "source": "ET Markets",
+      "also": [
+        {
+          "name": "ET Economy",
+          "url": "https://economictimes.indiatimes.com/news/economy/finance/rupee-may-not-just-stabilise-but-appreciate-from-current-levels-rbi-dy-guv-poonam-gupta/articleshow/134442756.cms"
+        }
+      ],
+      "coverage": 2,
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-has-scope-to-stabilise-appreciate-rbi-deputy-governor-poonam-gupta/articleshow/134448795.cms",
+      "published": "2026-09-23T18:45:33+00:00"
+    },
+    {
+      "id": "ahead-of-market-10-things-that-will-decide-stock-market-acti",
+      "lead": false,
+      "sector": "Markets",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
+      "dek": "Indian equities closed higher on Wednesday, with Sensex gaining 299 points and Nifty rising 118 points as crude prices eased below $99.",
+      "why": "",
+      "source": "ET Markets",
+      "also": [
+        {
+          "name": "Mint Markets",
+          "url": "https://www.livemint.com/market/stock-market-news/sensex-slips-over-11-000-points-from-record-high-in-10-months-3-triggers-that-may-fuel-the-indian-stock-market-11790151935193.html"
+        }
+      ],
+      "coverage": 2,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/134442041.cms",
+      "published": "2026-09-23T16:01:34+00:00"
+    },
+    {
+      "id": "sbi-expects-surplus-from-new-upi-mdr-as-issuing-acquiring-ba",
+      "lead": false,
+      "sector": "Markets",
+      "title": "SBI expects surplus from new UPI MDR as issuing, acquiring bank",
+      "dek": "State Bank of India will start charging a merchant discount rate on UPI payments exceeding Rs 2,000 from October 15. The bank anticipates generating surplus revenue due to its extensive card issuing and payment gateway services.",
+      "why": "",
+      "source": "ET Markets",
+      "also": [
+        {
+          "name": "ET Consumer",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-expects-surplus-from-new-upi-mdr-as-issuing-acquiring-bank/articleshow/134441532.cms"
+        }
+      ],
+      "coverage": 2,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-expects-surplus-from-new-upi-mdr-as-issuing-acquiring-bank/articleshow/134448782.cms",
+      "published": "2026-09-23T15:19:53+00:00"
+    },
+    {
+      "id": "10-year-us-treasury-yields-surges-over-5-05-to-19-year-high",
+      "lead": false,
+      "sector": "Markets",
+      "title": "10-year US Treasury yields surges over 5.05% to 19-year high",
+      "dek": "The 10-year US Treasury yield climbed to 5.058%, its highest level since July 2007, as fresh services and manufacturing data raised concerns about further Federal Reserve rate hikes.",
+      "why": "",
+      "source": "ET Markets",
+      "also": [
+        {
+          "name": "Mint Markets",
+          "url": "https://www.livemint.com/market/us-stocks-fall-as-10-year-treasury-yield-hits-highest-since-2007-11790195978698.html"
+        }
+      ],
+      "coverage": 2,
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/10-year-us-treasury-yields-surges-over-5-05-to-19-year-high/articleshow/134441042.cms",
+      "published": "2026-09-23T14:52:02+00:00"
+    },
+    {
+      "id": "sedemac-mechatronics-block-deal-hdfc-life-a91-to-offload-10",
+      "lead": false,
+      "sector": "Markets",
+      "title": "Sedemac Mechatronics block deal: HDFC Life, A91 to offload 10% stake worth Rs 1,329 crore",
+      "dek": "Sedemac Mechatronics may see a block deal of up to 44.3 lakh shares, representing 10% equity, as investors seek approximately Rs 1,329 crore. The reported Rs 3,000 floor price is below Wednesday's close, with shares subject to a 60-day lock-in.",
+      "why": "",
+      "source": "ET Markets",
+      "also": [
+        {
+          "name": "Mint Markets",
+          "url": "https://www.livemint.com/market/stock-market-news/sedemac-mechatronics-block-deal-a91-xponentia-hdfc-life-likely-to-offload-10-stake-report-11790175988672.html"
+        }
+      ],
+      "coverage": 2,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sedemac-mechatronics-block-deal-hdfc-life-a91-to-offload-10-stake-worth-rs-1329-crore/articleshow/134440898.cms",
+      "published": "2026-09-23T14:38:20+00:00"
+    },
+    {
+      "id": "sebi-weighs-margin-changes-for-longer-dated-derivatives",
+      "lead": false,
+      "sector": "Markets",
+      "title": "Sebi weighs margin changes for longer-dated derivatives",
+      "dek": "Sebi may look to review margin requirements for longer-dated derivatives as it seeks to broaden India's equity derivatives market beyond the dominance of short-term index options.",
+      "why": "",
+      "source": "Mint Markets",
+      "also": [
+        {
+          "name": "ET Markets",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-weighs-lower-margins-for-longer-term-derivatives-as-fo-losses-stay-high-tuhin-kanta-pandey/articleshow/134440032.cms"
+        }
+      ],
+      "coverage": 2,
+      "url": "https://www.livemint.com/market/stock-market-news/sebi-stock-futures-options-derivatives-index-options-11790168119720.html",
+      "published": "2026-09-23T14:03:10+00:00"
+    },
+    {
+      "id": "ntpc-pays-rs-3-393-83-crore-final-dividend-for-fy26-total-pa",
+      "lead": false,
+      "sector": "Markets",
+      "title": "NTPC pays Rs 3,393.83 crore final dividend for FY26; total payout reaches Rs 8,727 crore",
+      "dek": "NTPC Ltd has declared a final dividend of Rs 3,393.83 crore, contributing to a total of Rs 8,727 crore for the financial year 2025-26. This dividend represents 35 percent of the company's paid-up equity share capital.",
+      "why": "",
+      "source": "ET Markets",
+      "also": [
+        {
+          "name": "ET Consumer",
+          "url": "https://economictimes.indiatimes.com/industry/energy/power/ntpc-declares-record-final-dividend-of-rs-339383-crore-for-fy26-totaling-rs-8727-crore-in-payout/articleshow/134439595.cms"
+        }
+      ],
+      "coverage": 2,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ntpc-pays-rs-3393-83-crore-final-dividend-for-fy26-total-payout-reaches-rs-8727-crore/articleshow/134440113.cms",
+      "published": "2026-09-23T13:56:39+00:00"
+    },
+    {
+      "id": "global-agencies-see-india-s-growth-ringing-louder-raise-fy27",
+      "lead": false,
+      "sector": "Macro",
+      "title": "Global agencies see India's growth ringing louder; raise FY27 GDP forecasts on upbeat demand and investment sentiment",
+      "dek": "India's FY27 growth outlook has received upgrades from the OECD, Asian Development Bank, S&P Global Ratings and Fitch Ratings, with forecasts now ranging from 6.9% to 7.1% amid strong domestic demand, investment, services and exports.",
+      "why": "",
+      "source": "ET Economy",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/global-agencies-see-indias-growth-ringing-louder-raise-fy27-gdp-forecasts-on-upbeat-demand-and-investment-sentiment/articleshow/134445433.cms",
+      "published": "2026-09-23T22:30:00+00:00"
+    },
+    {
+      "id": "youtube-unveils-ai-creator-tools-shopping-features-at-annual",
+      "lead": false,
+      "sector": "IT & AI",
+      "title": "YouTube unveils AI creator tools, shopping features at annual event",
+      "dek": "The new creator tools include additions to YouTube Studio for feedback on video drafts, channel-matched thumbnails and testing up to three video cuts.",
+      "why": "",
+      "source": "ET Tech",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/tech/technology/youtube-unveils-ai-creator-tools-shopping-features-at-annual-event/articleshow/134444747.cms",
+      "published": "2026-09-23T18:46:13+00:00"
+    },
+    {
+      "id": "tds-norms-eased-for-buying-nri-property",
+      "lead": false,
+      "sector": "Macro",
+      "title": "TDS norms eased for buying NRI property",
+      "dek": "The CBDT has amended Income-tax Rules, 2026, allowing buyers to deposit and report TDS under Section 393(2) of the Income-tax Act, 2025 through a PAN-based challan-cum-statement in Form 141. The changes will take effect from October 1, 2026.",
+      "why": "",
+      "source": "ET Economy",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/tds-norms-eased-for-buying-nri-property/articleshow/134444649.cms",
+      "published": "2026-09-23T18:43:59+00:00"
+    },
+    {
+      "id": "microsoft-plans-10-billion-plus-gulf-investment-with-focus-o",
+      "lead": false,
+      "sector": "IT & AI",
+      "title": "Microsoft plans $10 billion-plus Gulf investment with focus on resilience",
+      "dek": "Gulf countries are pouring billions into AI as they strive to become global hubs to help diversify their economies away from oil and gas, betting that land abundance and access to cheap energy will lure hyperscalers, including Microsoft.",
+      "why": "",
+      "source": "ET Tech",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-plans-10-billion-plus-gulf-investment-with-focus-on-resilience/articleshow/134444637.cms",
+      "published": "2026-09-23T18:42:53+00:00"
+    },
+    {
+      "id": "private-sector-growth-hits-three-month-high",
+      "lead": false,
+      "sector": "Macro",
+      "title": "Private sector growth hits three-month high",
+      "dek": "Manufacturing PMI climbed to a seven-month high of 55.7 in September from 52.8 in August, while services activity increased to 55.8 from 54.1. Demand strengthened across both manufacturing and services, with manufacturing recording a higher increase.",
+      "why": "",
+      "source": "ET Economy",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/private-sector-growth-hits-three-month-high/articleshow/134444512.cms",
+      "published": "2026-09-23T18:39:02+00:00"
+    },
+    {
+      "id": "brics-tax-model-needs-to-reflect-reality-fm-nirmala-sitharam",
+      "lead": false,
+      "sector": "Macro",
+      "title": "BRICS tax model needs to reflect reality: FM Nirmala Sitharaman",
+      "dek": "India will lead both working groups. The meeting also approved terms of reference of the BRICS Tax Support Network. Addressing the BRICS Heads of Tax Authorities meeting in New Delhi, Sitharaman said the proposed working groups would create a sustained…",
+      "why": "",
+      "source": "ET Economy",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/brics-tax-model-needs-to-reflect-reality-fm-nirmala-sitharaman/articleshow/134444378.cms",
+      "published": "2026-09-23T18:31:43+00:00"
+    },
+    {
+      "id": "ai-speeding-up-tech-development-but-identifying-problems-is",
+      "lead": false,
+      "sector": "IT & AI",
+      "title": "AI speeding up tech development, but identifying problems is key: SAP Labs India MD",
+      "dek": "During a fireside discussion on Leadership in the AI Era, Gangadharan said companies should start with the business outcome they want to achieve rather than look for problems after adopting a technology.",
+      "why": "",
+      "source": "ET Tech",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/tech/technology/ai-speeding-up-tech-development-but-identifying-problems-is-key-sap-labs-india-md/articleshow/134444146.cms",
+      "published": "2026-09-23T18:08:32+00:00"
+    },
+    {
+      "id": "meta-s-muse-rekindles-fears-over-winners-and-losers-as-perso",
+      "lead": false,
+      "sector": "IT & AI",
+      "title": "Meta's Muse rekindles fears over winners and losers as personal AI agent emerges",
+      "dek": "Meta's Muse, the first major consumer product to emerge under Alexandr Wang since he was hired to head its AI efforts last year, has split the fortunes of US stocks this week.",
+      "why": "",
+      "source": "ET Tech",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/metas-muse-rekindles-fears-over-winners-and-losers-as-personal-ai-agent-emerges/articleshow/134443506.cms",
+      "published": "2026-09-23T17:36:11+00:00"
+    },
+    {
+      "id": "physicswallah-s-alakh-pandey-to-move-base-to-south-india-for",
+      "lead": false,
+      "sector": "IT & AI",
+      "title": "PhysicsWallah's Alakh Pandey to move base to South India for business expansion",
+      "dek": "Taking the first step in this direction, PhysicsWallah (PW) has signed a five-year partnership with Mohan Babu University (MBU) through which it will provide online AI, skilling and career-focused courses to nearly 18,000 students of the university.",
+      "why": "",
+      "source": "ET Tech",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/tech/startups/physicswallahs-alakh-pandey-to-move-base-to-south-india-for-business-expansion/articleshow/134442259.cms",
+      "published": "2026-09-23T16:13:34+00:00"
+    },
+    {
+      "id": "ola-electric-to-consider-rights-issue-as-it-looks-to-raise-f",
+      "lead": false,
+      "sector": "IT & AI",
+      "title": "Ola Electric to consider rights issue as it looks to raise fresh capital",
+      "dek": "The proposed fundraise, which will be subject to regulatory and statutory approvals, comes weeks after the company's board okayed plans to raise up to Rs 1,500 crore through equity shares and other securities.",
+      "why": "",
+      "source": "ET Tech",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/tech/startups/ola-electric-to-consider-rights-issue-as-it-looks-to-raise-fresh-capital/articleshow/134442024.cms",
+      "published": "2026-09-23T16:02:23+00:00"
+    },
+    {
+      "id": "d2c-silver-jewellery-brand-unniyarcha-raises-rs-10-crore-led",
+      "lead": false,
+      "sector": "IT & AI",
+      "title": "D2C silver jewellery brand Unniyarcha raises Rs 10 crore led by Sauce",
+      "dek": "The startup plans to use the funding for branding and marketing, expanding its manufacturing and supply chain capacity, and adding new product categories, cofounder Pulkit Bhat told ET.",
+      "why": "",
+      "source": "ET Tech",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/tech/funding/d2c-silver-jewellery-brand-unniyarcha-raises-rs-10-crore-led-by-sauce-vc/articleshow/134441029.cms",
+      "published": "2026-09-23T14:47:32+00:00"
+    },
+    {
+      "id": "ibbi-allows-liquidators-to-modify-stakeholder-list-on-new-in",
+      "lead": false,
+      "sector": "Macro",
+      "title": "IBBI allows liquidators to modify stakeholder list on new information",
+      "dek": "Under the earlier regime the liquidator could not change this list independently and had to apply to the Adjudicating Authority- usually the National Company Law Tribunal (NCLT)- for modifications.",
+      "why": "",
+      "source": "ET Economy",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/ibbi-allows-liquidators-to-modify-stakeholder-list-on-new-information/articleshow/134439936.cms",
+      "published": "2026-09-23T13:51:01+00:00"
+    },
+    {
+      "id": "budget-2027-28-process-begins-october-12-with-month-long-pre",
+      "lead": false,
+      "sector": "Macro",
+      "title": "Budget 2027-28 process begins October 12 with month-long pre-budget meetings",
+      "dek": "Pre-budget meetings for the Union Budget 2027-28 will commence on October 12 and continue until November 13. These discussions aim to finalize the Revised Estimate for 2026-27 and the Budget Estimate for 2027-28.",
+      "why": "",
+      "source": "ET Economy",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/budget-2027-28-process-begins-october-12-with-month-long-pre-budget-meetings/articleshow/134438905.cms",
+      "published": "2026-09-23T13:18:44+00:00"
+    },
+    {
+      "id": "nabard-brings-banks-government-together-to-ease-kisan-credit",
+      "lead": false,
+      "sector": "Macro",
+      "title": "NABARD brings banks, government together to ease Kisan Credit Card access in Delhi",
+      "dek": "Nabin Kumar Roy, Chief General Manager, NABARD, emphasised that enhancing farmers access to Kisan Credit Cards remains a priority and called for coordinated efforts among government departments, banks, cooperatives and development institutions.",
+      "why": "",
+      "source": "ET Economy",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/news/economy/agriculture/nabard-brings-banks-government-together-to-ease-kisan-credit-card-access-in-delhi/articleshow/134437804.cms",
+      "published": "2026-09-23T12:36:27+00:00"
+    },
+    {
+      "id": "what-makes-an-enterprise-ai-solution-stand-out-in-2026",
+      "lead": false,
+      "sector": "Consumer",
+      "title": "What makes an enterprise AI solution stand out in 2026?",
+      "dek": "Enterprise AI is moving beyond experimentation. Products that solve clear business problems, fit existing workflows, and show measurable value are increasingly separating themselves from the wider AI market.",
+      "why": "",
+      "source": "ET Consumer",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/industry/media/entertainment/ai-products-in-india-what-makes-an-enterprise-ai-solution-stand-out-in-2026/articleshow/134438481.cms",
+      "published": "2026-09-24T01:30:00+00:00"
+    },
+    {
+      "id": "one-year-of-leh-violence-that-killed-four-what-happened-in-2",
+      "lead": false,
+      "sector": "India & World",
+      "title": "One year of Leh violence that killed four: What happened in 2025?",
+      "dek": "Four people died in the violence that erupted in Leh, Ladakh, on September 24, 2025",
+      "why": "",
+      "source": "The Hindu National",
+      "also": [],
+      "coverage": 1,
+      "url": "https://www.thehindu.com/news/national/ladakh/2025-leh-protests-what-was-it-sonam-wangchuks-role-explained/article71498281.ece",
+      "published": "2026-09-24T01:26:43+00:00"
+    },
+    {
+      "id": "cjp-to-take-up-issue-of-eci-reforms-as-cec-gyanesh-kumar-fac",
+      "lead": false,
+      "sector": "India & World",
+      "title": "CJP to take up issue of ECI reforms as CEC Gyanesh Kumar faces flak",
+      "dek": "The CJP has cancelled its programmes scheduled for Thursday (September 24, 2026) and said its leadership would address a press conference in Delhi on the \"Hijacking of India's Democracy\" at noon.",
+      "why": "",
+      "source": "The Hindu National",
+      "also": [],
+      "coverage": 1,
+      "url": "https://www.thehindu.com/news/national/cjp-to-take-up-issue-of-eci-reforms-as-cec-gyanesh-kumar-faces-flak/article71502526.ece",
+      "published": "2026-09-24T01:21:59+00:00"
+    },
+    {
+      "id": "roshibina-devi-bags-second-asian-games-silver-in-wushu",
+      "lead": false,
+      "sector": "India & World",
+      "title": "Roshibina Devi bags second Asian Games silver in wushu",
+      "dek": "It is third Asian Games medal for Roshibina, who won a silver at the 2023 Hangzhou Asian Games and a bronze at the 2018 Jakarta-Palembang Games",
+      "why": "",
+      "source": "The Hindu National",
+      "also": [],
+      "coverage": 1,
+      "url": "https://www.thehindu.com/news/national/asian-games-2026-live-updates-on-september-24-2026/article71501314.ece",
+      "published": "2026-09-24T01:14:41+00:00"
+    },
+    {
+      "id": "asian-games-2026-india-s-medallists-full-list-of-winners",
+      "lead": false,
+      "sector": "India & World",
+      "title": "Asian Games 2026 India's medallists: Full list of winners",
+      "dek": "Here's the full list of Indian medallists at the Aichi-Nagoya Asian Games 2026 categorised by sport",
+      "why": "",
+      "source": "The Hindu National",
+      "also": [],
+      "coverage": 1,
+      "url": "https://www.thehindu.com/sport/asian-games-2026-india-medalists-full-list-of-winners-aichi-nagoya-japan/article71491065.ece",
+      "published": "2026-09-24T01:12:23+00:00"
+    },
+    {
+      "id": "tamil-nadu-congress-leader-says-he-told-chennai-police-about",
+      "lead": false,
+      "sector": "India & World",
+      "title": "Tamil Nadu Congress leader says he told Chennai Police about Veeramani scandal two years ago",
+      "dek": "Tamil Nadu Congress Committee's Scheduled Caste Department president M.P. Ranjan Kumar says he met a senior police officer at the Chennai Police Commissionerate on November 22, 2024, and submitted a complaint, seeking action against Veeramani and his…",
+      "why": "",
+      "source": "The Hindu National",
+      "also": [],
+      "coverage": 1,
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/veeramani-sex-abuse-case-tamil-nadu-congress-leader-says-he-told-chennai-police-about-scandal-two-years-ago/article71500822.ece",
+      "published": "2026-09-24T01:09:08+00:00"
+    },
+    {
+      "id": "sc-stops-short-of-fixing-time-limit-for-speaker-birla-in-dis",
+      "lead": false,
+      "sector": "India & World",
+      "title": "SC stops short of fixing time limit for Speaker Birla in disqualification proceedings against TMC rebel MPs",
+      "dek": "Rebel MPs have sought four weeks to file replies; SC records the fact",
+      "why": "",
+      "source": "The Hindu National",
+      "also": [],
+      "coverage": 1,
+      "url": "https://www.thehindu.com/news/national/sc-stops-short-of-fixing-time-limit-for-speaker-birla-in-disqualification-proceedings-against-tmc-rebel-mps/article71499018.ece",
+      "published": "2026-09-24T01:01:50+00:00"
+    },
+    {
+      "id": "opposition-calls-for-cec-gyanesh-kumar-s-removal-after-repor",
+      "lead": false,
+      "sector": "India & World",
+      "title": "Opposition calls for CEC Gyanesh Kumar's removal after report on Election Commissioners' dissent",
+      "dek": "Both ECs recorded formal objections regarding centralisation of poll roll database, \"illegal\" changes in Form 6, removal of voters in West Bengal, Goa; terming the CEC the \"chief architect of vote chori\", Congress calls for SC-monitored probe",
+      "why": "",
+      "source": "The Hindu National",
+      "also": [],
+      "coverage": 1,
+      "url": "https://www.thehindu.com/news/national/election-commission-dissent-sparks-opposition-call-for-cec-gyanesh-kumars-removal/article71498434.ece",
+      "published": "2026-09-24T01:00:45+00:00"
+    },
+    {
+      "id": "election-commission-says-highlighting-certain-internal-notes",
+      "lead": false,
+      "sector": "India & World",
+      "title": "Election Commission says highlighting certain internal notes gives only one side of the picture",
+      "dek": "The poll body was responding to an Indian Express report that two of three Election Commissioners had recorded objections at least 14 times over 10 months, saying major decisions were made without their knowledge",
+      "why": "",
+      "source": "The Hindu National",
+      "also": [],
+      "coverage": 1,
+      "url": "https://www.thehindu.com/news/national/differing-views-observations-are-normal-part-of-deliberation-in-any-institution-eci-on-reports-of-internal-friction/article71499104.ece",
+      "published": "2026-09-24T00:58:01+00:00"
+    },
+    {
+      "id": "entry-level-hatchbacks-regain-ground-after-gst-cuts-but-suvs",
+      "lead": false,
+      "sector": "Auto",
+      "title": "Entry-level hatchbacks regain ground after GST cuts, but SUVs continue to dominate",
+      "dek": "Tax cuts on small cars have increased their market share, rising from 2.3% to 3.3% recently. Sport utility vehicles have continued to gain popularity, increasing their share to 58%.",
+      "why": "",
+      "source": "ET Auto",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/entry-level-hatchbacks-regain-ground-after-gst-cuts-but-suvs-continue-to-dominate/articleshow/134445312.cms",
+      "published": "2026-09-24T00:00:00+00:00"
+    },
+    {
+      "id": "india-s-big-upgrade-wave-rs-1-crore-homes-premium-cars-swiss",
+      "lead": false,
+      "sector": "Consumer",
+      "title": "India's big upgrade wave: Rs 1 crore+ homes, premium cars, Swiss watches & pricier phones; how brands are chasing affluent demand beyond city limits",
+      "dek": "Premiumisation trend is spreading beyond affluent urban consumers, with households upgrading across homes, cars, travel, smartphones, appliances and everyday products.",
+      "why": "",
+      "source": "ET Consumer",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/industry/services/retail/indias-big-upgrade-wave-rs-1-crore-homes-premium-cars-swiss-watches-pricier-phones-how-brands-are-chasing-affluent-demand-beyond-city-limits/articleshow/134445310.cms",
+      "published": "2026-09-23T22:30:00+00:00"
+    },
+    {
+      "id": "crude-prices-rise-nearly-2-amid-choppy-trade",
+      "lead": false,
+      "sector": "Consumer",
+      "title": "Crude prices rise nearly 2% amid choppy trade",
+      "dek": "Oil prices saw an increase of almost 2% in a volatile market influenced by geopolitical tensions. Traders reacted to Iranian President Masoud Pezeshkian's assurance of Iran's resilience amidst ongoing negotiations.",
+      "why": "",
+      "source": "ET Consumer",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/crude-oil-prices-surge-nearly-2-amidst-tensions-over-irans-strait-of-hormuz/articleshow/134445439.cms",
+      "published": "2026-09-23T19:33:51+00:00"
+    },
+    {
+      "id": "india-ramps-up-lpg-output-as-festival-season-begins",
+      "lead": false,
+      "sector": "Consumer",
+      "title": "India ramps up LPG output as festival season begins",
+      "dek": "India's state-owned refiners have raised domestic LPG production to around 44,000 tonnes a day as festive-season demand rises and renewed conflict in the Persian Gulf disrupts contracted supplies.",
+      "why": "",
+      "source": "ET Consumer",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-ramps-up-lpg-output-as-festival-season-begins/articleshow/134445231.cms",
+      "published": "2026-09-23T19:17:28+00:00"
+    },
+    {
+      "id": "fssai-initiates-action-against-amazon-swiggy-instamart-bigba",
+      "lead": false,
+      "sector": "Consumer",
+      "title": "FSSAI initiates action against Amazon, Swiggy Instamart, BigBasket, Flipkart India over alleged violations",
+      "dek": "FSSAI said action had been initiated against Amazon, Flipkart India, Swiggy Instamart, Zepto and BigBasket over allegedly misleading claims related to Happilo Premium Date Bites - Zesty Orange.",
+      "why": "",
+      "source": "ET Consumer",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/food/fssai-initiates-action-against-amazon-swiggy-instamart-bigbasket-flipkart-india-over-alleged-violations/articleshow/134444985.cms",
+      "published": "2026-09-23T19:06:30+00:00"
+    },
+    {
+      "id": "reliance-consumer-products-quadruples-authorised-capital-to",
+      "lead": false,
+      "sector": "Consumer",
+      "title": "Reliance Consumer Products quadruples authorised capital to ₹40,000 crore as FMCG business scales up",
+      "dek": "Reliance Industries has expanded the authorised share capital of Reliance Consumer Products to ₹40,000 crore. The company has tripled its borrowing limit to ₹27,000 crore to support its FMCG operations.",
+      "why": "",
+      "source": "ET Consumer",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/reliance-consumer-products-quadruples-authorised-capital-to-40000-crore-as-fmcg-business-scales-up/articleshow/134445016.cms",
+      "published": "2026-09-23T19:06:20+00:00"
+    },
+    {
+      "id": "praj-industries-looks-beyond-ethanol-slowdown-targets-data-c",
+      "lead": false,
+      "sector": "Consumer",
+      "title": "Praj Industries looks beyond ethanol slowdown, targets data centres and semiconductors",
+      "dek": "Praj Industries is facing challenges in its core ethanol business due to domestic demand constraints. The company aims to diversify into areas like hyperscale data centres and new biofuels for growth.",
+      "why": "",
+      "source": "ET Consumer",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/industry/renewables/praj-industries-looks-beyond-ethanol-slowdown-targets-data-centres-and-semiconductors/articleshow/134444997.cms",
+      "published": "2026-09-23T19:04:06+00:00"
+    },
+    {
+      "id": "forget-holidays-indians-travelled-most-for-religion-47-7-of",
+      "lead": false,
+      "sector": "Consumer",
+      "title": "Forget holidays, Indians travelled most for religion: 47.7% of domestic overnight trips were for pilgrimage, govt survey reveals",
+      "dek": "Religious travel accounted for 47.7% of domestic overnight trips in India during the year to June 2026, making it the most common purpose of travel, according to the Domestic Tourism Expenditure Survey released by the statistics ministry.",
+      "why": "",
+      "source": "ET Consumer",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/industry/services/travel/forget-holidays-indians-travelled-most-for-religion-47-7-of-domestic-overnight-trips-were-for-pilgrimage-govt-survey-reveals/articleshow/134444674.cms",
+      "published": "2026-09-23T18:46:54+00:00"
+    },
+    {
+      "id": "automovers-group-outlines-rs-500-crore-expansion-plan-amid-r",
+      "lead": false,
+      "sector": "Auto",
+      "title": "AutoMovers Group outlines Rs 500 crore expansion plan amid rising demand",
+      "dek": "AutoMovers Group intends to invest Rs 500 crore to expand and streamline its network across key markets. The investment aims to enhance sales and service capabilities while increasing manufacturing capacity.",
+      "why": "",
+      "source": "ET Auto",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/automovers-group-outlines-rs-500-crore-expansion-plan-amid-rising-demand/articleshow/134430065.cms",
+      "published": "2026-09-23T09:13:04+00:00"
+    },
+    {
+      "id": "hyundai-motor-india-opens-booking-for-bayon-at-rs-11-000-che",
+      "lead": false,
+      "sector": "Auto",
+      "title": "Hyundai Motor India opens booking for Bayon at Rs 11,000; check how to book, specifications & more",
+      "dek": "Hyundai Motor India Limited has announced the opening of bookings for the Hyundai Bayon, which features advanced technology. The Bayon includes an in-built generative AI voice assistant and is based on the Global K Enhanced Platform.",
+      "why": "",
+      "source": "ET Auto",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-motor-india-opens-booking-for-bayon-model-at-rs-11000-check-how-to-book-specifications-more/articleshow/134428114.cms",
+      "published": "2026-09-23T07:29:41+00:00"
+    },
+    {
+      "id": "govt-set-to-consider-auto-pli-applications-with-chinese-inve",
+      "lead": false,
+      "sector": "Auto",
+      "title": "Govt set to consider auto PLI applications with Chinese investment after FDI nod",
+      "dek": "The Indian government is likely to consider production-linked incentive applications from auto companies with Chinese investments. This decision comes after President Xi Jinping's recent visit to India and improving relations.",
+      "why": "",
+      "source": "ET Auto",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/govt-set-to-consider-auto-pli-applications-with-chinese-investment-after-fdi-nod/articleshow/134419730.cms",
+      "published": "2026-09-23T00:00:00+00:00"
+    }
+  ]
+}
