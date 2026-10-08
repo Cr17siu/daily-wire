@@ -1,0 +1,1329 @@
+{
+  "date": "2026-10-08",
+  "dateLabel": "Thursday, 8 October 2026",
+  "builtAt": "2026-10-08T07:09:37.610472+05:30",
+  "standfirst": "45 stories across 9 sectors · consolidated from 215 reports of 1015 collected",
+  "sectors": [
+    "Auto",
+    "Consumer",
+    "Deals & IPOs",
+    "Energy & Industrials",
+    "IT & AI",
+    "India & World",
+    "Macro",
+    "Markets",
+    "Startups"
+  ],
+  "stories": [
+    {
+      "id": "anthropic-launches-third-claude-5-5-model-expanding-ai-lineu",
+      "lead": true,
+      "sector": "IT & AI",
+      "title": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO",
+      "dek": "Haiku 5.5 is built for tasks such as classification, summarization and extraction, including live support, voice agents and in-app assistants. It costs 75% less than its predecessor, Haiku 4.5.",
+      "why": "",
+      "source": "ET Tech",
+      "also": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ?oc=5"
+        },
+        {
+          "name": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVlFBUGNIRE9GM3E1bE5LUzF2dG1QU2NpTWhlZmlQOG9LTXRKc3lMYlB4eUlkSE1VV3BoTUU5ZEtQMUVkTmZJa2xveUR2eFFQc0RVZG5EOEhmaURVYXJHVDdrazk0N0VDNkllU3FMSG9TcjBheTF3STlBTGgtQnN4YmE3OGFqSVNFZ1M4dGFfLXFJTG9yNUVCdDBZZDEwR3VHbU11cS13ODU3RVFPZENXcEtNdV9Lc2w1ZW5RZWYtNlpSaGM4ci11RmZJdlIzYUVRbHRJQVphekpoNE1qYUpaLWZKVUgyRzM0R2l3Z1N0bk50SDV6T2fSAfsBQVVfeXFMTXJsa1lVeFpyNXZRME1sWWc2ckJRdDd2T1JRYmlKbVktYWtpaVdJdnV2S0NVWUtLY3lvaWF0T2Y0bXhSM2ZLWnZXTno1Mzl6NTBxMVhfNTRua0tTakduaVVSUnFDaVdFOTFOMjJNczdWMFRvYUNXeURaelNUdEYzNDVvbnRUQmxmajM2djhCVktmNVc3S2dqX1haOVlFbTBwVExLTFpsUk84TGlzVmh2WnEtZkdaU3pGMEpDMExYY2xNc0tGQ1N2VllhQXVpYzRVb0lSY0lZMElnTXRmMHlOeGlmZDl5NEhjVTgtdk9IaDVEUEo0SklUbkxUakk?oc=5"
+        },
+        {
+          "name": "The New Stack",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBROXVUc29Pb3I2bTdHTDRZaXVjQzM3Z2pCd05nbHFhbUhZdDVGaG0yVFVXdlYtLUMyVzRCWTNvY3RzOVRVbFk5c21HeFk2NmFxYTJUOWR1b0JUSWVKU0hV?oc=5"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQnNmd1hVdGZ4bXFRdUxyZU1wQUdNZk9WejZ6UFNDU0RVOXJHa2Fmd2JTVmJaUTQ4Z0ZEMDFBRG1zZjhmMEV5YVNHT25JRW43WDRDeW9URzlKOWZ5bTJTZEhDc0loOW83V0QwMXNtOFVIV21xQlc1ZzhFOHRqR2ZpT0djSnJfenFVVmZ3QlJSM0IzTmZzTVR1c3UxMWNvd3VlNlJWUE0xWklYd2hrV3A5cFB6S015QUhSTXNLSmNoOFV5eFZhRnVwaG1ISU5yUGNEQ1M1UllmVl8xdw?oc=5"
+        },
+        {
+          "name": "Unite.AI",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYmJRRU5wbnZielE5Ul95NTNadVFONVZkYlV0c2xweHI4TFFhQmVQVHh6TDZ1aW5wdmxTcF9PQWxRZHp0SVJQTnN4aWdZMWREUklBRGpXanl4ejBEdGpjYkV0aGk3MFk2Sy1GcGNYVG1tTWhPb09ScjF3ZlpEZ2lITUdfR2xEbmdRRmotd0M1blBWZw?oc=5"
+        }
+      ],
+      "coverage": 6,
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-third-claude-5-5-model-expanding-ai-lineup-before-planned-ipo/articleshow/134773835.cms",
+      "published": "2026-10-07T19:03:07+00:00"
+    },
+    {
+      "id": "us-fed-minutes-signal-another-rate-hike-by-year-end-as-infla",
+      "lead": true,
+      "sector": "Markets",
+      "title": "US Fed minutes signal another rate hike by year-end as inflation stays high",
+      "dek": "According to the latest minutes from the US Federal Reserve, officials hint at a possible interest rate rise by year's end in response to ongoing inflation challenges.",
+      "why": "",
+      "source": "ET Markets",
+      "also": [
+        {
+          "name": "Binance",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fdDBsejJZdmVwcFRWc1NZMTBLck03NmlmdE10UDFmLVVfQzk4cHV0SlBlb1lJOXRaZUFNTVhPdlBVV3hvYllTcE5mS3dFZUltVnJTbVZqYlVvTFRmcGlnaWtuMFU?oc=5"
+        },
+        {
+          "name": "BusinessToday Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOVUxOWJWTHRicDJ1eTlodHZpQl9DSFBySjltcWVfQm5xUks0c0dNakpzSS1DNVVMcUw1UE1HdUN3eWNuYU1ZSUZZdGxmeFpDVDhBZnBWLXV3V3dRX21mMW9uYUZPOC1RU2RpNW9KQ2tXVklJU3B0a0hqeWdqOERERzYxY0tUTlBsOEhTclhacXhIOXhkeXFBSFdseWxNZw?oc=5"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkc3RnFQUWZoam1MOFQ4MG85elpQcFIzb0VlajVQSlZXQXhFUHJlaHI3RGlXd1hOODRxRDNfV1YzZFNJakxNMzRiRzRNZkZqdWUxVG1WWWRVSUhMdUFZQ3BhUV9OR2cwdXFTVzhGc19XOGdBSWwxaUF3MEthSkxzRDlFTlRoVTBnLUQ3SlZVSEhYNWFEOE55TGN2djlkRG1JcWN5V3hNOV82eEVkaEJR0gG0AUFVX3lxTE9hS2JuRWZra2ZHZWc2YU9kMU9zYUN3a0FwcmtDbm9pclJiS2puN1I0Zkh6WVdQUmNEbFNDVmxPQ1ZFRURoZlRsVTh6aEl6bE5lUEc1ejNSM2hxdXdhVVNHVjU5eXhsTGx0UkI4Q3VGdXFLRVF5bXQzd1pUdmNBX09acGxwZDJEYk40X3ZzeEdvV3ViMlU1WmtaNHhvZzI2NDNpSmctZmNfdmtfcVVsdlIydnNXdA?oc=5"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcWhpWk5uY3NST1ZOaDNiM0NnUTBHUkdYaEJWa1daUjdjQXU0bmhNN3AyR0R4UXlydXZXdXZRVlEtTWNsNUlTZWtTRUdyNXNQc3hMQi1wc2t4TEVtcEdRazE1dkhUa0hCUWZxcnBTZXp6cU8wRl9vUDhCazVEbFR4RTVrWjZ4MGdSNmNZczRldFBTOHFxRzFKTVFoTnZkVTE2S1BBTGN3RHFBSUstSjQybmJWWFkxT1EyU1RsQg?oc=5"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGktbVZvRTFlX2Rmd2NIeG5kVmFjNUF4NlpwREs4eWktX29JMVpuZmlFMXAtUnZvQ2hQYUtTclExczVMaGNuZTVrMXdtX3h1Vm1iNTU1clJYYTU5akhzcFJObDk5Q3g5Tlo2N0JJeUpYdkNfOEROWGVqY0tMRkxfdVJfSUhMOEVybl94UHRRWmFKVFNHcFlYYWc3dVVoT194MHEyXzJ6YllxZGl4US1FRmJaOHhTRlhsQm9ZSEluUmo1dw?oc=5"
+        }
+      ],
+      "coverage": 6,
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-minutes-show-members-backing-another-rate-hike-before-year-end/articleshow/134773656.cms",
+      "published": "2026-10-07T18:53:56+00:00"
+    },
+    {
+      "id": "brookfield-buys-8-esr-industrial-parks-invests-rs-4-300-cr",
+      "lead": true,
+      "sector": "Deals & IPOs",
+      "title": "Brookfield Buys 8 ESR Industrial Parks, Invests Rs 4,300 Cr",
+      "dek": "",
+      "why": "",
+      "source": "Rediff MoneyWiz",
+      "also": [
+        {
+          "name": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY3BYUVBPWWtKbUZsS1Z1ZTdqWmtFdDRzd2xnMmZ4Z3dnSHhIUkUxLWdUeWRMckw0RUdaZUNQSHFkaEcwVXhaWXk0S1FZcDNBeUUtdWpBaTRQdHFISTRzSUZVSnQ0Q05nMFlNTVFGUHNPNVAzSEpnZ1o4ZU9HZTNmek9ueW94ZW93Vk9KaXlVQ2xzOVlTdzJkZWdZNjRtNEZSSndiWEpTdUtyUV9VQkxkdHZaVk80Y2Z1S2hoRHBzRU56QjRKT1RnbHl1QXZZZVJ4ZUtMWjkyenUzd9IB2gFBVV95cUxQY3BYUVBPWWtKbUZsS1Z1ZTdqWmtFdDRzd2xnMmZ4Z3dnSHhIUkUxLWdUeWRMckw0RUdaZUNQSHFkaEcwVXhaWXk0S1FZcDNBeUUtdWpBaTRQdHFISTRzSUZVSnQ0Q05nMFlNTVFGUHNPNVAzSEpnZ1o4ZU9HZTNmek9ueW94ZW93Vk9KaXlVQ2xzOVlTdzJkZWdZNjRtNEZSSndiWEpTdUtyUV9VQkxkdHZaVk80Y2Z1S2hoRHBzRU56QjRKT1RnbHl1QXZZZVJ4ZUtMWjkyenUzdw?oc=5"
+        },
+        {
+          "name": "ET Consumer",
+          "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/brookfield-enters-india-logistics-realty-market-with-rs-4300-cr-esr-portfolio-deal/articleshow/134764839.cms"
+        },
+        {
+          "name": "ET Realty",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPajhyMnRETXVzbEhxWXpxTnoyMmNHOG4zZURtRENEdU1RbUZDaXhtVmJuMVlCZFFSbzJqU2dIYjhDV05HUU4tNzVieTF3NE90RFpXb2JmUGtSVkNpX0RqdDIzdXZRNmFHZDZWb05FLURoVW40dmVaeEdEZ3BaQkRkWGI2RVhMZ25EYmthR1BHMkxkbVpqVXIwbFNKa0Z2NXVEZWxzOVZLZFNac2FUUkJfUzk4WnFqNWRVT0FhaW1OV3d6VnZwNU80bWhURWxJLWdQTkpNdGRUZm1pX1JJbVM2ZnpqNENxbnZEVjJlbzliRnJ0VEJzeDJ3?oc=5"
+        },
+        {
+          "name": "Free Press Journal",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcEtLdGNmeENISVFnbWlzYzJTYkdTX0NRUGxxQ2dxM2pVQW5uTExhSkR0elFjSWU1ZzA5WUhxTXVkQ2xBTTJJdVRPc3JEWC1TaENBQnFLaUR4UHdteVItbTZKOGdQYmhkVlNSMFJzZXd5d2t6aTZuaHoxYmc1TUFGanQ2M19RQ2lVZ1k0QXBCRXRKb09UOV8yeUFLMkVEZXhuZW02MldUMXVFYWIxTDN6bHB4OEVaRGJWVFBhQlJ6WktXVzRx0gHEAUFVX3lxTFBwS0t0Y2Z4Q0hJUWdtaXNjMlNiR1NfQ1FQbHFDZ3EzalVBbm5MTGFKRHR6UWNJZTVnMDlZSHFNdWRDbEFNMkl1VE9zckRYLVNoQ0FCcUtpRHhQd215Ui1tNko4Z1BiaGRWU1IwUnNld3l3a3ppNm5oejFiZzVNQUZqdDYzX1FDaVVnWTRBcEJFdEpvT1Q5XzJ5QUsyRURleG5lbTYyV1QxdUVhYjFMM3pscHg4RVpEYlZUUGFCUnpaS1dXNHE?oc=5"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZzdCUlpSMTNwb1cwUUduelN2aW9WckpWbWFERUtjY0FjaEUyYlZncHBRTF8xWmtjRGlrUWd2cXlkWWJ1Q1I3Z1VMbVdMdFZtMVhmZDFTQjY5SXlsRW1VUWJiVFBjNEc0NkdwZkMxSTFId200dm5keUlsVU1ld1J0c2pXcko1OVB1RjJGZkI1LXJSX213M3BBc2wxQXhJaUVLWENyMFNvVlNhZE5OZHItclFiS0hrbzBwUzFSN082UWMxbGM?oc=5"
+        }
+      ],
+      "coverage": 6,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdjZ2YVhWQjRIMVpLWGVSamd3eWpHOWFVS1pzVXVock5Fb1ZzRWlxN3p5QWFNZ0lsSl90RWFrdDFfTnNFY01PU2c3NFJfX3ppcVVvSFYwTUhwUFlOTXZxdU9XODlUbXE2REdMRW43WlptU1QyNWxqTGJKVkxEc002eDktYVBaVktvc19Na0hmcW9CNVk2bjlnS1BaZmdaaW1ZbUFveWx3Z1LSAa4BQVVfeXFMT012Mzk5NzE3WGN5d3A3MTdlbmNEUG04UV9oSHFseVpmbEhMTXZLa0gyaV9jSFQ0ZFdWZUdTTTRELUF4N2FtRWtaWWNzZDBMUG0wNnNNaWNGSnAtc2REdEZKc0IyWUM2d0hkZkdPUEpYbDRkajZxVnlpRkM3RElreXBVa0xfak9GNjhTZkdmMG1tdjBCcXZtbWtvaEdSVjBVX1hGN0xDWUZ1MXRXZmRn?oc=5",
+      "published": "2026-10-07T11:12:35+00:00"
+    },
+    {
+      "id": "gold-prices-drop-over-2-slide-to-2-month-low-as-treasury-yie",
+      "lead": false,
+      "sector": "Markets",
+      "title": "Gold prices drop over 2%, slide to 2-month low as Treasury yields, US dollar climb",
+      "dek": "Gold prices fell 2.3% to $4,066 per ounce, marking a two-month low. Rising Treasury yields and a strong US dollar contributed to this decline. Investors await the FOMC minutes for insights on Fed policy amid inflation concerns and potential rate hikes.",
+      "why": "",
+      "source": "Mint Markets",
+      "also": [
+        {
+          "name": "ET Markets",
+          "url": "https://economictimes.indiatimes.com/markets/commodities/gold-slides-to-two-month-low-as-robust-dollar-yields-add-pressure/articleshow/134768281.cms"
+        },
+        {
+          "name": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORU45YTlzVk0wRThtNU9CaTJFd1oxaDRIMDM3NjFxNEYxcUw2MzFpWEVhSzhIcHN5SnctWFpDUXBVeHpQMmdXMkZCNWFvakdpZmpkOVZvZnlVU01DcFF4NEV2WG9BdTF6c0wzUWtyQWgtd3FoNXExZHJ5d3c3eDJodGgxNEZoVmlzeG9zZ0F4UGQwY2lzU090cWVfaUNZZlJWaUhDYVB5Q3RMVExraGZTTURsd2hPaTFOcmd4OGxQX2JnVlRjcXN3TkVScjRTdHlFSTRDX0oyQjJwTTRtSVJkTE5YTdIB6AFBVV95cUxNaXptMmNfUjBpWmhnaHBnYmF6enJIdzMtYXJ3cUk1UU8xYnNaQnZwVmVVVGtkUHo3RkZOTlJpQVkwbHMtTThsVDZoamw5ZldfSlJ4QlVwRWlKcDZGcEpsWTBtSTBkM09iaXZMSlN4bUs4Tm5FYVJ0UzdycFN1MUdhVjVPdlFqcjk5dWNhUTYwZmhUQmc3M2NncmNBQXVPX2llTm5GUWxSVTBkSFd5cnpULVFURUhPWHBSbXoyVHdSb1JFNHpDYXNsN2JsbTZCVnN0enZaRmp1NjNXUjdEbE5mYkRGLUpfR0ll?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMU10STF5SHNISk9FdXk3NTA2YjZhbnhWRTJlYlpBRGVhanFxWVQxVzhVek11UEp1OUJOU1Y1WjNQTDlBWmg3aEhvVWkzMUpXd3dBbm5Qa3pEcFdEeERZUDNwUHdFYVp0YmZPQVd3dDIwalp0LU1YWi1WTFZNVm5FTWxrSkR0dTJnNk9aM1BBc29MWXk5S3lOLXIxVW1Fd0xvbmhxNEpn?oc=5"
+        },
+        {
+          "name": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV0cwMWk1R0p4VnlBeDRJTTFzYy1Pc3JiNGtIOXdlUlFhdXJad0ZZVjd1MXlEaXp0aHNQQUF3VXRfd1BtQnRxaVNYOGF2cHMzWVUzVEd0Yi1nZTlUaFpfZEItOGZNWmlCc2Q3UVo4azRtSnhwdlNKa1NiN0J6S1BoRGVUYmhOUkhWcFgtZ2U5VS1tYllCWjZmLVpmZTdwY1o0NmsxbDdXbkZlb3FmMlExMzRLbGdabFd1blhzQVlyVDhHbmU5NXNMWTBHTkY0ZFJpWU4tV1VR0gHbAUFVX3lxTE5SOWw2UWhWaHpJVjZwcXFvTWxBMmhDNU5VZ1ZZWVJtMm5tTTRqcWs3RDJGV2kyOUl4U2E1Y0lKWnhQcFROdC1nWEhkM2lyeDBvVkEwanRXd0Z6OTRLLXFHMThSbko5T3d1RmFGMjQ3XzFsOGlWRVBjZTVTY1U3MzdldTR5TlJhUS11VWtDMVFKaGh3dEpYMktpb1lnWkRrZ0U4QVZNTllJSDhWYXZzUnRXMGhDMXp3RjNfSGM0UGdrSWxhdS12ZDVpM2c0UmxObzRQS0JOckNXN3hrWQ?oc=5"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd3p6dnA5QS1UQVNpRkx3TEZNbzlsZWJXb0JMV2JsNWFIQUZHckROWFJ6eGFIVEphVHVtSHhyOVp5alpLYkZURTNVYnZnRjBsMGs4MjJkbVNWRWZHTS12S3FQRm91ZHB0MTJhZmxVNG93ZzRpRzNkTFJTZ3c1aU1XMkdNTVBSXzk0NGRXSTMtRGJlUmVzbzIwYkNweFE4ZWUtamRNTmQwTnJYUkpiQU1qb25GTUNialFPSHZTOXNnblhQVmlhZjZaYg?oc=5"
+        }
+      ],
+      "coverage": 6,
+      "url": "https://www.livemint.com/market/stock-market-news/gold-prices-drop-over-2-slide-to-2-month-low-as-treasury-yields-us-dollar-climb-11791396712994.html",
+      "published": "2026-10-07T18:29:53+00:00"
+    },
+    {
+      "id": "foreign-investors-pull-out-26-3-billion-from-emerging-market",
+      "lead": false,
+      "sector": "Markets",
+      "title": "Foreign investors pull out $26.3 billion from emerging markets in September as hawkish Fed pushes US Treasury yields higher",
+      "dek": "Foreign investors pulled $26.3 billion from emerging-market stocks and bonds in September due to rising US yields. The hawkish Federal Reserve's interest rate hike influenced this first outflow since June.",
+      "why": "",
+      "source": "ET Markets",
+      "also": [
+        {
+          "name": "CME Group",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ1dnT0plNDhXZUhLWlY0bG1UMy1IX1VNdDdSUndncUlUd0doMC12dldIalNYRG9IalZjSXQ1NWhCRlU0Zy05bHF2YnlFMnFDd1FoY01RYWoteWVybHJEMDlMdHFDemltRUZLZW9GZW9hTklfQnRRa2l3azlLT2RnX0MwQkJrUEg0Rm9waHI5UU9IRkpSTnNfYU9ZQmZ4d3hTNlN0NTMwS1NSd2NXdzdzbA?oc=5"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSXZVUXZOakhMbGQzSjZwc05uRmg0amV6UE1DNk5IMmJHNUtrRHpiUUNyMXRnMzlLRl84elFPd01QZDhmc3RXcmpGbXJwXzd0ekdZcjV6QWJ1RGRzdmZ0bkFDR29aVjAwUGpxVjNJa3VpTmdFdm1IcUVvUlU3RTNPcVl30gGHAUFVX3lxTE5EdHJnRXd5ZEJCbUpQalJ4eURhVldpWjFhMnBicklzWi1KT0FBNnpiN25CSm8zWFVrMFJnUUJwRzN3SkxzYkhUd21kNGhMeVRvZkNFd0paYU5vZndLNVIzMHdSMFhXMlRMWDVVMWJZWjJWdjFNZk0ydkw0Tmx1OS1TdXNlUXd0dw?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0J5MWhUZURxcWw2ZzNtU3VWZlgyeF9lVjc1MHFlbDBmcm5LQmlnMm4wOTNaOHhabmJZSkxMdDRQT3F5X1B4NWk0YTNERFlRMFFIM2dybVpNdFJfQ0t3WGNpbzctaGtsM1NQTWNXcUxrdU5ndmI3aWNjNkMwNVlCMjBlMXVUXzl3YkJHRGZMRDhmVnlQY1RiajNOSnZwSGhicmxJOHU3RURkNV91?oc=5"
+        },
+        {
+          "name": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNdUpYVlZjc3FWN2E5YV9oU2dfaHN0YVFhXzFQQTNTcjViSlozSjlxVmdTcVhCQkhaQmg3amppTTY0amxxMVV0T2FCLTkxdEx1WmlqSHlIZDM0YUFyb2pTY2dhVGFrcnNRaHQwYVdENlVDZWNrY1JUSk1sN0ZYM2NSWnNwS183X3pQekwteUJBV2UtV0cxdXZEb29nTzdOUWdmY1FRUk1YVVozUUZTS1NnRi02azJkU2VOUDQ4UGdlNkxud05yS0hXUUozMWd4YUdpWHVVMlVPTGo3Qm9PWFVtazVDdWViTVNLWTVTMnlsUzlnYWI1Z3JlNGE1cExxZE10ZnVpN0oyY1d5eWtzd1VxemQ2YlQwdzhRZkxnXzFzYnBKaEhoeEhXSlRsSkRNNUNTUHBDN2Nha9IBvAJBVV95cUxQZmRWVDMxYnBxU3BMSGQyMkhfeS1XX01yRDRxU0JHQWVTaFVRTFV5TTFQNndhSVE2SS1pYVZYNnR5VUl1dU9LeElvRUtsWVl1bm0wMVpMdEZDalgxMXRYUnFzWGE5N0x0bWttNHl6V1BzeW1kc0pLNTI1cVZ2Y09oTVR3dzhOMG5PSzZ6TEd5R2xTamEzUnlzR1M0ZkdmQ0o2MXNiN2JtQU5wVXNPQzRiRi12SjFRXzUwUDlJUTF3SGhYeE1Bd3JWWTZaMkRxOS01T2cwQWdPWVhzeGhHSk52WU43LW4tRGNJOXhDOUpfWkFOTDBWTFZFWDU5WENZZ2lFcVNFUUhFeS03ckZBWjdudGRqdFp0ZEhTSDd4MlRabUlQR1NER1lJTXcyVkZFUGZIcjBXeFlCaW9pRUxE?oc=5"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnVzVHg4WkptSE5DSmdyMHcyT1F6Y0dVeEJVU01rWmxwZlFTSDRaWU96TG5vejVOY3hjVEl4STlwNE5jWFd2N1hCcVUyOGJLTUsxSkFCWFY0blJ6MVNPWFBqOGdnd3hUdWk3R2NWcWtKX0Q2eVgtcVVmN2tFQTVSQ3FmODRmdGpnRy00aVpQNEE3LWNQYUtHWGZfZkJnVGdyZm5sOHVxVTFEU1IxUlNDZnE5UExxYWc?oc=5"
+        }
+      ],
+      "coverage": 6,
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/foreign-investors-pull-out-26-3-billion-from-emerging-markets-in-september-as-hawkish-fed-pushes-us-treasury-yields-higher/articleshow/134772977.cms",
+      "published": "2026-10-07T18:26:54+00:00"
+    },
+    {
+      "id": "rbi-removes-paytm-payments-bank-from-list-of-scheduled-banks",
+      "lead": false,
+      "sector": "IT & AI",
+      "title": "RBI removes Paytm Payments Bank from list of scheduled banks",
+      "dek": "In April this year, the Reserve Bank of India (RBI) had cancelled the banking licence issued to PPBL for non-compliance with norms, saying affairs of the bank were conducted in a manner detrimental to the interest of its depositors.",
+      "why": "",
+      "source": "ET Tech",
+      "also": [
+        {
+          "name": "Daily Excelsior",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcFRaeXRHRFR3WkdUTTc5SDVreXd1SG5BNk11NUFVQkRmNkFrZHBydVdVQW05ZDlURVFlUXdMN3pkTFl2cU5UTTVyanc0Zk5GSmtheFhJeUlJMmlMT1BMREhueFpQdFFtbHQ4Qy11SjlmbVJQYmFGTGZVUEJKX0xXdVBWbDh2TFF2Tm1CajZLTjF5MXQ4YkV4TUpsWdIBmwFBVV95cUxNcFRaeXRHRFR3WkdUTTc5SDVreXd1SG5BNk11NUFVQkRmNkFrZHBydVdVQW05ZDlURVFlUXdMN3pkTFl2cU5UTTVyanc0Zk5GSmtheFhJeUlJMmlMT1BMREhueFpQdFFtbHQ4Qy11SjlmbVJQYmFGTGZVUEJKX0xXdVBWbDh2TFF2Tm1CajZLTjF5MXQ4YkV4TUpsWQ?oc=5"
+        },
+        {
+          "name": "Deccan Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOFJRZmRuaXB1aXFXbnh2aE81Q0pIUmFlMGZlZlhfMlJNVF9xTElVSzh2YzI4SmVaWjJla190TnlSM0YzSXRDMEdTMVowXzlOVy1NQWYzeTBGNklxT2lHQ1lVZS10UUFBSmE4cUg4Q19LeFRGSWVwV3dyY1VqQ2xITmhNTl9DVkFvRGNGZXhGNTJ4SmJTeHVwN0dpT1cyNmszVWEyVWN2VTNENnltc3JJ0gGvAUFVX3lxTFA4UlFmZG5pcHVpcVdueHZoTzVDSkhSYWUwZmVmWF8yUk1UX3FMSVVLOHZjMjhKZVpaMmVrX3ROeVIzRjNJdEMwR1MxWjBfOU5XLU1BZjN5MEY2SXFPaUdDWVVlLXRRQUFKYThxSDhDX0t4VEZJZXBXd3JjVWpDbEhOaE1OX0NWQW9EY0ZleEY1MnhKYlN4dXA3R2lPVzI2azNVYTJVY3ZVM0Q2eW1zckk?oc=5"
+        },
+        {
+          "name": "India Today",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMGJ5ZWk4LVZHcndsZmFTTHdtTTlKdE9ZbFV0RVJudThZUTY0Q0hNLUN2N0RORk1qM2NmZ3FmOE5BbThneUQ0QjVTT29qTzJrNU5ISXppMDRLV3p1T1JmMnJKT2ZJR214UWhrZEtlS2Nsa05QbnNNUVpBb0hkc1NvSzlvZ1MyY3daN08xYmFIMlVPdXRoSHQ5SlVLZGx3V1ZVRU5uMThOWGo2SDBwSW9EcDNyY0hmQXNRQjFXZko4Um5LOW9GeFdDN3ZKc0RLS2xDOVZqUWw3MjFUQdIB2gFBVV95cUxOMGJ5ZWk4LVZHcndsZmFTTHdtTTlKdE9ZbFV0RVJudThZUTY0Q0hNLUN2N0RORk1qM2NmZ3FmOE5BbThneUQ0QjVTT29qTzJrNU5ISXppMDRLV3p1T1JmMnJKT2ZJR214UWhrZEtlS2Nsa05QbnNNUVpBb0hkc1NvSzlvZ1MyY3daN08xYmFIMlVPdXRoSHQ5SlVLZGx3V1ZVRU5uMThOWGo2SDBwSW9EcDNyY0hmQXNRQjFXZko4Um5LOW9GeFdDN3ZKc0RLS2xDOVZqUWw3MjFUQQ?oc=5"
+        },
+        {
+          "name": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPRklhUXNZN0lXUWZfTGNQODFXYmgtelhycDUwN0lic3dlaGlmdmFSNlk3UTQxRG93Q2E0cEFGbTZMa1FsLWtuT0ZiT3hCeTZQMkJhTnNVaV84TTdkb0h0QzMyd2pSdV9SeXdQUWhFaGkzZjVhblFIaXc3emtQNGdJZGh5X3FtczhoZ3R6enEtc1Y4ZTZfdk5JSHpQdFlobm5nTEZFMkJIMHhkS2pfRVZTbzVxSGptTWxsdkNESnRSbDd4VjFjRzhQcjdxNmpoRHAxZXpLa0NVT3F2eTRZd1U4Ym8yVGFLNklBYnMwcUhKcVFlaTRhWFF4OENyb1hyQ0HSAYQCQVVfeXFMT3UtRnpSNWtxMWNWUjBZeTM3Y0JIcHlROExpVXVsOUptU2FyYy1UN29nUDgwUHEtUHVWZk1EV091SlFzc1ROVzdkWExqS21hdDZBSlBxOG82ajQwdjhNOE9DZ1Fna0c5OTBlQ3gyRHhpTDNyRnBwZEs5NExVQ1pXWkZHWlpUWVU2MEl5QWd1blkxcllCOWphMUstV0p2ZlBIVVhqSjBpVlVYZHY0eVhEdnZBUHBpZkRZdFlSZXB6RkFDTFZwQ0hMd3drTEdQNW1DYTVnYzdxMm13d2NKaElOUHNXUHdiQW1aOXRZcnhwOGJkY3FhcmdWbkdjeks4bzMwdkw1NUw?oc=5"
+        },
+        {
+          "name": "News On AIR",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYlRTUmcya1VLOGJmX1Fabk00RW5QTW1nUDZwSHQ4VTVLbEdtVVlfQWpEbDZRdVZITVpOSm1feWlHTVlCU2NBaFF5OFo0dU81d1phbTVCQ0sxc2kyVlFIaFU2UzRNWk94dUY0aGZaTG9nTm05bk13cVFqTWZnd3FFNUkzWUp6TlBuYzhiMDFhd3VsNS1jaGxTRHBRajVjUm1lRHFvTXZES0JIVGllaTRad2xWRQ?oc=5"
+        }
+      ],
+      "coverage": 6,
+      "url": "https://economictimes.indiatimes.com/tech/technology/rbi-removes-paytm-payments-bank-from-list-of-scheduled-banks/articleshow/134766447.cms",
+      "published": "2026-10-07T12:40:22+00:00"
+    },
+    {
+      "id": "7th-october-2026-indiaipo",
+      "lead": false,
+      "sector": "Deals & IPOs",
+      "title": "7th October 2026 - IndiaIPO",
+      "dek": "",
+      "why": "",
+      "source": "IndiaIPO",
+      "also": [
+        {
+          "name": "Autocar India",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYTNTWElWRmoyVGlqeFNGREVZcktuM1NTX1dYQzQtS3BfalVhaTRBQTVXeWxldVJHSlhLWnc1ZUt3NzRJV2g2eGNWNER2YThHVDVyMXFDenBiLWhvTzFzWHZWTXYzbmVVWEhhVXBienB2SEJRSE9CdFItb2t1eXhvMFRjR2Y4dWZCc1VWWlVEMlM2bElyZmRUNHBjSFlkM3E1eW8ySEtNS2c0R0NwaGFwS0NkdXbSAboBQVVfeXFMUHhCellOaEhCc1lqQUpRWHJpVnl4bVJqZEtKSWVYaURiM01KeUNpalNOYzhfSmVRUjRjTm1SaDhrb1ZkWlRCYjctSF9SMHU5Qzl6UFJlc1pnYWF4bjNWM2MtM25Pbm9DODBrWGZBOV9Fb1lLYjYyYkxSV3hMY3lNMDZkLXFoeGhXcy1VZi1qZndVa2dEWGhvcGViM1lPTzlMdW9HM2pjYkdISlRHS0pERkZEeWpHNmVyVWl3?oc=5"
+        },
+        {
+          "name": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTVhXQnRGaTNPQU5xZlhIUkI2T2VXYzhQZTR0ajlxUWgxU3lsNGl3VmR6cjVXZGQ4bWZpODlCcnlzVndnMjliaHVyRlB3UzFJMzNmRkhlOTNkMENEVklqRVo3YkczN0NHOUJtaDJUUEhwMnZRa3pUR2E1X05fSFNIdC1RZGRHTklhcVYwMF9uRTFRbnMwWUo1UUdmX2RaelRzQWdNM2dMSllpbUppSXlRVHh4TWZQdlB3ZHE4bmxJd2lOWkxKdi05WHM3NDVMbjBGUFZXM3hERTZMVTFUclZhMFV1Qy3SAeoBQVVfeXFMT2RsVmRHR3BiUUhPWHQ4U3NFY3QxTWZvbjhfcWFhSFlrLV8wTFhGbGdETkFOcHlZeWtEV2lRZ1hXYk9tRDdERE8wYkdSeUdUT0UxX0xRbUlYWlVIUDRqc041dTJlaUFsVzhIX0dOMWExdWplNFNySUU4S2Q5WkhWSmNEby1IQ0o1ZmxxaWp3c0JqdFA0aUJBZDgzSG56N0tJdXZvQ0xfU3JEWEFVVTVRc1hYQTZtMnptYzJjRm53MWQwMFZRV2pxeE9uNWJycVhqRk9GMzY2bEZiVXFJZWt4cXVROUFyR1VDWkhn?oc=5"
+        },
+        {
+          "name": "Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOY2hLUmpjdTdycDZqMlRTZDNzeEpZSHFaUzVrOWljNGNoVFdIc0x3RGxzdEdkVDc2MkZST3cyV245ZjI3SDV5em1tb2x4eDNxbnZKZkdVVzlLYzQwUGcxY2VFTVlyaHBjZXQzbUtSdkVvbFZRUzJJOUdvMFVtX1dwWUUzLVNLSkJPWDl5dVAycHdzcWp6WUwwRTZhSXAxZWsxbHFzZWJwUDdLZkI1RXBOMWtpUVdzbWxjMGN1RVJhNXRnS3UzTk9LZjBLTEpuSTFsU3pZM0R6Q2xXNm5tZUJZTlh5V1NuMjI3aFRiQg?oc=5"
+        },
+        {
+          "name": "Express Healthcare",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMWpFT1gtTnVpWHRRbG5ROGhwZE9zc2tNeEZRcmVhTWpuRUhBREhaWEVOR1prZ2JnU2RqOGN5cmtlTWNhQVFvQnBnVFZ3UjFsNV9FOGVReDNBVWVFcVdCaU82aW1qWGYwNXRxQ1BIUmRVeGJfU0UycWFoZEl5TUVMX05DNXNyRldOQy1oY2RIUQ?oc=5"
+        },
+        {
+          "name": "YourStory.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTm5UTWxGLVBpT1RJY0tpRjVzU0RLMDRFNnZhX0ZNeEU0aWFBVnZfQ09yYlc3LWo4V1ZFcGRSSk5KWEp2ZzdaWjkyakFoT284emNWRlc3ZXFxWlM1UGxKcFdNSm9PbFdhTVhILXV4U2dBWEMtNE9ZRXpKT1lCRE1RVUtZT0RZM24xWThV?oc=5"
+        }
+      ],
+      "coverage": 6,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVW94eEgyemU2cmxmeXNSZHJvRlUxUnRTZUl6V0JWeUtMcWd1SG1EZW9wSzZUWjhWUUlDYU1SQmtVSFZmdlowMVY5VV94TEthaFBuYzdjei15cE03bDZPOXZXTVV6T3lRcFhBNHBGckFleWdTcV9EbjNEd1BGMno0THh3RW1wLXJKNE0yT3Z3SHdPWUU1?oc=5",
+      "published": "2026-10-07T06:10:05+00:00"
+    },
+    {
+      "id": "edtech-firm-bytexl-raises-9-million-in-funding-round-led-by",
+      "lead": false,
+      "sector": "IT & AI",
+      "title": "Edtech firm ByteXL raises $9 million in funding round led by Elevar Equity",
+      "dek": "Existing investors Kalaari Capital and the Michael & Susan Dell Foundation also participated in the round",
+      "why": "",
+      "source": "ET Tech",
+      "also": [
+        {
+          "name": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb1ZLU2FMNkRQVC1fLS1HbGRtdXBESldVUFRPaWxkVk9EM194M0s4VlBNd3FNQXpTVXlGVEpZdE1RcmFaTzJLSDczTlhSQzlGZ3NWQ2VERUJNNFduTGwyTk9wN0tqbEFfOVhrbnVRV2lRYXRCRG9TSWl3bXlJTk1hZVpPYW5lMExZc1lZSThrby1mdEl4LVVNbVBPV1M3dG5OTU5ueU1zbTNRNFRXRWV1UFRGYVkwZ2NLZEIzZFlSTzF5YXdoaFQ5U0xyQ21lZWJpd2hicmIzQWNrd9IB3wFBVV95cUxPZVZBV2FOcGE0X1VhMWs5QlFBVVlTV0JjMUdfdVdNZGlhT2tSbmM3S3RoRHV5NVUwSFdnYXJyN09jVVhFeWRrTlNtX3dhZ21zS3ZyX3BmXzF3b3pmTnFVSGpUVVlleGlSSmNDTkxvRHlUc2NLZllabnozNWxGVUNsYm52WS1tVWRZNmVUcHUzV0Y2Qk1TV0JPMkVFaW4wSlpDdWhtYWpmaFE2NHJmOFYyV05lQ29KOEw4OE9OOXBEQW1BeFBlQjNYY3QyeGNiWnd0Vk9PeGtNZTNoVC15X3dJ?oc=5"
+        },
+        {
+          "name": "Inc42",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMmozQ20tbXRfTEs0MkY3NEFmRlFacHNCVXpaZ01pcExmaFIwX28yTXZYcFJPR2tBc2ROazB1VERaR0lWd05QUzlmTXlMazQtRWRMUzVDOGV1MVNud3lPZXI0b0YwU0RwRmxkVmNWa3hTU1lyb2o0MWY0T2JDVTN6VXFXY2dtLWZWMXV5cUcwdDQ0WXJ6MkdzdkpELWU?oc=5"
+        },
+        {
+          "name": "Siliconindia",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbXNCOUs4bl9LOFctZkR4VUJvS3owMnpJQlJ3dl91aG5BOXA4NldLTDVCekY4T0xhRzRMeTIzWDZaelo2Q0RZYXoyUVcwQ216ZzFtT29BdmxtR0NXT2NZalNuM2lEV3ZZbUlIVGlFc2R0ZF9BLXRGWnhCakRQZ3JyRl9XUHAyX2htVVZ2NERBSEFodTNQdDFlNDFFbkRQOXY2aXJPdDhQV3IxaDVQRmI3Vmk5andpVFo5SGl2YXdKZw?oc=5"
+        },
+        {
+          "name": "Tech in Asia",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44Qjk1Tm96b25QODFYaURrbUs5djRVTjlWbzllbGQ3WFZHamY5c1c0QlBhcUM4YVQ4ZUpZRnZPOTZ5REpOZmVJRHprRVZramxlOUgwaUhQMl9HQjhUd0NkZHRHUFNXTVdLNmJNSGI3V3dYTFpYSzcxbHV3?oc=5"
+        },
+        {
+          "name": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaDU2bFdfU09uUDM3blRueUgyaU9iTEdMbjJYdklqd3JzUFNFWEV2SVZSWWRWU2FUdVJDNGF1SkcxUDJvNE1USUw5NDVGUUQ5MVMyV2l6OFdfUGphcktNcHVwMlpWOG1IYkRBRDhKWmVfYmNsRGdiWXFHU0xqaFhuNmdwSHJvbUZUcDY5QkZTcmFoUVB5N1owZ2VpckRYN1ppekZURXNQd1RzVHU5Qkd1TVVRdHdFTE5hNGFJajYyQTROc0V1ektVZTh5c0JidllHT1hySjBBa0ppM2R2c1HSAd4BQVVfeXFMUGg1NmxXX1NPblAzN25UbnlIMmlPYkxHTG4yWHZJandyc1BTRVhFdklWUllkVlNhVHVSQzRhdUpHMVAybzRNVElMOTQ1RlFEOTFTMldpejhXX1BqYXJLTXB1cDJaVjhtSGJEQUQ4SlplX2JjbERnYllxR1NMamhYbjZncEhyb21GVHA2OUJGU3JhaFFQeTdaMGdlaXJEWDdaaXpGVEVzUHdUc1R1OUJHdU1VUXR3RUxOYTRhSWo2MkE0TnNFdXpLVWU4eXNCYnZZR09YckowQWtKaTNkdnNR?oc=5"
+        }
+      ],
+      "coverage": 6,
+      "url": "https://economictimes.indiatimes.com/tech/funding/edtech-firm-bytexl-raises-9-million-in-series-b-round-led-by-elevar-equity/articleshow/134757491.cms",
+      "published": "2026-10-07T06:01:46+00:00"
+    },
+    {
+      "id": "rbi-allows-account-aggregator-interoperability",
+      "lead": false,
+      "sector": "Macro",
+      "title": "RBI allows account aggregator interoperability",
+      "dek": "Move seen easing customer acquisition across the financial system - pensions, stocks, insurance, loans, or plain-vanilla banking",
+      "why": "",
+      "source": "ET Economy",
+      "also": [
+        {
+          "name": "BusinessLine",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSy1xeFc0NGwxUkwtTmFXYzF4TlBudUxvUHR3VDJwWUdncG9ZZEtrb3FfSVBWZGJqMmxuZmF3WVJWVmc1RXJWclNNM2NDcjhobTZac1d0OG9jMlRXYzkwM3BMcnFKWEwxOUFyUlJuU0IwUEMyOWhybzNGLTZyTXAxb3hHbHU3WjJIMEw3WTRaVVV4VEJ1VzNodlFQN0thQ2V4bm55WmJraFhJRi03bkJRMW5pRlZnRzZhdHBLVFBLaXp6eEp2RmtIakhlYW14NTZ2cWFMa0FpUlItZFVEbVE2dNIB5wFBVV95cUxPQ0lBUEUwZUxKbDh5WnJjSDN3NzhYaElBM2N6RjAzc2RGNDlQLXAtUGprNEVRWmFUa0hRaHZZRlFRLVc4VVVpVUk5Vl9jNFptYzQ5d1M5NjV4OFdHRnUwN0t3M3EwSFdUVTVNV2ZVZWlDcGlreTNDTnBWOHVFLUU4QzlmZmdFQzU2cDhpYXVzcUNJYkpnQTdieVRWQm5abkljYmdxQ3B0RWhlV2owd0UwZEVkUEloaWFHMmxJeDlTNUFtNk9IazdrUjVmcTNZRXdRTDR0X3Z1azc5RTBaVHhPbGFSc3NfOVU?oc=5"
+        },
+        {
+          "name": "MediaNama",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3R4cjM4SlE5MXR0dTgxZlg4M0NhVHRNdTNWRW9NZDUzWXhpclVkS3l6UFMxSkdqUHpJWFVPSFpITGkwOWhZY2xiaVZCcVJ3aHdWNHh3NmF3UUtNSnNXTUFVSy1EaVRIcWE1RW42SW1kUG9uclBQOXB1S1VqbG42V05B?oc=5"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOGRmRmk1b0tOcnpwQjl3OEFfWmVMRXd5T21ES3JQZEw1bU9TSWhSZ1VCUWhXaWM2X0dud250MFRTSUlYT0dpZ3kxczhCSERUMlpCRlBzSjlCbkdmbUZSQ1dOaXZXMWQ0OW5vMjFjNGVWZWR0T1RxWDlNcklKR2lfS1dmdVI2OGVFWXVaT3NnWXUtX0pMNUZLMXNLcHBXOFNXQ1FOakZqeUpCUW1iZ2hWVWVWdFJSYVQ1SERUVTJKYllObWhNdjNiOHh0MXBUQ1UxZV8xNmE0NVhjYknSAeIBQVVfeXFMUE5NejcwSlFSLXd2cHFlVW45NDc3c001VHRnMngyVVVOVWk2ZFdrTThzNzcybXpzemlGQTAxWHE3dE1mc2pBSk1SNVlZT0I0RE5kVldIWEl0MzZORnptR0ZyWE1DZHBCQTlwSl9RZzFzb2x0Z25Ednk0cnpNQTk5cDI4STRjRTd0TE9YbTZfcHVRLVZqVHFpc2VubEt3VWxhZXR6YUlKTTFWUmdURHRuS3g2Y0NNQXJqalY0VTYxOTdCMF9odHFQSjJUbGlGcllLb1psMTd6ZEJyeXR0cWtweHV6UQ?oc=5"
+        },
+        {
+          "name": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeVhMYnR1MGZMUEhOci0zTEZiRm8xaHFNWTI0cTFIakIwQzdfV1RJamlTemdneXRWVzV6ZFlILWhkcnlIeUxwRUdwVVYwazJpUE11UlVRV3JOVWJ4XzdVQ3E4V1N5alpUNEk3VW1seVktV3RlcEZwWjNRNWRvWEN2M2RySURxNGF1TWotSTF5bnRLQ21NM1NmSWRIc093a1g5XzhBbG1zRU55aXpKQUJCUHpkeUF6MEFpX2swLW83RWU0NWfSAcoBQVVfeXFMUGVESHZHemQ0SWFYbGJ5eGhrcmh4RWpINWNPaE1UM1FjemRaUEd2TnFUTmZSVHh5ZlRIWmU2bF9SQjhsU24zTDdRX25QM1kxWm85ZGo0aXd6eG1BZ2gzdnhad3Nocm9QMGdYNHlsMkFEM3NpZGtwbXl3TWpxVHRxUFlyWkJpQjNvMmg1SUJNVEFkUndoa3hGYlN3cTRrdTJ1VkxKS1REbm5MQ0l4ellWc09fWU1NOVVWV3hWVjEweGFLdXNDb1JsWkZVZw?oc=5"
+        },
+        {
+          "name": "The New Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOblRKZDlmdDAwbXZnS1Z3TWh6YmtYSUNFRHZVa2UtR0lXT2pka1hZNXRmeXZqSHg1c3UyOXRoSlotN1Rpcm96aFphSXVkZzdmUlJtdE9pSTlKODFuZHNDakY1dl8wNjdRNG9ybGRUb1NFUFBmUFFlYllUOFF3VjdfdVQ2cjBoNldkTnFvSGpBQVV1akRvR1ktQXlmZ1llazY4RnfSAa8BQVVfeXFMUEl6c2daeXpWTlNmLTNPLXhfUldxQzlReEV2S2w2bnR1azlIeXg4cHhJbG90ZEszOWI0NFFPUE9xT3VqYzA2dnZXU0ZwOUl4OW1NMDN0aGFFRUkyMXUxMFBWd05rQUFiSU55XzVtdUM0Ym9zSmlNdl82NDR3cFBwYnVyOXlSMmVfVlhhUG5taXNZOHhwNVFhQkVtSVZjZmpvOEFfOUZwZkM5UGUyUmtLNA?oc=5"
+        }
+      ],
+      "coverage": 6,
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/one-dashboard-is-enough-rbi-allows-account-aggregator-interoperability/articleshow/134757408.cms",
+      "published": "2026-10-07T06:00:33+00:00"
+    },
+    {
+      "id": "rbi-hikes-repo-rate-by-25-bps-amid-re-escalation-of-west-asi",
+      "lead": false,
+      "sector": "Macro",
+      "title": "RBI hikes repo rate by 25 bps amid re-escalation of West Asia crisis, high financial mkt volatility",
+      "dek": "",
+      "why": "",
+      "source": "ET Economy",
+      "also": [
+        {
+          "name": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdi13YWtsb1NqNDZ5TTd0dFRNS2lRYUNac3ZwUDk1XzBFc2I3OENTN1B4WU1Fd19BY1dQM092Zjh1YlBqMV91SlFOQkZSV19iY0syT3hOQUVZSlVVOHpMSmVWVjB5Y0RUTFRQV2RJQVluc091Q0ppTC04Nlhxb2gxTHJXZUlMalZMMk14aW5Ra19Tc3JHQUlJa1VHcVFjU1o5SHFCWlpmdVgzd3lxdFpxNVBrRlhrRHh5NHBEWHNYcFV1anhuWnRLX05YaHdEajFrZVlIWlBfY1_SAd4BQVVfeXFMTlFXMEFPQlZlT1RKVkIxTkcySG5XRzB3VVBXMFVEaVcyOTlOVVAyUm9VbWh0MHpFU0RqWEl2WEI5endncFB5YkFWSHhoSTR5bjNNZ0Z2N2FMaWlxNHpVeE9rUVNOMC1rbzFZRjdoUG1qU1Jsbmg5RW5QcHVpU1JWalVRZllyMjlHcGY5Zk5kbFlyUlV4c3hBOWMybnBRdlhFZC0yZE1FQjNlYzdIcjE3WWQ1Nk1YSG03X25RMUNTQ0NSNUhDaThFczh0emhsb3NqSFgxZ3duNWNMZmpkVXF3?oc=5"
+        },
+        {
+          "name": "BusinessLine",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV1N4b3YtbnNCV1ZsRUVLUXhLZ0FDTmlEUHJfWmVldEQ2elIweEN2WDNvWmgyTkdUcTd5bFZiWi1FWG43bW5WQnVMS3gxclM1Q3FLV0Z5aUYtQ0VkNFdVWnhQM1pWTVJNNDZmUVdpUFNqb1pkZG9xbW4xTzhkZXJFUUNJQjNIdXlXVWkyQjltdUQtU1JTeF9VRHhLR3FXckRieWcwSVphX1FhdHNmVEV2blhYUXotZEV6b3F5aFZJUdIBxgFBVV95cUxOcHpNNlRPNng5ci1TLXgyWkUxWG1PaDhNX3RfOGJUOXU3SWY1cjhjNXFpOUdKeWk2VWN3MURVbTVaVDR2UC1WU3lCVmRwUUlyLUtQMUxmdVZ0WkJnanFNNkNiZjRmb3NWaUxNbmRTYUFoUm5kcnZLWnFyTDZEdzZhMElNc0pEaXYybnE3SWhpVUFhS096M3RuZ21tVWpBRnY4RENsZE1JZnhldVNGR3RqcF93bDJmLURvZEVoekJvZk9ScUg5WkE?oc=5"
+        },
+        {
+          "name": "IndiaIPO",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFE4YTU5emlfeHA4T1hXWlYzeXFWUzJfaGtrcnZGMzFpWDgtMUNMQXRhSTlTSnZRTDFoVWozZjRoTGJReUJ5eHlNWkRsc2FvTTJDSnR5TlNxazZxUlpXN3JFV3RPcWxwemFqbFBCVVc3djc4NXRNb0lzTU5kTkx3dldyMG54d0lvUHBTVFgyMUN5OVk?oc=5"
+        },
+        {
+          "name": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3NFVFRNT1JQTzhNeUxTUXFBLVN1cjdvWEtuc1RtbEg1aFBSeVp6S3JEMjBEZjVvSlhYQm1hSlpGQVhETHNFR2YwWkUtRk93UFl4akg1aFhFZjF3MTZvWVU0YnNudnJhSjFiWnBCbzBsaS03ZEFTdXRtUU9rckszemVIbk84SkFJODBBUlBtaGt2VjZzMGxFLTFmUm4wckk5MkRldzhsYXlQbldnaGFIZGJ0N2FaX25SdEFTUmxKcGw3T2JkdTdMMlhmNEx2TkHSAdQBQVVfeXFMTTJjeWR3M0FzR2wyNVJIZllPWEhvYkdlYWRsNWhpOEVfZVpRNXpwSkVTa1hSRHRLWjFGSlVWdnU1OVFOdjk2Z1N4R2pmWGp2YTl1bVZxbW90Vk5PbERZV1gxelB4YmxqcDlvcUMwc2J5Uy1EWWlBZzVKTXF6RDlJdEhYUmItS01HY0Y3djNjblp3ZUdnSFE1dlc5c2tZbGhlVHQzbEdEOVU5Yk11bEN3eU03WFNwc1M5T3ZOendMcDBneEdWLWdtQmtGU3RfeXJCTjd2bFA?oc=5"
+        },
+        {
+          "name": "PTC News",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFdyTGZJSDFCMnpOUlU5M0xoRU1hVkFyeEdReEpSQmhUNjY1WmVPLWlVZUlGemNBeGcyWTZnQlFtam9icWdTMXFIcWxMRmk0VXRUXzcyd0VRd2dhWEowOVBXYmhLdlFiUkU1RzlxaGt2Uk1WUk9ZUWEwNUl2Sy1fODZrNEs0M0x4VlhXQUZPTlUzUQ?oc=5"
+        }
+      ],
+      "coverage": 6,
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-hikes-repo-rate-by-25-bps-amid-re-escalation-of-west-asia-crisis-high-financial-mkt-volatility/videoshow/134756432.cms",
+      "published": "2026-10-07T04:57:03+00:00"
+    },
+    {
+      "id": "wheat-futures-lower-as-record-treasury-yields-lift-u-s-dolla",
+      "lead": false,
+      "sector": "Macro",
+      "title": "Wheat Futures Lower as Record Treasury Yields Lift U.S. Dollar -- Daily Grain Highlights",
+      "dek": "",
+      "why": "",
+      "source": "marketscreener.com",
+      "also": [
+        {
+          "name": "American Ag Network",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDJvMGpOc2d3czltcGY3RV8teVBTQTR4STJTZ2hsb182cFgtby1Ob3RyN3hlUC1rYVdjNEN6T0Y2RkpQV1RCdWRUMmhNNGE4b3BNQW5UWmFPT2s3SVFlZnRwV2FPZFN1d3dPTnhTeFpyYnZTQ3RCdGkxY3lwa21heWl3b1AwMkpucXc5OTRqemZKZ015Tl96TDRNOTE3QlRhZjhFUmFWcEdEeFVqNndtNk1tT3EwU0xzem9fZnNpbDA?oc=5"
+        },
+        {
+          "name": "Devdiscourse",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTFczVUpGZjh4bl8zakFRUWJPMVplbWtkOFJTcEdkX003TjVNSGpINFZmUDdLQTFNYTNXU2I2VmtPN0NTWm1USExJY2tBT1VBUVRoLXUzS19ubHJpLUxGbnJwNHhiZUtVWEltbHZwTDRIQmwxUmFWY0g0a1JCbVh3MXE0Qm40WmR2NXhSMDNIdUtyTk1KNTNKUjVvYVc4REIyYkZGRHAxaXA1ZkJyZVNTOVRLWjVXSHQtQVJRYWd2a0lLR2dncnRncWFadFBPR29wUlpJ0gHTAUFVX3lxTFBMVzNVSkZmOHhuXzNqQVFRYk8xWmVta2Q4UlNwR2RfTTdONU1Iakg0VmZQN0tBMU1hM1dTYjZWa083Q1NabVRITElja0FPVUFRVGgtdTNLX25scmktTEZucnA0eGJlS1VYSW1sdnBMNEhCbDFSYVZjSDRrUkJtWHcxcTRCbjRaZHY1eFIwM0h1S3JOTUo1M0pSNW9hVzhEQjJiRkZEcDFpcDVmQnJlU1M5VEtaNVdIdC1BUlFhZ3ZrSUtHZ2dydGdxYVp0UE9Hb3BSWkk?oc=5"
+        },
+        {
+          "name": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkNPd1J2bmdUQ0xQTFZNa2FhbnBfNEw2LTduYzRXQVo5NlRaMU04WHltYzcwQlpodENfcGkzV0Y3dkhDNnhMcDZXNEpwbERKZ1BfUGNLRVNqR184Z3JPM2owSE9YNnRRb29PQjEyVndIbXJrTGdwMy0tT28wdVhmeWJTMndhWTUxXzNocTFtMTR2ZWptSkFjUlg2bjBuclJwTmxnOFprbXFpaWxtdFhVVUdWczI5c3hmcHlKWtIBvAFBVV95cUxOMkNPd1J2bmdUQ0xQTFZNa2FhbnBfNEw2LTduYzRXQVo5NlRaMU04WHltYzcwQlpodENfcGkzV0Y3dkhDNnhMcDZXNEpwbERKZ1BfUGNLRVNqR184Z3JPM2owSE9YNnRRb29PQjEyVndIbXJrTGdwMy0tT28wdVhmeWJTMndhWTUxXzNocTFtMTR2ZWptSkFjUlg2bjBuclJwTmxnOFprbXFpaWxtdFhVVUdWczI5c3hmcHlKWg?oc=5"
+        },
+        {
+          "name": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRV9kQTU4a0xMenVhR0RVbU9fTmhodzBwZFpGdlRHYUc5em45dHNudFFCOFlQMXM1TDI4d2N3MkNQUUphYmNNSWt5TG5MYUtWaXU1dFk2RjFhTFRoR25GMklUT0lOZUtTOGVndlZKRHAxVE1CVmZMMEFiTkpPY1hNSDdMUVpkSm9qWGoxenA2cllMMWE3S3BNaW1rejBPV2Z3cEZuT3l0Q3ZydmtGbDRyWGhaQkE1TS0wcGVxUQ?oc=5"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNk80bUFOenFSNWd3ZlVhbjFEQ09uVFZzUkYtVTlxc1NqSndNUXhPRVFod3VJRkxNV0YyemVPNEdDdGRfbGZwMEZOT2NWWTQ1QndMRnhMb0JxN3k0NENqdFR0QWIyeFNNd08xUGRMMXJjOWdTcS1ZYzAtbVVQNGZKd281ODg1UFFnbGhOaUNhdF9zRE5rX2hiQ0Nld2xKWW1nZFA3SDIyLUVKLVVNZmdabjRZRnFVZEJkcWNvZ0JjTXlUTjhQOERqUVc2Z1ZNNms?oc=5"
+        }
+      ],
+      "coverage": 6,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVVBCZFBGRXZqY0xJM0IxUGRMS1d6NjJ4ZU5TUlVhVlA0ZktSR1hBbzk3MGpoYmVKWk9VRmdkWnNvdk9zOGg2VmtuS0ZFNEpZbkpGaFJiVXVBR3Z2eS1ZMDM1T0ZyWmlVTGNUd3BmUGlWTFZWZmNxTVliNzVrRXRNVTNreWpLbGpZVHd6aEEzN3IxQVc0SG5ZSzV0NG5SdDIwZ2FGU2hLNUFLeWswMG5yWDBlNkU0bTVGX1Fuam1yWkZKZ0tVTkNRZFVwMmpGXzc3c184?oc=5",
+      "published": "2026-10-07T19:15:21+00:00"
+    },
+    {
+      "id": "anthropic-reveals-haiku-5-5-model-as-ai-pricing-war-intensif",
+      "lead": false,
+      "sector": "IT & AI",
+      "title": "Anthropic reveals Haiku 5.5 model as AI pricing war intensifies",
+      "dek": "",
+      "why": "",
+      "source": "Yahoo Finance",
+      "also": [
+        {
+          "name": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVnBDOWhTa1hmOERadHNuSjFXMzNGaTFmd3BKemkxaDBHNDRPOEtpNFlnbEZDUnRyYXNyWW94aWZSREtFcU5qcEJwRkd6YzFuYlFFMU5BMVJ1N0tDT0FCOG1OZXJkdDU2aDdBY0Q1Qkt1ZTFscFlBdndNUlhvUjQ2LVdhZ3RfYlZRU0d2WTdUVQ?oc=5"
+        },
+        {
+          "name": "Firstpost",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSi1yY05iQ3ItdU5tbnd2SE8yRGtsUURDV2F1enhxZVc1c0pjcjNHeWlKdk5BRFF1dHhrV0xJaWp2eDFONDVhY0xBMUMxb1dxb2VqOTNmYUlZMFp4UDJoZEQ2YVV5aS1qcUVVNGFIdUxjMW5Sa05HVXE2OVllS2ZHUmMweU5kbW5qZG9vUzNpR1F1ZWZDNzFqVl9ZMXZDeWE5ZEl5Z2NKeFdDQndUQUs1WjVXYUpja3NTUXp3X1NUb09nMUhvT1JWYUZQcjVUeGlrMlB1aEc2RHVRSlU3TVHSAd4BQVVfeXFMTUotcmNOYkNyLXVObW53dkhPMkRrbFFEQ1dhdXp4cWVXNXNKY3IzR3lpSnZOQURRdXR4a1dMSWlqdngxTjQ1YWNMQTFDMW9XcW9lajkzZmFJWTBaeFAyaGRENmFVeWktanFFVTRhSHVMYzFuUmtOR1VxNjlZZUtmR1JjMHlOZG1uamRvb1MzaUdRdWVmQzcxalZfWTF2Q3lhOWRJeWdjSnhXQ0J3VEFLNVo1V2FKY2tzU1F6d19TVG9PZzFIb09SVmFGUHI1VHhpazJQdWhHNkR1UUpVN01R?oc=5"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcTV3Qm50UGtaVEJRM19nR1hsdzZRMUUzWEstUFVGMHE1aTZOY0R6aDVoQVYyeV9kZ0t2UG9RbVhOY04yLV9LN2lrSmZDaTdWNzFHV2pMS3Q2aFJQZ0g3ZjQyMXpWUVgyVVo4RnBvbVU2amNfUm1tODVsdUEtcmh1Sl9GQkNDUUdSd2xCdzVhc1g3Z3hHcWZpNTEtYktaaDU1SVJuS1hwV3BhZjVvNlpjOEFhTUhKZWdSUC1YWm0tV1BubnRkYjdB?oc=5"
+        },
+        {
+          "name": "MarkTechPost",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ004TDgwUFlDTU9VcE12Rl9IZDRVR0VNREdxdWQ0dTNnRlpQbmNVa25uZGhDN2FNTklfVENRZFN6cmpFWU1jdEwtV2VMcDV2Y2lCMDFLbXQwSThrRHRQaTdjZDEzQm03Rnhhc1BybEt2VEVUT0t2UUZmZ1MyMEVEX09ZV01UMXhxNFVldnBacWlGd3ZwUXlRaklsb0ttNlFnRm9zbExWM0Z5Qld4TnV2OHduaDZ4NWVsR3VONDZ0eDhXT25MejRuQk1oTF84RVItT0JvOTlHazhBdFlUeGRz0gHfAUFVX3lxTE1DTThMODBQWUNNT1VwTXZGX0hkNFVHRU1ER3F1ZDR1M2dGWlBuY1Vrbm5kaEM3YU1OSV9UQ1FkU3pyakVZTWN0TC1XZUxwNXZjaUIwMUttdDBJOGtEdFBpN2NkMTNCbTdGeGFzUHJsS3ZURVRPS3ZRRmZnUzIwRURfT1lXTVQxeHE0VWV2cFpxaUZ3dnBReVFqSWxvS202UWdGb3NsTFYzRnlCV3hOdXY4d25oNng1ZWxHdU40NnR4OFdPbkx6NG5CTWhMXzhFUi1PQm85OUdrOEF0WVR4ZHM?oc=5"
+        },
+        {
+          "name": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNDlyNWlzT0N4QnVRT3NHclBiT1pjMDA3TjVuMHlwMUtTUmdXLWszTXdTbVVwQl9raHdTMXhaQU9UdjNTMl8xYm9YMHh1ZzVQVm9na3lFSzlrbmprNTdHN0VBTVJfVF9oYVZBblJJcEZHQXo2SUdjcTZwbzB2LU5ERnU1UlJZZ3F2?oc=5"
+        }
+      ],
+      "coverage": 6,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeHZ0WUJYU0QtenhKZXlFVWhIY2taQ1dCakNleGN1Ulp1Q3l1Ylk4V0Q1NDcyRDk1d2J6RXdUZzFIbnU5Rkc0Ykw2QVBQTGF3bVBuME85eTBPZW9QU3VnQVZWeW1POUFEVE5WTXlKY1ZMMjBXX2VpSVo2WV9uOXlqSm5aMzBYSlQ5N0hyLTVvb05jZXFyVlhpNEd5MXVNdy1Lc1VmQkhLVkV0QmJMd2NJeHVSMU51dU5Zc2FLTmRDUQ?oc=5",
+      "published": "2026-10-07T18:00:00+00:00"
+    },
+    {
+      "id": "inox-green-inoxgreen-wind-world-o-m-acquisition-rs-550-crore",
+      "lead": false,
+      "sector": "Deals & IPOs",
+      "title": "Inox Green INOXGREEN Wind World O&M Acquisition Rs 550 Crore",
+      "dek": "",
+      "why": "",
+      "source": "Kalkine India",
+      "also": [
+        {
+          "name": "ET EnergyWorld",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlhMN3huSnhpTWRDbnh1bENiRWQzRXBwRDgwSGNQeThWcUExWTBwZDF6OFJnVktSTE1LaUo4cTNDUlJUemJDM0trRS1lckM0ajZhUURIWkpHUGw0Z1YzR1NDTHE1QnpZckZ3aFd5cTN0cFduWEd2SDNKZEJrakNka1dSZXRpM0oyZ1N5SlB6WEJGQlRnVDZOX1J4aF9fZ1hGbWtfM2tkMG5OTTVGTUIxQXdQMXVkMFZjejdvMnpPUGdkMGtGbnc1NTJIONIB0AFBVV95cUxPdnNhTEZGN3pnV1RiVnVwZy1Bc0xldzVOeFJaUFRVSFRaREdyOGJZenVwcFRrY0JZdVJJUU5KV2lXemVKcEh4aE1HeG5UdWEwNGtqYVAwaUtuWlRkSWI0cVBOMkNqb0hfbmlMdXVkRG94eVI4a3pET1pOczlvbmZPUnJqclhkcVB6cExscW1iQnM4RWpsRVZwWkVIeWZRMTVnRDd5SWt4djVabDVfU1BKWU1CTGdwTXhmUnBKZ09QTTlwLW1WdjJlSWpNUnFHSEJy?oc=5"
+        },
+        {
+          "name": "Fortune India",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSDNZTzNoakRmblpqY2hlNlNkblpxVm81X2JoQ3RHWnFjY3BQRktRN0puT2VsaVNfRWJMdlpzcGs3TmRhZXZLWVdtcXdGR0F4QkZBelUzTTZoX0F2b2JkZDlQTENYOWxmM0dsZ3dPQlFJdHh6ZGR4cGVMMFZCS3pMWWxURGFUSFNaanhTQi03ZWM4MnJLbm1pOVJYQTZDYXB6T2lscmxCcTZHU2l0c0QxcjBSLVlPclJPcERXblVSZVBYMGZhMjV1NXBBWdIB2AFBVV95cUxNOWc2VFlLaEFrU3VuZEZDb3E1M1BEaDBfazVJUVhTc1lVeG5XblVtUFBjcF82a2h0V2p0U2JLOVRwa2VmUTVXOVM2UHFyblowUHk3d2NwZjJ6ZGlnaUM3RXdQamNoV3ZCY1g2bE9iRTRCa2NCM0F4eGY2dVgxUFFfU293M3c4dWlFMFVWS09HYlhRT291M1pnX1lGSGlLYWRuQy1lalpJUEpjaW9rWWVCTWRpaUQyY1EyNkxJN25pdzlCUEpWLWRjSWdZTGEzMHlfaDhYMjJ0QTA?oc=5"
+        },
+        {
+          "name": "Sahi",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHlxV1JmU29iOHQyR2twS19EUTJncTc1cEl2WkQtSU1GMWxGMC1nYnhhUlJmZlh1UERqclZPRGw4aWU0a2FVT2JTb1NkVXNiSXgtaUJjdThCaF9PNzZfdndkNDRKN1ZOZDE4a2JnOHNwSDQybkdiMGVXZ3VqMDluajRGUWFLN0F5UUxEV3VOVnJlc2JGYy1YamhsX3psc2s?oc=5"
+        },
+        {
+          "name": "SolarQuarter",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNTdHbEE5Ym5JV2VzZVR1amphY3AydkRxNmpRSmY4YWRlaURFdzJCRFhUV0YxaXFUbmQ0OWh5M20xZE9QdFJoUkJrNjB5N2dhczdqQmNNQWQzaHBqSGlPVElYUzBQMVZDOGVUZFFhUDNKOTJOSkF5YVVZZkVoakdkVkZIZkVPQXplNWk3d2twZlFVX2E5ZlVhQnJyaFoxNlh6ZHFBc3JFc0l0OHE2R3Y4QmVWc3NRQ2lmdG14Rl9XUklsYUliVkpzMTExdXIwXzJNYVE2Qzktaw?oc=5"
+        },
+        {
+          "name": "Trade Brains",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3M0QXpUQnJKODYwSWJtS1NMNXBYTmoxckZIUWdyWmNaNTFYX2h2MHhnT0U1RnpiQ0lKSzFLby1Bd1RBcGVVNVFFUFQtRWVXQi1XclN1ek8tb0E4Q1FWc2xQdUNoWG1JT3ZaRF83OXFuWDBxWWxjZEhYN2ktVkJUbXI4WVhZWnZyMnZSb1Ffb3B6aHJnMVZScTV6NDZoOUp4a3A1RU1BTGMtRzZBTmJvWFpTb1JiTVgtejFEdzJhenBHcnJIeFNaNFZqa0JrZlNs?oc=5"
+        }
+      ],
+      "coverage": 6,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSzMtSWd0N3l2SHhpc3ZqNGVfU1JhaUhpNVhlSVFIdk9iQndySXFnUGRKeEhuUWQ0THdCN21EbHJ4Ml9vQ0RfeVhtaWw0cnZkd3BURDR1c28tYzVkNzBfUmJmdWxwZ2pFMDl0YU5tOFRBS0dYTnVsY3c0Vm00NmU4eTFnT21YZDZRN2FxUTcwdTFacFlqUmFlbW1DWGVaNXVKejBSRTB1RnI2QmU5NTA2dGZTM002UTNB?oc=5",
+      "published": "2026-10-07T01:53:00+00:00"
+    },
+    {
+      "id": "openai-just-posted-hundreds-more-results-on-major-math-probl",
+      "lead": false,
+      "sector": "IT & AI",
+      "title": "OpenAI Just Posted Hundreds More Results On Major Math Problems",
+      "dek": "",
+      "why": "",
+      "source": "Engadget",
+      "also": [
+        {
+          "name": "Decrypt News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSE8zRDNDeXpNYlhyQ2ZkQVVPajNPN19JeXNsXzBMS0dnVmJpRk5OdWpmWndTUDFlNkpFZ19IVGo1WUpyY2RrR2ZvQ0RCNUhUMmVVQjZjVUNYTG1WRC1CMWhYTHFRUHNOZWRBM01HaHAyWTNVM3Q3UWVOWWNRNjNCUnFoZEhSbG1PM3pSR2lXcl9kRC1YbU50YVdGYWU?oc=5"
+        },
+        {
+          "name": "SiliconANGLE",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUkREeTQ2V3MzTjYycHAtNXIzRko2aFk5aWNaVGVhaHNXSzVsamMwWVdhRE54dWNFX2NsTlc2VV9FTVRSbndyWDRwWVdfc1d5aGJvbnp3d2tVckhmbWVwTDBhNjVod3o0N1pIZGtNWVpqanh5d0F4T1VvZlNHU190RURPR29yaEZqUkhYbzhfRVhjdzh1RjNSdjJGVUNvUjdQbWFvMGFpR3hKRnJOSHlrYnRWSm41ai1U?oc=5"
+        },
+        {
+          "name": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUU1YaVNmSXhlYVF0XzBLM0JBY1pJZFA0MGQ5YVJzZ19Cd3V0ZWx1Q0dlZmY0MFVNNk9BSG44ZGFPb1B6UUR6OFZrZGM2NHhmU285aG1zdnVVSnNnR3BsNnBLMTR2NnFFZ2RnYmdiX2I5NGZUanJYVUlxOHVpYlZrakR4VkE3WTR1ekVleHBwOWpFR29rT250TUlZalpYaW5HV2ZaSmRxb2tUbHV2bkVlYzFjenk3dw?oc=5"
+        },
+        {
+          "name": "Ynetnews",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yVDREU2JFcXA3RUpETy0zWWNBRmdYWGVNLWpWSnRpeGRyOHJJSEE2SUVVQlZTZjVyb05vSUJ5UVlpZXAwcFBwUVNfdHA5Z19ndEw1YnQ3TFpyWF95aDJ6YlFaaDZjZlZlNFBDUQ?oc=5"
+        },
+        {
+          "name": "https://tech-insider.org/",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HeDFmVkdHVW5Gdndzd2trMFZNbHppQUNKMGo3OFhhTExWMzc2dnRCLWpCRHc5VnN4dDBwN2x6RDBqcmU0QmpJWWNDUGN5eERucHlTWExvZGFEX2dkcGs3UFozbjh6V0s1OU8yMFo1ODgtZVluaXUweUI0Vjk?oc=5"
+        }
+      ],
+      "coverage": 6,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSjhkWno5X2s2NDV6NGNveEFfbmQ3Z2diOVYtcGJDWk5pTEtzMXJoU29SVEZNeFJxd3dnN2NYWmJIcnZDUVV3X0ZCNnBHckxhcG9ocmp2TWZuenUxcVh6cTI0am4wZkxGOE5JQkJlX3EyY3RYS1ZrQ2pvYVVwb2pYZ0dtVXdoZjUyWk9vX1NYc1pxSEJtX2NpTWd2LUlPZw?oc=5",
+      "published": "2026-10-07T13:08:45+00:00"
+    },
+    {
+      "id": "us-market-ends-lower-off-record-highs-as-treasury-yields-cli",
+      "lead": false,
+      "sector": "Markets",
+      "title": "US market ends lower, off record highs, as Treasury yields climb",
+      "dek": "The recent trading session on Wall Street saw a decline as US Treasury yields surged, sparking fears over inflation and the escalating debt crisis. This drop followed remarkable highs reached by the S&P 500 and Nasdaq.",
+      "why": "",
+      "source": "ET Markets",
+      "also": [
+        {
+          "name": "Goldman Sachs",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUC1EQ2IxSkxPWTQxRVQ0VG5DbklURTlXNEJqNzVycGxscEg5cU16QnEyRVJaQi13Tk55U0ZXWERqOVJJSWVRM2xRMFBEZkh5UFpTVWh0cERteVdMZVJaZjF2VXR3N2JyTE0tdUNtUDN1SWVxODF3am5kNWVTdnJnUERlVUdyWFgxVFFPbWRiVVFnSVNubkE?oc=5"
+        },
+        {
+          "name": "Mint Markets",
+          "url": "https://www.livemint.com/market/wall-street-ends-lower-off-record-highs-as-treasury-yields-climb-11791403312250.html"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdWgwQmdpeURTYTg3MnRTblFCa0toMlNpczc1dXNqQm5hX1JnNnhITjQwT25MbmxKUlR2dHU1SUlIajR6RTNpc2NtSnBJeFltOUV6aGRHNS1kWTJEckkySWxhaTBldWxGMWd3QXlZd0tncFV6Wm1JTXpiM1dBTnNHdVJGOVo4QQ?oc=5"
+        },
+        {
+          "name": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMmZkZm1FQzhHRllEWWF6UUdBc2lFNHUzWDBlTUhCUTFsVjRUSE4zOHhycUVwdEI1Wk1qeFREd09YbS1fVTdFRVBzS21YVURscmt0S1oxM3M2amp5VFRaTU0tLXdtNk1yemtESWw5Q1RyQ2R6NjJFWG9ER2xJTHVLdmI2QnBlSGc?oc=5"
+        }
+      ],
+      "coverage": 5,
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-lower-off-record-highs-as-treasury-yields-climb/articleshow/134774342.cms",
+      "published": "2026-10-07T20:10:05+00:00"
+    },
+    {
+      "id": "your-home-loan-emi-just-went-up",
+      "lead": false,
+      "sector": "Markets",
+      "title": "Your home loan EMI just went up",
+      "dek": "The monetary policy committee (MPC) voted unanimously for the increase and adopted a stance of \"calibrated tightening\". RBI Governor Sanjay Malhotra said rate cuts were off the table for now, leaving a further increase or a pause as the choices at future…",
+      "why": "",
+      "source": "ET Markets",
+      "also": [
+        {
+          "name": "Autopunditz",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWC1xbW9tQnNqNDZBUDJLZVhDX2ttOEppbnhWcU1zTzg5ejloZmNGVjRqVE5xMy1fOGVUWnQ5QThZM0d6Nmc4QnlQdDAwbTBNZlFzVnd2YnEtOHkyXzhoMnc2UWJCRUp0b0dWVWRrcWhlaElnRmhDVjNLZUEtaVFYaU9QbFJKN1haN1FBcWdyNXU?oc=5"
+        },
+        {
+          "name": "ET Consumer",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/rbi-rate-hike-your-home-loan-emi-just-went-up/articleshow/134773182.cms"
+        },
+        {
+          "name": "ET Economy",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-rate-hike-to-raise-home-car-loan-borrowing-costs/articleshow/134756406.cms"
+        },
+        {
+          "name": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZG4zYUg1QWZxRERucjF4SkRjRGdhUEJRc1d1Y0NESWNBSUJ6YlZWYkpqcnNYOVdEWkxMVkZuOWVxOXhaaUxvam8xZkFqVmZRVXFBelR3dWRjZ0w4TGtCd3hyTHplTlNmZEdtX0FpSTJyNWFTOWpQQXZPYUhUY3JpNndacGZLMHFNQnFaWFNxblRCbWcweExxQms1WmV3Uk8tMU1zREJTWGJ6S0R5MWlET3NqMFNybnJVVTVvY1ozLUpjcmJvQkFGemNsMlJHUdIBxwFBVV95cUxNcUJXMmNmUFFnWUZzeDBFc0ZzUkVmUl9LUzRqeXoycXJvand1czNOTVhBc0UtLWNlWDdwTElqLWhkSlAtWG0tSnV2aXZfWDFiWk9UM2o2dURGZVpnLW9DTk55Wl9jcG0yTVB6XzJ6NjNPZUNwYzJMXzJkSWZpLWhnaUM5dlBjVkNIaFpJTkpKbGRHRUQ2N2ZScUVsRUkzYkJNYWNQZWhTcVhwSTN6WXVYc0RHYUw1UEswR3JraWhDZV8yN3RKaWhR?oc=5"
+        }
+      ],
+      "coverage": 5,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-rate-hike-your-home-loan-emi-just-went-up/articleshow/134777176.cms",
+      "published": "2026-10-07T18:34:36+00:00"
+    },
+    {
+      "id": "openai-says-teens-use-chatgpt-for-under-15-minutes-a-day-as",
+      "lead": false,
+      "sector": "IT & AI",
+      "title": "OpenAI says teens use ChatGPT for under 15 minutes a day as worries over risks grow",
+      "dek": "Teens spend under 15 minutes a day on average on ChatGPT, while less than 2% of them interact with the chatbot for over three straight hours, OpenAI said, as technology companies face scrutiny over the risks AI chatbots pose to children.",
+      "why": "",
+      "source": "ET Tech",
+      "also": [
+        {
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kNEt0LWM4QTlGMUtZLTdOOFd5Rlk4WE9pMzBvQ3I3NndNY2pKdkM2TDRGNmg3Q2RWMWdESy1mRklJWUFHRTM3VmRVTEp1RXR2UXFEOEpaMHIzdzBTUVE?oc=5"
+        },
+        {
+          "name": "NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWXp4VWh1dmN2SXduTzI0ZkF3aTA4a0tGcWlMWnR5UzUySDBfWWZuWGEzcXdub0FnRnR2dWJJaGYxSnZrRWtUVzFNU0NPSzlHYXRzUW1WaTRyVWx4MFA3TmxNeWdmYTN5MEtJalhRdlk3OE4yR0xva0c0V0RKZ3FWUGZyM0J0R2FOdGYxeUllMmNpdjRCT1hndmlwbUJPZGZ2UVJCVVozb0RzSGw3R2ZnV1JGV2YyS0dUeTZNd05ic0Z5SE5BUlEyMFBMZERqZ9IB1gFBVV95cUxPMkN3RGFfSkxGaHUtVXpXb3NpLXU3UzBGN1dKUTNHbzNLdmJQdVU2Z2lKMWdPRzM0SWFVOFdfU1d6dllQazVlRlluWTZaQzJmUE9tN0dJYnE3Nzc4YVpUeDFaN040bzlxWFFENF9Pb2VpOFQtcGQ5SkxQS283MGYtTlZMYm03SWpiR0RldHRPUGIzdHpmOGZUMUNHbWxWQ3pJQ2dNdmNwblA1UUhtbnJJTHdLNmRHbFFjTW05c2hpWTNYam9GaHhtMVRZTDk5SjFDMU5hTmt3?oc=5"
+        },
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZC1FTkQ4ZFRnb1J0bzJmTGlBWjFYNHFvc1hGcG12RjN5R19sRnhCVl9xMGtEdXpjODgtZTNDN1BEdDI1MTZLYU9FZUR0RUR6T1NXQXFrU3p2WnBIQlk3RW5DUmx6NWVYRWQybWI0WHFudE1TdXBXQ1BXZ0FHMzhGUDZXbTVaQ2J2M19YbkRPWQ?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRXZyRzY3SU54cjlKMi1jWWVvY21vYWU0UlBMb2FwUEp5Wjl6bERWWHRvY3NjSVNTRWlDM3M0aFlPNXpaX0hTS1pCd3pBZWJhVDl5LXFzV3ZEb3U1QV91RjgyVVNzVDVQLV9UY3FmRnFwMm1MdTNMMk9SZjhHNWk2WFp0Mm9UTDRPbjZMdXpGS2lxZWkxZmNYNG5QYnpEc2RJbXNwaEgyWUJUcnlFY1BLVDZfbFBBdURQNlVkN01VcEFBdnNBUjhMUWZyVk5XZw?oc=5"
+        }
+      ],
+      "coverage": 5,
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-says-teens-use-chatgpt-for-under-15-minutes-a-day-as-worries-over-risks-grow/articleshow/134770104.cms",
+      "published": "2026-10-07T16:09:28+00:00"
+    },
+    {
+      "id": "rbi-may-hike-interest-rate-further-in-december-policy-expert",
+      "lead": false,
+      "sector": "Macro",
+      "title": "RBI may hike interest rate further in December policy: Experts",
+      "dek": "The Reserve Bank of India has shifted its policy stance to calibrated tightening amid rising inflation concerns. A rate hike of up to 50 basis points is anticipated in December, increasing the current benchmark rate.",
+      "why": "",
+      "source": "ET Economy",
+      "also": [
+        {
+          "name": "ANI News",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONEhWek0yRG9BM0RXOHJIU2pkdVVkeFlIWVVCSzJ3MXU1R3NqSi1XaURMQXJ6bUlDRGhwVE9UY0xnM3hkeFVYU3RmaVZzTXVHYXVvOGRXaHRReDhSbG1wajc5LVhSeGlOMVdfNERMRzNzTWlYLTlyR3pVampxdnhpVlY0TWFaaEhZc3JTWEItaDJodXBTNkNnRW1UVnpwME5LTU1aN2s5SG8tWTFxQVprUFpFMjRLM294VzB3ZFl6RFlGOXNMSl9qSFBua0hPdFlS?oc=5"
+        },
+        {
+          "name": "ChiniMandi",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3J5QUxPdDJGeHNxcE16SGhxZ3RlcFBRWGNVZnpqbFUxSlJpQlRqX3pKdnJ2UG10Q1RKSDNVcUczbWRON1h5emQ5OGRhcDFWdTJJV1NQa1F4VXE5QVhOLVdwWUpMajg4a3BjUU4wM2JKMzNaajNxQm1xdEIxMGtlTzhRNC1NV3dSSzlZWnMwS0Y3SlhtNHVRMWJIbk10cXNncEJWSnhWdWx6cXdMNU54WktB?oc=5"
+        },
+        {
+          "name": "ET Government",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZGJnbnJqVy1nM0hJODM4MXhzd2NqM1V3MmlhcUg4ZFlsZnVscm1lV3Z0eG1ja0JqQlFERXVVNDliVmZJVUtXOHp0MFhaZmVlaDdmUlp3SlAydnVNNVJBa3BTWUwwbWlva2VVdE9RaWpmbnBwWS1wYzlHZk1PQ2FWV1Uwa2hwMDZBLUdRQzR2ZUQ5QVc0TFVWZHpaMkp4cGVVc29PYV9nNWtaMHJObzdZYkdlQ0hwSlI5ZnZzTGVaeWdKLVBCQTY3T3h1VlnSAdIBQVVfeXFMUG83WFZ4ajVObFpuVzhoQ3J6ckhDR00tVkVLc2JOTDVYbVNBVGdIaUQyUjNnWlhmcUFBRFQzU3FQUnRHX3c4WjBINmFhYTV2SjNzZ2JxZWJCa0dUR2o5dm9ZcjV6V0FEZHZYMGdEaldldS1CTzV2TlF1a0tfUWlEekV2VU1IbjA3aURpVmJMc0hkalRiS2ROOXI0akRjSGF3R252NmVtYnlBc1hmZDJ2SEtxXy1rS25Na3FxWmtha2xkWmM2TG04Q0cwYVRrd0hBSV9B?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWI2VTJBM0hPOXBYT3lXTFZfb1lfU2xBS3l1Y2NLRkIzY2h2V2FTci1wVTNWdEZOckdjN0w1Qm1UZ0ttTlUyWHpkNUxoNGhXdVBRQ2hidGNyemZmZVRzeWhTNUROTU9hc0FSWUszMWhJZ3h3WFhCYmFScUlMNmM1b0NFajlEUGUtWDM1ckRWV0JZRmlOa0pMUnc4ck1VeXZKel9lWF93?oc=5"
+        }
+      ],
+      "coverage": 5,
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-set-to-hike-interest-rates-again-in-december-amid-rising-inflation-and-market-pressures/articleshow/134763276.cms",
+      "published": "2026-10-07T10:30:38+00:00"
+    },
+    {
+      "id": "uk-gilt-yields-rise-as-oil-us-treasury-yields-weigh-on-bonds",
+      "lead": false,
+      "sector": "Markets",
+      "title": "UK Gilt yields rise as oil, US Treasury yields weigh on bonds",
+      "dek": "British 10-year gilt yields jumped 6 basis points to 5.44%, nearing a 19-year high, as rising oil prices and US Treasury yields fueled inflation concerns. Investors also focused on Britain's upcoming October 28 budget and fiscal outlook.",
+      "why": "",
+      "source": "ET Markets",
+      "also": [
+        {
+          "name": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBydl83WVU4amtHYUl5MkVjQnJXZmdwN1dQZnNOYTNVeFBsRDJBMGcyd3hLaHd1N0JpN0lRTGl5NkhqR2N6S3ZFSlBVdzlwZ2pxYkVWMDNhUnFXbXNoaDV5SGJfUzA3LUNZLWxfMExUUzVMVFBORjBZWHJUZDM3UdIBgwFBVV95cUxNbGdtZkRaZURkVnlOMlgwY24wQ3JTeXUwQlNyQzRhdTZ1NXZWbHRlOXlqY2lvTG9GeG1fQnZSYXVkeEQwcUdDSzhSVlhjdjZES1FQWDY0dHN1Q0dwYVBnZzVqTE83bEE2VlVpMmRIOWpXRHIyLTF2RDRqMnQ4enZLdmdscw?oc=5"
+        },
+        {
+          "name": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QZHQ1UXdiRTJwQ3JxV2NwQTV0UC1CWkRIZm9pQTdSYV9kZ2JSSnQ2cmRwZG9WbjVQYV93NVk5Ynl2MzVWYTNLbjdrTjhHUVpXZ0tWVEZrSS1FV3JOY1VnRWNHRUxOS2Jpemp2cUdIRHQ?oc=5"
+        },
+        {
+          "name": "Quartz",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuQkhlLUlrZW1mM3NFRGFzZ0hqOTI2b1MtU1JaZk9FenpvU2FCMzd1djB1SHVJQTZOM0xkRTlnbUlwS2RRYk9CRVhqNWE4OTQta1pLZm1xV1Q3SXZ1eU9rRG9lc2dXOXFvRzBPNkJmcGJWbmRIZzJpczNhTXJPQQ?oc=5"
+        },
+        {
+          "name": "ThinkMarkets",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ0hqdHdVMTJ2aW5SUDdUY1M5cDRoZkFDRGN6b0hJVzA1MzVfX1JiTjc2aGFxeVE1ZWRlMHM4bHNkTi1KbVRYal9tSzhkNDBLX1hlUmV4aDFyV25MOUthRmFzQlZJNWlGeVREYlJRUUlKOXM1dkFBdGFkV2FzbVNZalRmdFhGM1lqRlE3VFJDb3FKc1lXVFNrNjNsbTBrdw?oc=5"
+        }
+      ],
+      "coverage": 5,
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-uk-gilt-yields-rise-as-oil-us-treasury-yields-weigh-on-bonds/articleshow/134762712.cms",
+      "published": "2026-10-07T10:11:50+00:00"
+    },
+    {
+      "id": "rbi-inflation-fy2026-27-malhotra-co-raises-inflation-forecas",
+      "lead": false,
+      "sector": "Macro",
+      "title": "RBI Inflation FY2026-27: Malhotra & Co raises inflation forecast to 5.2% for FY27",
+      "dek": "RBI Inflation 2026-27 Forecast: The Reserve Bank of India has updated its inflation forecast for FY27 to 5.2% from 5.0% previously. This revision comes as retail inflation exceeds the RBI's target for three consecutive months.",
+      "why": "",
+      "source": "ET Economy",
+      "also": [
+        {
+          "name": "ET Markets",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-raises-repo-rate-to-5-5-in-first-hike-under-governor-sanjay-malhotra-shifts-stance-to-calibrated-tightening/articleshow/134777167.cms"
+        },
+        {
+          "name": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi5gVBVV95cUxPeE5MLVh2WHU4d05pLVNGQmZYSnc2Q3dnS3BkcEJzUjZMYzhIREgxVVNkbERzQzQyandvWjhrU0dfRjVIQS1JT2ZoUE8xRmM2TlFPenQzOFcxbW9EX3pTRDdXbUNSN1lZNW5tNHpaZVZIclB1WEpUcWdsdDJBdXBzbHNCMnZyNzN1WHRPaVhEZG5CRU1MZ1d4Y3RmRnFFZ21yVFhrWXdVbi1qWUpUTlFIYVI5dzBXR01NeC00aHpBdHlpeGU1Q1V2TnVTa3hTVmxUUW1ZUVNPTVoxd1VpSnpWQjVUWG9VRV9EZFg2TTU4ME44LW1JMUV5NUo5ZmNYcVFEbmhJNGl4Nm11eEZsWldzVHhwS2ZDUkFUbUhjYXVGWGJ4RVFIemU4SHhKcTJaZmhfMERRODVKY2o0LUdFcWxUUVF1d293Z1JXanUwQW12RmVidGhqbDVrOVYzdkZNTGNuVERfQWxLb3lRdmQ2NFZqYVBWY05ubkhJR3RsUnlVYVJ5RjB3ZWFzNGdCdHpNRjd1Vmw4T0oxdkN4eGFKWUNJeUVQbzY1Sy1PakM2OUtEN1FSMmNvSXFTQnU4MzFOMFhBUkNmalhKb3dkTFh0Q19wamZVb2Rlbld1R2JxREIzS1dsTFVBeURtNVJsN3otb2o5NGhwODFQc2hFcVFkUWtWUFcwa1ZxaDc1aWRkdUZxaDV4TDhNdUctMlFpUmlrME0yakRVaWQtMFZxTnhOQ1pRUnpfT2VhaXhmbGZYWTUwV01Tb3ZrOEtsUlI0MTRzMTc5VlU1TnNRRzIzaWJYY2F5Z1BzVUNmMFk0WHQ5VFBuMWltMXRZMV9LTzBpbjVJMElYUXBjU2t4NHBhLVpHUEZOUV9EbmhPZ0Z2V3plNjBKa0k3MTRGaGpmZ3dwVDRHSGY3MDlYR29idE9HcWoxckduUWhvNXBDOTZYZjBFM2ZJX29LN0hDcDBnWS1JZlk2M1ZRWTB5T05R?oc=5"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSnBFUmVGQzVFT1QyYTNqMjBBa3VaNGYtYWNvajRDTExSX1lfbEhKQWJ4YWZ1UVNhOEFWdkVGcFBTTURKM0FfQTJkS25SaXpyYzBxMElvRXlfQzVra1ZBbHZDa18yWUJKMEJQb3c0MTBKSFNsR0NYMkhyeFRRYTFpQkM5ZFRpQ0VFZ1g1dWptWno0T2FTck9zSGJ1NA?oc=5"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRWlDcUN1WHJMUkZfUU93bVBjdm93UldrTEJ3RUdOWFFrZWZyOVhzSlRScEZtR053T1o1cjVpWjlYV2ZxbXBpem1oa2xraU9xNmNQamdjbU1hdWJ4YlZqQU5vT0dWNHN5SjFnV1ZEZWliV1hFaGpyS2NQTHd6S3ZldXNHX0MwZXRrOGNhOVFLaFozLVltUHBTLVp0bGFqOWR4eE1ZcmZMTHRBb0tNbjhPWk13czZaZk10TkR1VXVuZjNtRHdCR3hJT3FRVHZnQdIB1AFBVV95cUxPbXhwUDNOV1QtNV9zVXVjbExVaHlibURrSWVscU82RWhNN1hUOEdjbFEyMGRlRkY2b2MySlo0TDRNZElGN0V0d2U2ZE5VdmtTS0c1S2VTX0V1SFQwUmhKRXZpU1ZRb1ZZQTVUVU5idVRmOVB4R2s1NU53N1hXU2JyZE91U1A0UVBHWmhEMXZuc1Q1cGw2eU05dXRveTl0QzU0MDdycHRDS3NpNjdfX0JiNnhCN2s5WGNtYVNKREJFTHBtbWtlWXVpWU0weWZIRTV1QzhpQw?oc=5"
+        }
+      ],
+      "coverage": 5,
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-inflation-forecast-2026-27-india-cpi-outlook-india-rbi-governor-sanjay-malhotra-mpc-monetary-policy-repo-rate-food-prices-increase-el-nino/articleshow/134754713.cms",
+      "published": "2026-10-07T04:47:46+00:00"
+    },
+    {
+      "id": "acme-india-industries-ipo-allotment-status-check-allocation",
+      "lead": false,
+      "sector": "Deals & IPOs",
+      "title": "Acme India Industries IPO Allotment Status: Check Allocation Online",
+      "dek": "",
+      "why": "",
+      "source": "HDFC Sky",
+      "also": [
+        {
+          "name": "IPO Watch",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IZWxvQmFCTDNnTzE1OE9tRFlaU0VVeWV5ZlFMQ2RfWk1fd29KLTV1c1NBLU9JN3AyUzUyMHkxQWlLRUhfZWdUbHRqaWREUHE5czhsUkhzNEJaSlJaTlItck9PZl82QQ?oc=5"
+        },
+        {
+          "name": "Upstox",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMkJiRnkyOU56WW51UUp3dDVQOWI3a2M0ZG1FZm81Ymhqdmd4cXVLV2E3UHplVDQ5WEwwWmNzUTRiT1JRWVpyRVBlNndibGhoYk0wTmRNV0ltYlhPYXYxbm5ibWF6ZUc4UTZPZnlqZWNxSEt1V2kzN25tYVJNRjVueVh0eWhDUUV3YVpSeGVYblE0Z3lKd1BzbzZMaUhZaVNqYXJrY0EyVXVZUlhhQ3hLUk5yMUxzb211MF91bFhYM2liaTZoZl93ckZ5bEFQRTgtemJ3aUtDQXRMeDA?oc=5"
+        },
+        {
+          "name": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRkh1LVhhUDg3OWlBbTRPYzVRMmhqZ1gwQ3V6ZXE5bW1NOV9MMEtvTDZEaUMwdGNSYTdyVFM1eE5reTZnYjh3WTVrMzZPRi1BcEVNUlYxRFlINVl6emdGa0V0NmstLXdWQ0ZlVkdYdmJQQUppN0tTY0JrX2NaQkpHRDNPdEl4enZ1eDF5TFRfa3hHdzhUZnpHWjVSQUVLZEZCR1NUcmJRbVNlcEtGWnVTNm52QUZIOFpWS1ozOW9n?oc=5"
+        },
+        {
+          "name": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM0hPck5tZlh0UDZWcC13d3lIWWN6UTlIRlBOZ2lxTFNZd0h3ZkNPaDhFQ3A0X0h5RjVfMU9ILXZ0aER6R3BxUllBMzBYYV9Xb3lQN1BZSzVtVlF4OWV3ekVyTnQ1NmpZcHU0MDBZc2VyUHJobjItNGt4dGxrOWRxVW5IZ0d5Q05zNEg1X2EwckxZa0xoOXVwMGF0aUQ4WGNFSEpFa3lrU2g1bjZFOVBnQkJsdFhScTM1OFdoejkzNXZ0VWlnVDR0MG9HUjN6S2FVUldKWlVnemg?oc=5"
+        }
+      ],
+      "coverage": 5,
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03R2JGcHBveU1oVF9rXzZfdDItODZ1M0V4TUlFbHJlTDhTenlfejFhMmlYMFAzMFpGdnVPRnZRZzRzVThmOV9NMkFxdnRqZTBaemVSUkRZUEI5Sk9ld2xHYVhBQjFOaVZFZmJ0aURmWHdOejVBR3U1WkFEeEM?oc=5",
+      "published": "2026-10-07T04:10:27+00:00"
+    },
+    {
+      "id": "s-p-500-nasdaq-retreat-from-records-as-oil-and-treasury-yiel",
+      "lead": false,
+      "sector": "Macro",
+      "title": "S&P 500, Nasdaq retreat from records as oil and Treasury yields rebound",
+      "dek": "US stocks: S&P 500, Nasdaq retreat from records as oil and Treasury yields rebound The Economic Times",
+      "why": "",
+      "source": "The Economic Times",
+      "also": [
+        {
+          "name": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYM3hiZzlYaWtBSmxtNjhDSjBJOG5yY0lRdmhUYlNDRmdjMVczSGtCWEd6NjlxbktMTmwyTGkxSG9UWER1M3RmQXNHTnZ6S2pqMzRvOUU5dmhYSHExQzhFeklma0dWeVdQeG9Kb2VwWVBIMTUzT3c?oc=5"
+        },
+        {
+          "name": "FXEmpire",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa0k2Z3B0MGIxZTNGT3ZkNkh0TmU2VlV4YllGZU53X3lWb1czSHRQTW5HM0ZrR05Gb1A3QnRrdWgxOWZiQWxqTlJtSDREVlc3MkN3clZMM0ZaQWd4SzAyUFJ4SE1JbmpudUhQZDN6aFhjOElrY1MxRzVpYUFsMU1fMFBaUkNubm9jQVBnX2M5V05BOHB2R3ZTYW5Kamg2eUw1Rk5MTUtWRk5oNlR4aVA0cnB5VmtKYzY4a3JzQ0JBX01GY00?oc=5"
+        },
+        {
+          "name": "Hindustan Times",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNm1BUjJORFo0QzJ1MXp3R1dRclRISUhjZkpZbWoxenRmb1NscDJZVExWVzlCSTRjckJGaTJxcHVWRjBJbzhyZmQwdjhpSmdJbVZzM0QwNWVpSzZWNUFucGxkR2pjMjI2VUZrRWlaN3lDaTVKWkhZZVlFNTBBczBLajU0NjBndk9sUFJGbmxLOFozSUwtT0hVYlUwZzlVZXlySkZlc2lxMDRNOUpSRm1TQVRCdFVhUHNfQ1o1LXV4alVJM0w4ZVB6TVUyblBIY2V40gHWAUFVX3lxTE9FS1hycUJMMExJSXllYVpsSE9fVkEzeUN3X3laS3VXX0diSE9QUDl4ODZEN0J1SjRVdUlZY1dsZ0Q0UEZvbzM0MXowTHBIS1kyUUFDcGVoVVNJZnVpd3hiekt6a21OVXliVWdxRWVYLVpIR2lxR3huaG1SZkQ1bXpkLXI4bmZFbWdRZF8tMXhIb0NvcFdJcWpHSWRBNjl3ODdlTUVibUtSWWg5SFBQd1dTQ3FwZEhyWUt6eE1uLWRRVnh1azU4VEltNF9SWXlOWmFsVWIxQUE?oc=5"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWxDOWxwWTFfWkhPdDk0N0xDd3JqOHA0ZnBSMVkxaTdrZWFXeU51N1B3LXZuS0ZnSkZvWU4xNzlaZUJCb013dkVYTkpCbFZjT1lUdWlBcTBxLTVkYk5lWGt4VElyaTFPSlNoUTN2eDY4djZDem9qanJTMF95TzhaTS1rVEVHUkZNeVdoQTg2NXY0TldYZTZUOGFLLVM5cmdXOXZ6UGU1T29mUUFpd3lMUjZ3NW4yd0lHYTdVRnZURHdubUlDbkhmdXJQTEY?oc=5"
+        }
+      ],
+      "coverage": 5,
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOeXFTVlFtUUJialVwSlNzTmxxYUEyb01OUUNsSTlTQ2FVYWo5VlZqa0JfZDM1cFpza2JBVGs0OTlyelRWTndHN2pjLTIwanVNTmtlVUZWTDliYTNweWhmYkNMRjJ1a2MtenpwY09SQ2hYcGQteTBMRjdBdGJvMGhLcVBmTjk0MThLc3dpNzEwSGFIaHNsSHh0bXdSQWt3aTBOUzUxcWRtNkF4U2QyeFJsTmJTTTVUSVRsSUtwZldvd003MU95aXY4OHdyNFhqVnRhdGlUbk5FcGxULVJfRk81aG9xam5vZkNPMmU0TUJSRUJaR0xiZ3NjMGoxQmVBYVJXOWg00gGIAkFVX3lxTFBVaklFYnYyOFZScFRITURxR1B1QlJMM2dHNFZQMXVQbFd2OTBtcmJ5dWo1RUduQ2pYS0JGOWlWZkVMSC1tVHRoUmwzY3BJRXpIem95QnJROXoyeUJ3eFdLV3JVakdfZEF2WEZrQlBJRUJUZkdOWHZlRk8tOTJENGRIdW5fYjUwX05LMktDbU5rNHg5VUt3cDVGX0JMVFoxeDJKNUlpS2pWMkczZnlhSTR3NkV3UFVpQU5WMGdPNm91Z2xSUG9IWmZrV0VqbEcwRDlWOWxZZHV0OWVzTlRNVVIxUFZ2RGRYYVd5V01MdHFROWN1alR4eEVTVmJMN2JxclNVMHNYaXB4cg?oc=5",
+      "published": "2026-10-07T13:59:55+00:00"
+    },
+    {
+      "id": "us-stocks-fall-as-treasury-yields-hit-2002-high-oil-prices-r",
+      "lead": false,
+      "sector": "Macro",
+      "title": "US stocks fall as Treasury yields hit 2002 high; oil prices rise",
+      "dek": "",
+      "why": "",
+      "source": "CNBC TV18",
+      "also": [
+        {
+          "name": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QWDVPMG8yUVFUMmFta1JsWUg1ZWZtNVlHdE8tSHV4VDN4NDBOemZyZjZrRHowandnakFmSkNDTzVPZU5tN3RiU2d3RmsyWEowRWlwTFdhWUdnSVA0bWlaemc4OGFWaDlRenJKZU5xWW5DTklZNkE?oc=5"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRUJBODJCR005NEhHUXNUOHpBdEJudjByTnJGbXlnUGVIV0M2Rk1ZaXdoVDhBbmF1UlRoRGtqOHVkNjFieVY0djNpTkdZVVFGc3FTUkc5NVNVTzNmck0yM3NwelhpZWVnNy1hSk13MGJJVktuWkZ4YnFSLWJHV3pBZ2JPNWw0ODVnVk9uYmtGN01uT29BN0NWQXR6dU1Fc0xRcE9NVEpMNVM1eVJoTGtBdFpZbkdzb3JacFE3UV9XQ0pGUnRvMFFSc1BFdy1aQTc0ODVXdWQtSQ?oc=5"
+        },
+        {
+          "name": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc0kta0ZSTzVRZ0RIME01UkItZW9vRl82MmdGM19yUHlhbklXRmlHaU5lZjRVSW5mYmZTOTVKYWhJSEpMRm5qT2I1eGxVTkJQQXM3N004ZjRxS19fTVZyYm16QTBxUTJlTnRXX1JRaDlRcUtUNmJzeEx5RkpVazRnOEtXdWZPTXpISTZCeWhPUG5LLVhOUzY4a2lMN3NCR1Frd2lGSVZrcw?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMzJJdGVZbHNMRi1lWHFoRndBT1JlbXktaWRmYm5wWEw3OThQdXBGWnFjNGlkZ0VKLU9weG05eEJGeUNiWkJqMnlRa3pYaFFGQm9ELUIweVB4V3I0cTNmYlppMVpYeUJQNENlNlczX2RPSWpXYzRfbVIzOUw1OEhYT2w4d3lQaktKaGN6SXI3NnBLT1RKN0FCZXIzVFg?oc=5"
+        }
+      ],
+      "coverage": 5,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObEt3MXJzcFdKUkZ1c2ZwdFR3bXJQUzgzWEY0RTVsc29fSkJ0VGZCXzZFX3k1REFpVEFiM0VHa1BfZmVoLW9JZ2JMZXRuRVBRcndoUDh0ME1mY1RfZDVrVXg4LW9yb2RYRGJ4Tm1rdFdBbF9XYzFXbl8zWDVaOF83U2FLLWlCQ3pwcjUxaVAtLU1FVmYtQnYydmlQeTdVbDRtbFFVeURjVk9oSUZxUGfSAbMBQVVfeXFMUFQ0UmNWUjRtMlhLaGhBSUFVT245UTlkVUVIQkw3VTlqdDlEUWdGcEhMd0dMeGJFTy1PVkMtc1lnd2VtMmNMYUp4UmsxUHdwVzV1cnRieWtIcjBJd3hIVW5OTEpXTkoyZElmREY4MUJuNld0azU4M0oxSVlzdTJpbi04ZWNSZ1BobTBaNzgyTzhaNU5mZUJ2R3diS0ZCOE1XUW40YUt5aXlYV1VGZkxEdWJIM28?oc=5",
+      "published": "2026-10-07T12:37:22+00:00"
+    },
+    {
+      "id": "biggest-news-from-openai-dev-day-dots-gpt-6-1-sol-new-plans",
+      "lead": false,
+      "sector": "IT & AI",
+      "title": "Biggest news from OpenAI Dev Day: Dots, GPT-6.1 Sol, new plans",
+      "dek": "",
+      "why": "",
+      "source": "Mashable",
+      "also": [
+        {
+          "name": "Firstpost",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbWdjbC1zTGhyT0tucXk2V2Rfck9RUHJhdzQ0RzNzQjBwVERfWmtqeHJyeUZEZGVEbURTTkQzSFdmV0lkeTVqcUNPYUdvcDRLRVllUmJhejk4QVZpR0EyT3IzYzJ1Q0hENUdIaFJjTE9waFRKeWJRcHNkMDQxNHR0UWJCWFFfYUIxUzlTeEkzR3c4UGVSX2FKWHZfSkdoREFLWF9zRF9Dbk5CZU9jOTBMZFEwN2E2eC04cnhaWlhjZVBDa0dx0gHKAUFVX3lxTE5xWmVXSHVLaXJBSDFhOWE3bjNsZVlTSmlYVEFPNGhEdXU1ekRyUW1mU0JnYTNNT0YxSmR1bW40NEhhNXNEOXJ3SmZ0UlFnWmwtSnJWMFdoT192S0hWblBsM0g0Zi1paHVydUdIeWhha2ltMXh4dDFCcy04SnkyRHB0ZUVRcFFMVXBLMzVlc1Q1cXd0ajZOaFFpbldzWE5MVmNwSlhWQ205WVR5S09XTnI2dldJNVZCcnk2clRSaHhYWUJzYXNkbkc3aEE?oc=5"
+        },
+        {
+          "name": "Neowin",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeDRySWpVZ1hodzNmYWQtNG4xcGFGS28yVjhkUzVsNXlsNEdjb01VTWVzNVJLeGdUcTV1SlpNcEJsdzlDUWFuZUxiM1BWSVhNNlJUcVR4VXM2VmJ2VDd4XzJhYnNWZWNJcmIyN3h0ek1YMS00V2xZUEFqQXl3V0NCeTBMT1loQnBtN2xTZWhwQTNUTlBnbERvTUJzSW9aX0JKS2c?oc=5"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSURpUW5DenpVZXk0QUtVTWYzRW50V0NwU3RJVHFyYldoNFlGejFYS1Z3eG5FZGk5UVF1blFvOTZNeDFza09wS29HQkRKVjdmNXo2MVg4enpMVU9EOUF6WG90YVpkdFREOV9oTlR6dUVtWDJuNmFlakw2RHlkbmEybFVRa2FNbDB2VTNEa0cxRHJCLS1YazVGUmtMbEtfNWQ2YmEyY3hZc3VPb1lrVDVrdVgweU5valZzUldyRw?oc=5"
+        },
+        {
+          "name": "Unite.AI",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcDFSMmJMM1htUklmaVVLSVdaSm9CXzAxQ3RUeFl4a2JhNy1KNzY4Nlhwdlg5RllZY1Y2d0tSMnBuS0FJMDFJMUJUMkFrX1VfOFRmYmVtZkFVR29RZTctdmlaaFhXc05VZVE4NHFrTTdyeUtsek1JV0l4dFdQVVRqUUZqSlM0WE0ydGc?oc=5"
+        }
+      ],
+      "coverage": 5,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zc2VoVDl6U1VtczV2R2Q3RTU2N2hJcHlfNVAtOF9lR2wtSjF6U2FiZnliTUlKRU1qXzh2cXlobVBGX2NlaTd2bXprU0pYYlIyTThOWFhPSXhOWG40S1NDT0NPanU1cHZoM3RyT00xM1NLZEow?oc=5",
+      "published": "2026-10-07T10:20:33+00:00"
+    },
+    {
+      "id": "why-are-bajaj-auto-maruti-suzuki-hyundai-motor-india-others",
+      "lead": false,
+      "sector": "Auto",
+      "title": "Why are Bajaj Auto, Maruti Suzuki, Hyundai Motor India & others falling?",
+      "dek": "Auto Stocks Fall: Why are Bajaj Auto, Maruti Suzuki, Hyundai Motor India & others falling? Zee Business",
+      "why": "",
+      "source": "Zee Business",
+      "also": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMkQxcXpNWlFMX19wOTU3U0lHTkJDVUpnS3h4dXBWVHFhSG5VaXU2NXl1UVpaU19lMmFKNEJHSlV5dHR1R3lBY2UxVWxQS1gxcGd0UGlaenc0NGJGSFNxSVJvRDNnV3VxZTF2a1A3Nld3N2Q0SGR0aUVEQ3NjVWJVUjBFdS12LWROR0pmZmR0NVZsTWY3WUlLWHJZNklua0NGUlhTazBTa0ZGZmlzZHVrUFA2Vk5oeDJrX3Rfd0FlUmhHYWl2QnZr?oc=5"
+        },
+        {
+          "name": "CarTrade",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTE1rSTZLOHI3cnk0dnVDRmtGVlhrT2NRa0pNYW9ZeG8wMHg5SktlSmpfZ0h4NkgxZ2puOUxhVVJNOFdCZTFpYS1USmJYckpOUXZKYzRMVGRZd1N3MUQtbkJDUjFBenN1eUJhVTdTUUN4Y1ZHQUVVZVpfWTYwV2pxaGtvdllzSWFJbkRpMg?oc=5"
+        },
+        {
+          "name": "HT Auto",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdXZTX2doTjkxV1N3X0t5ODFCQzhMQ0hIalhpWTgxT21xbVI2OS1pRVpmVlZKT2ZxUDEyX3FJOUJCdVUwZl90OS1OY043ejBJY0NxaWpTSG9VX1doUVYtbGdzOG1OaHBWX0dBSjlVVEpjd19jVmJIQ1ZmcFVyeExOeWltSHh3OXA5MC0yeFl6WExjUWR6T1VKLVJvdElIQkU5QmtHeE5MWjU1azUyVzg4TmJHbHpCUW5CT29GX1lMd1BlUk45WmluT3NFMDRlbmxxSFNzb0t4czNnZzNwZHhEU01NSDBPUXdfd1RB0gHwAUFVX3lxTE5GZ1ZDb1laWVpWb2Vva3V1THV3NmRYdHZGaXdOY1poUmdRZVlxbmpNSUQ0UXJteHAydzI3MDIyOEVDMUVjMjZoVmlQVHNRTElyblBrRE9LNVd2YVlSQl8yRUtsS2JZSm9WVjFMa19QM1ZzMDYtaDVPMkdyRTJNUDYydVlQQ2hPU2J4VmJ2Z0kxVmpUSDhoYjhDelJESzFlMjdVdUMyQV9hQXpCbC1VUTJnRXlWaS00RWF0U2pGSllBUDNyMWlvaDdocG5oNW9ib0s1aWlhYUwtZEhFMDZ3OXc1T1FXaGFDV0c5cFhWa3dZWg?oc=5"
+        },
+        {
+          "name": "Upstox",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RNTd2UVdUcFQwTzlWUl8tX05yTHQ4c3JkeGRFUmZfRm9FMjVPTE1kRHRtel8zd2FidnF0cEVJR1ZzTV9tZmtqREd1V3pLTk9vY2NXSl9jZEpHeXpjaVlsRFVOelM1aTVNWWp5dXFvNA?oc=5"
+        }
+      ],
+      "coverage": 5,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVkdaS3NMdC0wa3NOa0otWGJUd0YtWG9Nb2dEV3NGOXJOcE5Xa25nb0pFcWdVaExfTWdqYnFXc3BYakQ4bWhUY3JMeWZmWW5ZX1I3NTRMYjh5MDdENTZJTFJJQUxHMVgtSFltUWJxbHJHNUhGWnUtOE5MRWgzeGIxRXpveUxVLTFZMTB5czdTTGhUaE43ODUxSnBTa1ZVb0JjWVhDNGRPV2JYN3JmRkVKcXJJODNvRkQwTE9ZQ1lUTDU3X01sSzNhMFFHbw?oc=5",
+      "published": "2026-10-07T08:16:44+00:00"
+    },
+    {
+      "id": "india-proposes-3-part-russia-ukraine-truce-covering-energy-s",
+      "lead": false,
+      "sector": "Energy & Industrials",
+      "title": "India proposes 3-part Russia-Ukraine truce covering energy, shipping",
+      "dek": "",
+      "why": "",
+      "source": "Firstpost",
+      "also": [
+        {
+          "name": "Marine Insight",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONy1oSnVLbm13U1VHRzVqQ21OaTEzVmFJdE1ZZ3luTjBhQlpVeVRiS0dzamhjeV9WZjJjSElwYVVYYTUwOHVINzZiQTU0ZTNYRVk5STU5eDlDVnV5VGNWQ0lFak5XN0pNcFVOMThiT0lEanhHeXVWa3hOdmZTMUFndnJQT0xSdUJKbmd3NUJRcEFWTGhJajNzODhwT1ZtelVqNEJaTHp5Y1g1TXZaQ21ydzJB?oc=5"
+        },
+        {
+          "name": "NDTV",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRmNfTDQtTEtIWEtLNE5NRUt2Y3FNMGxRV3F1Y19oZHZxa1h4Mjc5azkzWkhXNHJFdll6dEpWdTN3dWtkS1lmaFNRMTNwNGRPdlFmYXZDeHZaUk9iN1BTek1PSVpyOGNLbzZBTzlBTkUzbUxzZUN5cFBSR3F3Z04xMlFJa2diSXp2Z2IyS2JtVEl6QmwycXAyMGE0OEtKTlZsd2tkU2VjY0gwZ1otY0F5b3NKQlVMcFZtNzk1eVRMdDfSAcgBQVVfeXFMTklpcnNROFdyRlJoMWRlNzNiV25ZOWgtYmg1SjFoLUJoOVBIWlZnME8zVkR3cjcyVlVYV0ZnekxheEJheldMM3VlOGhNaUJyeUFTNWdCRWY2R3pBZUthWWNqaW54OTZESmdZWVlIRERfMHZUY0tMeWlrR0xPSEhEOXRPV3pCanJEclo3UmdOMUpsZUJPemVHRnNWWExwWVEwOThlT05WeEdoMG9PQi1IbTFyVDltVlgzVTdibC1SMV9USmpzUmhSLTE?oc=5"
+        },
+        {
+          "name": "The New Voice of Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSEZ2UWUzZ1hhYnF2ZEpaaVluRmZuSnViWmlpYTByNjJ1U2JCOF8yTEVZUnRLUlh1VUQ1TzVCY09OT2VpU3A0R0VMb1JHeEtYTHFsakhtUm9RaHotV2lkSk1zX0x3ZVhyNVprc21XT0ZiMmJGZWo4MnlXdWg4TWtHM0lDWWZTWngwVC10a2hmdDI4cmxkaFR6VURZNNIBlwFBVV95cUxNSFF0VVVDUk1ZX2Rqb2R6aFFBeElrbjA4X08tNGR2NzJfd25Qb2x3aTY0RlMyenpiRkg1WHZOUTNqQnVpX3ItS0VoQXF4bXNITC1ySkxzb19CQy12ZDQ4Z2pVUzhkY3VPa2ZmenhoY3ExUWt2M2NYUnhFVXBINDRoVms0OFNmazRSV212VDlwNXNSVFBxZzNF?oc=5"
+        },
+        {
+          "name": "Военное дело",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc1NDcXlZXzVsYlZ2RDlUSEFkczcxT3UzYkFYZFZBcTZaWWRsMXhZMFROa3g5dloxcmFsc252enFTU3BDR2htMS04c3J4OUZrQTZ6dXJ1cmthSmtKTmFRa0RYaFVlV1N2X20zRGFKbHQ3RDIydG9RS2FsV0hINHN1Y0dJb1phSUdrNm9sY2FrYmJfZjhmVHlVeEdDNmY?oc=5"
+        }
+      ],
+      "coverage": 5,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWJDVVl6NTVYTklSNFVzczd5Y0FxZXA1eWd5QWE3Y0NwSWNyZHZpdkkzWDZuV0NPaktraS0zWmlIQlVZS0xVMFY0ZEJRZFB0OXlJVElfY0ZTb1hDaWs3Z19wOFRFallhQkU5M0ZPQ2FJc0Exb0NaaFpndnBPeGx4bGpBaHBSV2FJMW9LTDZkbGhvTHFTRV9lS1ZBWkdVUmdSXy1WeEhQOEpsbmlfSTVORVBfUdIBuAFBVV95cUxPdWZITHlQMHpvWGR5NkZGbmU0RzgtRU5TenhJWi1DcEdndEFvbldMYmRwNE1xUVVEUVJVQVNTX2FrVE5KTUlOV2RqNjFYeldtWU41TGV1LTNyZlJNZlJ4QWdGVDFxMENJZ1kzc09TNmYtYkNkQ1dpZUs5aTRqTk1ta1BUS0VpdmptSHhZUVRzSlVRZWx1N3N4bzI2Y0VuVzlkU0xGNkFqZGRpUnBVMFVqaVRraXVrSU1F?oc=5",
+      "published": "2026-10-07T04:06:28+00:00"
+    },
+    {
+      "id": "airtel-hikes-postpaid-tariffs-after-over-two-years-sets-the",
+      "lead": false,
+      "sector": "India & World",
+      "title": "Airtel hikes postpaid tariffs after over two years, sets the tone for peers",
+      "dek": "",
+      "why": "",
+      "source": "Livemint",
+      "also": [
+        {
+          "name": "DhanamOnline",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObUtXa2R4V25aZ1F4MGx5NVRVWnN6eWxxSG5VWVVwQ1hjTVhBellHTlFfdG1TRHpOX1pBSzhhWHczSy1COFdLaExLU3ZXVzZ2NHN5REh2QTVtWUtaQ2REVVVpU3VLRVhRM2hLV25TN1l5a1d3aTNLV21UY1hCUkdVQi1OdzNlaXlVaDFJZ0wybFhzTmQtaDdFd290OVZZekZfTjFPSzF3Uk1ZVlVwVGJZUFF1YnNlUko3MWp6ajVPRTdSSldRNTNPRjBNQ1RoeUJk0gHQAUFVX3lxTE5tS1drZHhXblpnUXgwbHk1VFVac3p5bHFIblVZVXBDWGNNWEF6WUdOUV90bVNEek5fWkFLOGFYdzNLLUI4V0toTEtTdldXNnY0c3lESHZBNW1ZS1pDZERVVWlTdUtFWFEzaEtXblM3WXlrV3dpM0tXbVRjWEJSR1VCLU53M2VpeVVoMUlnTDJsWHNOZC1oN0V3b3Q5Vll6Rl9OMU9LMXdSTVlWVXBUYllQUXVic2VSSjcxanpqNU9FN1JKV1E1M09GME1DVGh5QmQ?oc=5"
+        },
+        {
+          "name": "Indian Broadcasting World",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13T0U3UVpUYVU0VDRFMDlYc2dzX1hoMGZBWFREM3MxeGRkdDgtOTJvTHRqMzRpUVNRR0d1NWZkazVEbXQtZGNTRFhKQ2xGRm9reGVEOFlvcW5YMS12Z0NOVFp4ekNBazJIYXNkYU1yamFNUVU?oc=5"
+        },
+        {
+          "name": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU1VLSVYyM0s0eFF4ZjVnbFBHU0E0N0VPTVV4SjBqVnJvTE11NUhuWXVrMXNNX2ZJR1gyN0w5MUE1MFU0emkwM0ZSRmNubkVMUTB1TTNOaGJHNVo3cXZ0NTBQRlF2TkpNenIxaHpTaTJldnZYMlY5R1A4OHB4YjhuSHhiMDJ3elR1Q3M3cmt6ekEyZmpla3ZydVZYclRvVkg3b3FHZlVRVTYzcTMtUVhERUFiTEdYc2Y3czRZLTdVaDJaVVUxYUwxbDhpczZUVDZSRGI0aEptbGxSTmxTOXBzNHNtb9IB6AFBVV95cUxNZXRaTTV3TzJkOWZRZlVfM3RUSHpISzMtUEhQVTZocDJCN25Lb0R1eklJYUJfMS1MSkhNZUU0ajZxTE9GV1RGbF9qcGdGbDg0Y3lWY2VSLXBuQWhLd0duek5fQjRNS3lCUFZCOEFSQ0pGU0VQUlBpWFkwWThHZU9RdGRtbFN4UnJQcTI2MDFhSlg2MUt3YmRCTFBFSTY0NkQ2ZHBLRzlpTU9BWUVEQkpVU1NSRFVsakR2YTFETzBOMmdmVzJHU3NSZFJaVWttbUpCalpNdnEzblpWSExwRndOWmc4ZHgxbEgw?oc=5"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOelVXWDVLZzdfdS13Um9zdTF3c3AzRW9kcmhxTVd3TGNlNm5hUGFDUXItY29NY05yWURHZUVPOVJqTHNPcVdIbzd3VUdOVXI1NjF4RFRDNkJ6MUFzcVE1aFlyc05sRi1jbC01TmhydW9pcFdoOFpwRlJZV25oN2NmRmRaS01LclloQXZOWDhrOElnaGZtd0pIU3VSMVo3TUdGR0FsX0ZtRFRKVF9YRmkxUWZYdUxWYVRTSWszNnFNODNVeGVrU3BWaS1TUQ?oc=5"
+        }
+      ],
+      "coverage": 5,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS0p0TVJjVmw5U25ZTTJtcHlWYU80N2t1TjloaG53T0c3alB3RzZSSmFabzhxVXpoSl8wcEs0V3hFbk4xRjBvUWdXN0FtLUJ0QXdTUlhPRmtSYW1nTWlmVTIzd05OQXRMTXZWWldvYkpNRzhQTm02Sm1iNGJWNkJCQ2pUVmw5M2x0OElyMldUeGRKaEVWck5YNkZ3N1ROYnlkVExIUEZKTG7SAa4BQVVfeXFMTklydVhTUEF6T29wWmNDU1pTNFktSXBEQVNoTlBWTnlVcmRRMkp2RnlHdVdHUzBpT2dyaVFZbTg5TVpTUjR4TzdOemNvQ3lIZXZ3aUFUWThUUWhVSEdNWHVQV2NtOVVKT1BWLU5TNjc2TUdIOUZqSUJ6WW9WRDZtdWZWbUt3MDJPX2RzRENZdGkzWXlzOGJ3YXFXZjRacVhpbzREUEE1WHlnWDI4djNB?oc=5",
+      "published": "2026-10-07T16:39:40+00:00"
+    },
+    {
+      "id": "rbi-says-it-will-ensure-undervalued-rupee-finds-its-correct",
+      "lead": false,
+      "sector": "Markets",
+      "title": "RBI says it will ensure 'undervalued' Rupee finds its correct level",
+      "dek": "The Reserve Bank of India has stated its intent to stabilize the undervalued rupee, which reached a five-month low. Despite raising the policy rate for the first time since February 2023, the rupee has fallen due to foreign capital outflows.",
+      "why": "",
+      "source": "ET Markets",
+      "also": [
+        {
+          "name": "Mint Markets",
+          "url": "https://www.livemint.com/market/commodities/rbi-governor-on-rupee-vs-dollar-exchange-rate-11791362751173.html"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcVpmQWV6OVlNM1k4bDVFU3YzMWFMQ29RVWRLNWhMODhMRzRtZ2dOSWJsZ1BoTXVJU1dBY1huU2wzMHVLWjlhaFk5LXdZQ0E2WVNNaXRIWHh4MUZRdnFuOHpjNjMxWXhrOUp6VjVtNVZvYjR2Y3VaNHB1NnU5RmQyNU43aURUMC00cEllSWN6Q0U3MjNSNFhUMWF5dllrR2JMSGFOeDdTUzRlclBpUWwxQmVFLTJkT1IwNDln?oc=5"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUHZIQm1tZlBrWl92VGxxX2hnRG9yaDBiSkpiSm9YcFZNbG5iMmtHMUhfZmxQeC1VRlBrMm9BekFGM1locmdNaTg4dk14Y0lzTHZfQzNTX0wwYU5MbXFDdVR6elYxN21yVjZISERhY243X1ByZXBtZHMxV0Y5bFdjOVhSOGN6Wi1MSG5TeVBNSlBCeDFTdy1US2hSTl93VnJqTVFKbFFvcG9SRl9ubWx2dXZaQ0FUZTBEZUM40gHCAUFVX3lxTE9IalFWMkdYRVdYVFRqX2V5TnU4NEFLa0ZWZGFGb0MxdnNVMGdTMlk3U3ktX3Vuc0o4WGN4bHNkWW1ra1h3MDQxamNFUjVycHRhMDk5V1Ftb2hGaHctamlUd19HSHQwbHZmb1IzMlUwTFFieVhReVVxQ1JZOUdEOEQ0VnVPczM1SjJlMnBWTGtDVmJzdkNoVzNnSXdrYVVKTlgwOW1pSS1ELWlUSEVPOWVNRUltbHpaS1NMV0F0VlhUX05n?oc=5"
+        }
+      ],
+      "coverage": 4,
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-says-it-will-ensure-undervalued-rupee-finds-its-correct-level/articleshow/134770024.cms",
+      "published": "2026-10-07T16:06:09+00:00"
+    },
+    {
+      "id": "uk-30-year-gilt-yields-hit-28-year-high-in-global-selloff",
+      "lead": false,
+      "sector": "Markets",
+      "title": "UK 30-year gilt yields hit 28-year high in global selloff",
+      "dek": "The British 30-year bond yields have skyrocketed to their highest level since January 1998 amid a global bond market decline. This surge is primarily driven by ongoing inflation and substantial government borrowing, which are raising apprehensions among bond…",
+      "why": "",
+      "source": "ET Markets",
+      "also": [
+        {
+          "name": "Quartz",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MZHNqMnpvZC1tNXFWVWw4bU5CS0NUUmphLVRUM3Zoa3FtMDVBUUV5NEMwaGhkYXBkOVl3OGxBX3NNbFJzekNmYjF3UzU4UDh2Y0JHVFVhcVltT3NhZkJ5R2ItYzQwTF8yVVFB?oc=5"
+        },
+        {
+          "name": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNNUhtajBXSjF2ZE45QnhOWVI1M0Z1cnU4SjZxRFdhM0xXSzB6TnVuQnFWM084UEozY3J1dExub0o0N25fY0ZBSEswR2I2al84RTVCa2w3bDBDeHNmc1pJakdsaTI4RFJHVmFFUnZsX3R6SHpHUGlRUWUxSVhqZ2xKOWk2NHNUVXJWUVExaWpsckZRY3JNckRadkkzQ0o4X0VSZHl5ek5oQkNhTU1iYjhERDZIMkZtQkxnMElZNXcxT3JCQXhETVc1SzVPN01zMzg5MFdHV3NiajBBYS1KTTMyUW14TXk2VXg3dWQzT3FEcDZtNS1YcG9Rd3N0UnBYbnVLTmZ5RDBNMUp5ZDkxT0JLRVVQeERjdFNDVmlUN2NSQW9oUVJCTGhaMQ?oc=5"
+        },
+        {
+          "name": "www.tmgm.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWElFWXZmTXhVd1prX1VCRThwTFcwcW1qQnlXNEkzZVJNWXBlWTlaXzFqaUx4VGY4QjZ2S1lWa2pTdGFuSndwby1PZDY5RW1qSE9faDBZNHN2SXFtbjRDanNVRnkxZVZNaXJnZ19tbzIyaVpLNVBoWTJFb1huV1I4UzhOdVE5aVdiYWVRUU5aSHdKVl9paHd6SjJIRHJaNmk0ZDZGaXZ2eE1iTXdpWlJQLVhOcHBVNUNFWFd2VVNSNDU?oc=5"
+        }
+      ],
+      "coverage": 4,
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-30-year-gilt-yields-hit-28-year-high-in-global-selloff/articleshow/134769020.cms",
+      "published": "2026-10-07T14:55:28+00:00"
+    },
+    {
+      "id": "why-rate-cuts-off-the-table-repo-rate-raised-after-4-yrs-as",
+      "lead": false,
+      "sector": "Macro",
+      "title": "Why Rate cuts off the table? Repo rate raised after 4 yrs as RBI Governor flags global churn",
+      "dek": "",
+      "why": "",
+      "source": "ET Economy",
+      "also": [
+        {
+          "name": "The Hindu",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOamhJeVBqb3dsUlBWMEwwMmFiOG13MWpiNF83OUU1eTZ2alB2eGFUZ05XTmJMMGdmUUsxSGFDT3RCYmNSbmdfN1NoSWtOM0Y4Z1VZaF9lZXdRWjItbUQ2aW1YMU1HcXRvSFQ4Z0RfT1U5d3BBeGpUNWdoYUdnaVF4UW5VeGNDdmM2aXVhRzZ6S0dXRi1DaW5oTE9CVVZRckd3anppQ0w0NDBFVUxNWFJCbnROODE0YUtpZUxzSHpuWkpOcjl6V2c0eWlCY2l2eVNqQU9MLVpwaGU3WmfSAeIBQVVfeXFMTUQ1U1NJWWNSc1N1Q3d4TE1Ybkd6eHo4R1hFY0d3T0t4N2hZZzFmVDB3ZENNWDRubk52LWM5aHR4US1EQ0l6aGdnZXBBV2JIYzVQS0VSVWNLYXZlZ1RtNXBqOXdrUTlyUXdjT092NEJyaTdzM2VQaEkwdU82Rkh5ZURPOEVCS0dvcDduMDF2S1FsWnZTTVZxYlR4U3E4dngxRmp3YUJkejA5NmZFcmlWMEYtM2hiSjYzMkJacG50U2RXeW9qUldBMDJrWXF0VkRrMEZvMkZ3UTBCVzU1cEp2aDZQZw?oc=5"
+        },
+        {
+          "name": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPaWhKaDFxV3lUTHVTLXFIY1ZaUmhwdnBlVHU1a2FTX3JYRTJKRTUyQWNsN2dwbUdfT3pEQjJpX1JBVE5CYVcyS2R1Sm5aSlc2eldScWg2eW9xX1R0S1RiTDR2d0RiZmxBQXRNaTU5OFFQaTJ5OXg3dzlFLTgxMEx0U0NwNXBaSjgtbHRtMGxsNlRZWVd5Rm9MekJud3FsanZuYmFwM0hYaUJjNjZFSWJrRzlramd6N25KekJfOFdVVzliM2VwY2NZcHVRbWNPSWJXeDAyd0hyU3RRTVRwQzYyQVpyZTRia2xHNWVib1k4cG5ka21PTWZmVjZJdHctc2Nydl9VNURsOWIyaVozSzNLV29DNW4xSVItVmJYaGZ4UkrSAaYCQVVfeXFMT3FqUnRQU3dNNFlrRWVNNUQ5aG5idnhVbFB1cGl3dzZ1MGRfd3FTc2R2Zi1IMnVjOTVoLXFOc3hyMEs3bnplNTBIam9xa3dlYmFHZndTenRRamxpVXVvQ0N6OHVrb2VZcW8tRFozNkcweDhoY2dkMjBqcW91M2NiYmI5b2dKbkFLV3lXSjE0YV9XTmF0U3h2aXZZV25OZjJvRjg1cGpFUnZzcFIzNDdwc0d5dWdkeGdKellxckdERlp5ekRHaFA3RHIxX3RuUHpoT0ZfcmdCUm1XV2g0WWJ0ZmJkbV9lakhRR3l0M2VQYkVqVmpFNFBKbWRNQkJiZ3R0UUN6Z3hXeTJhN0FQYl9DdnprcVVBWEhDR0dmUzFrdE93dGFHODdR?oc=5"
+        },
+        {
+          "name": "The Tribune",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLVJwMl9xLVA5U0tMeVZPVXZHa2VZMW1zRzM1UzBTVV9QTFJRdnMyd1QyY3gtbzNXb1N4Zk03UVNVNkViU0NzZlB6c09LdTdXSWJKWmltY2YtV2lmZHVCZkxXOEJsY1lTQ0F4M3FmTHBWczNfOUJBYkN0R192LVVIRE5YTGQyVldodjFHTjdIQ1FpMkV2bXJCYmdWNA?oc=5"
+        }
+      ],
+      "coverage": 4,
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/why-rate-cuts-off-the-table-repo-rate-raised-after-4-yrs-as-rbi-governor-flags-global-churn/videoshow/134759568.cms",
+      "published": "2026-10-07T07:30:11+00:00"
+    },
+    {
+      "id": "openai-launches-intelligent-ui-interactive-interface-in-chat",
+      "lead": false,
+      "sector": "IT & AI",
+      "title": "OpenAI launches Intelligent UI interactive interface in ChatGPT — TechCrunch",
+      "dek": "",
+      "why": "",
+      "source": "UA.NEWS",
+      "also": [
+        {
+          "name": "9to5Mac",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZE1WSm40ZkxMNHB4YlZfeHVuQUFQeVpNSjljZXhmVWdWVmRDcExqa0lTUEhlUUtGcWdtZ3dhYVFxRUhvNDRITVF6ODZoZkp2ZnVpNW9iVmZBRnBJZ25yRkxtN0hFYU80bUkxRUZUYnpPX0VYcnV2dGpfT0tyc3lETzVVclVZTEs5VDA0R1ZWOVBEQQ?oc=5"
+        },
+        {
+          "name": "PYMNTS.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaU5pSXpqY1VCV05YM2NiUENYLVpaZXM4clFkQk1LQklmaWNsN3pRWmw2Vll2SzhYOWFWcEczRnBkdThNSXNvQ0pERllXNnpUNXhTVlUyWVVQMTl3dEFxN0dwczU4NzBOYW03UlV6YlBGWjh3RHhyR21nN3RRSUR4VlRBeXhBazFjc0syTXV5S2wwWXFVWDZNUzh6aGFsOUc3NmdyTHc4bTRqelFaaF9WT0x6TVkyejgxWkNUc1pyTlU1enRNQk54UlZtOA?oc=5"
+        },
+        {
+          "name": "TestingCatalog AI News",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGpZM2IwdFYtVnlhVGI0T2ZwOEw1MWRSekJKUXFOTm9IOUlXWlI1ME1qb3ZKLVVjdVdGUnBUR01fQ1JLQ0Rrem5MemtsY2ZPWEhwQWJLOGV5eGY4LThxNS13VlZUellXMXFXV09tbFhDMlVTSlhGRGt6RUwxekw2RGFEWnFTdXpYam12QjVR?oc=5"
+        }
+      ],
+      "coverage": 4,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX1FOREMzbWNVRFI1UU8xZzZ3dmE5NG53c2tGTDVjYlk2YUdTTkdEM3IwdzJqNWVKQW9JclBNVHVNLTdaZFNna0tDYkZoSEExbUZnWFRGNERPNDhYUTAyaXZLS3Z1dHl4VEM5NnU5Wi0tWjVpdERJTlVQWmFMaUg4Zm9TRlVYWXBIdDNlMXpzSkFyel81Y1pfMWRpS20zdzlTa3Y2NVlidk1RS3Jy?oc=5",
+      "published": "2026-10-07T18:10:05+00:00"
+    },
+    {
+      "id": "jio-seeks-114-billion-valuation-in-ipo",
+      "lead": false,
+      "sector": "Deals & IPOs",
+      "title": "Jio seeks $114 billion valuation in IPO",
+      "dek": "",
+      "why": "",
+      "source": "Communications Today",
+      "also": [
+        {
+          "name": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUlVGbElkdWtDUDZlVl9SamhoT2RqamlXVTBmaG9EZGhyQXA5X2ZEaXlydER2RDc4NWRZVnJZeG9qUkhJN1lGY0szS3FzaVpPZ2N4RzhZVmtBejBPUDJvdGpYVUlyaFQ2UUpaMUIzM2pPUnRGT2k0ZTZUWHhVS1FfSlBTOVdEUHh6VndQcjZ1Q0N5Uy1kZ050QUJXMkVHdE9OQjVXazVwMzVoQnJJTDgxOXdzQXBxMkxNVDhMQlRqOTI5Tnl0YmNBV2ZoZ3RRc01qZ2NleDgtc2ZrUGlqUGVqYlJqMERNOGtPT0UybURpZFMzQ1VUekVJOTFoZFJaQdIBgwJBVV95cUxNdFhwR3pJQmZZQ2FXN0VFRzZrRWF5UVBmdUoxNm5XdmhhQTNURElVTGJCZjJscUhFQkV5ZUhkaExkSEFmNDZsR3RVNllNdHR4bllEZkZvXzA3X3pFblF6ZzdCcHhCcnJsMG5PZHhhMEhoUldCNFNnaFpqai1ablNmVzFaLVppX0FsRHJCTENmTVRPTXdNdldESDlBV2VkbERhYUNqazBhVk9PV2E1M2VBbEdSeWlYejVvckFJVmNkM3FXTFpwaWxpZmNDYnF2eHZ3eXExSS1hbWZyc2M0U05FMVhTdTdoQURNTm03RTdIdy1jOVlSRVVTcHBsM0lNNmlLbC1j?oc=5"
+        },
+        {
+          "name": "CNBC TV18",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeVA4TE1zUzNSb3FZNWc5eWozbEJmRHFzNEJWMHRIRjNEZkE5RlYwWTNZa19pb2xWeHh5X1Ffd3dHMk15Q19kU21LeHAyWS00ZUl1YlhRZ2dXaFVwR09SSUMwdURia3hXWFFTZHVkbEJHN0tSMUhlb3NSX01OWnUwLUxQYlhfWlJoTmJCc25Wd0tJZ0czYnIzOTR2V1NhYkJJZVd6WEtWWHZ6amtVMnZ4QUtGSW9WcnI3el9leERTRlpkTzZYT0tpeFFRd1RVLVkzQWdWVW9COUtWb2pBanYwdzhTUnBORnQ2YWlvX0V2NVNIT2pD?oc=5"
+        },
+        {
+          "name": "Siliconindia",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbmNvdHFPaW1RcFhRTWdLd2JveHdyejlMOVVqdlZxcTlRU2R4R0pIRFJ0NXlmRGlMSEV0U3VxTGY0Y0F1WmQ3dlNrUkg4RkN3bmtDeF9DOHZSY3lKWVBTaEcwMzJQaDdaRzJZUk1RRU4wcS1XUnpGNEZpLVhGdmRKNGZrb1AxMnZHS29ucEdKYW1ZMjdSRXBfakxqU0w1Uk1TbUpRcEpGQU9ldzZwRDJNWFpucUEwcXRxazBnLVBiZllXdGM1MjNLYmp4U2l0VTF2elpxWFUwY1FPTHRLOTZDdTRrVQ?oc=5"
+        }
+      ],
+      "coverage": 4,
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOHE4enBkNlB6bVJneUthTWJkd2pOaFFwYnFrSi1MNV9IRXBGMF8zbEItOXlTUUNtREN6SG1ZTFBIdEF1RW9KS2xyamN6eTVlTmgtazFudEdJSTROLVl5RVFsSWVTOVV0a0pxUDJ3a0lwQWM5bHhkR1FtZGdNUWpNcDFJWQ?oc=5",
+      "published": "2026-10-07T02:18:28+00:00"
+    },
+    {
+      "id": "indian-ev-charging-startup-ionage-raises-1-3m",
+      "lead": false,
+      "sector": "Startups",
+      "title": "Indian EV charging startup Ionage raises $1.3m",
+      "dek": "",
+      "why": "",
+      "source": "Tech in Asia",
+      "also": [
+        {
+          "name": "BW Disrupt",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVV2bUJOTmd6dXB0UEVuSzRCa3RVNTNjdkVvUlJ5U2s3dVR0U2pKNGQ5RkZjeUFtUHJ1UHlfZm9BbU5kdGI2c3V1bUE5S2U0cEl3NVZDcjQ1YU9LYnpjcDZwb0xXbDdkeUo1eW1SSmhzU2JnSXpOM2NyRktsd2puLWxkRnJ2RTRBaXd3VHB3?oc=5"
+        },
+        {
+          "name": "Entrackr",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXhGbG10cU9ubGs4OVZBZWZTOXZiREhfLTNKREJtTmRUX1ZMaHZWdGU4ZlNLU0JOanRIOUZrbWMyTVBTZmIwV2swMXdqYUN5M1lxRW9RWkhGWDNLU0VUaFVGcy1fMXpnVEtqX2hrci13SldEQUR3QnJjRUZ2bmk5YzVBeUZmTzdLeF91eS1kdjZRUWRoSDF2UjlUX0xkRzlYUEdmNV9lTFVOc2fSAasBQVVfeXFMTWF4RmxtdHFPbmxrODlWQWVmUzl2YkRIXy0zSkRCbU5kVF9WTGh2VnRlOGZTS1NCTmp0SDlGa21jMk1QU2ZiMFdrMDF3amFDeTNZcUVvUVpIRlgzS1NFVGhVRnMtXzF6Z1RLal9oa3Itd0pXREFEd0JyY0VGdm5pOWM1QXlGZk83S3hfdXktZHY2UVFkaEgxdlI5VF9MZEc5WFBHZjVfZUxVTnNn?oc=5"
+        },
+        {
+          "name": "Siliconindia",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS1h1QzQ0M0YzcWk2b0tuSWVmRTVnV2l5cjJ5MXZ6cjVaZWVrMXdQd25MWlk5Nkx1UmxlTlBjLXg0RVhnTWswQ2RyYU9GNmFpRVZiNUdKSE01bVFFMUZSZDNjYkVzcnJxcjd3WGVadlZpc0ZKVzMtLVpBQlJyNFVOMTRXTmVVTU9WdnJsQ2x4S0JKWG0zQlprMW9JZnBjUXA4ZTVXVG1aSDRvVWhrMm54ZWMzWURzR0Y0eVNUUHozRGM3dVB5SEhUYTQtNS15ZnZD?oc=5"
+        }
+      ],
+      "coverage": 4,
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWTRhUVhrRjFEdU9LY0NvZHdkNEd6U1V0aTdGamMyRGRaeU9xazgzcnZjckdfTmh0SENka3B2TUo0SlJVdDFLc2xkZzBIaFdTQ2R5QnM3Xy1KTXJlTUMtT2RCZUM2RnZhT29FMVl5U3JpX0EzYkxfcExaT2JRQ1dadkFB?oc=5",
+      "published": "2026-10-07T10:26:00+00:00"
+    },
+    {
+      "id": "ambani-s-reliance-drives-india-s-venezuela-oil-imports-to-se",
+      "lead": false,
+      "sector": "Consumer",
+      "title": "Ambani's Reliance drives India's Venezuela oil imports to seven-year high",
+      "dek": "India is expecting to significantly increase its imports of Venezuelan oil this month due to appealing discounts. Venezuelan crude deliveries may exceed 465,000 barrels a day, marking the highest levels since December 2019.",
+      "why": "",
+      "source": "ET Consumer",
+      "also": [
+        {
+          "name": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdW5pNEtRdjdKN1pIQkxSTkc2UHdTWWh5NkdwNG10WHE0Y202TzJwTk5zY2RVZ1oxSUxTVVhOVzdad2o4eTRyNVNHbTFqNlNUUVBUX3drTHhKb1dBcEpnMlQ3eHlPbjhwX0QzVUpQLUFxbmNvaUJsNS1Va2tYMzVSTE05SlB2M2dxaDZmWHptRHhIaUVxWjlEWmVmTHIwaU5GdGhldVVqa256MV90eGpQc1cwbXZPdm5lQl84LWd3VjJpQzkzZ2ZEc1AtYzJ4UjFFM2dPX9IB2gFBVV95cUxOX0VpeFBERnBObzBnRUJTMFEyT1lKMVNWY192amRJR0VCTnA2YXpXQl9hU19EVlM2R1NkckxCMFNoSkpkZWdBUnlPcFRHUXZWUmlucjNCRHN5RDVseHNGQkpONjlzNWpKSDhFRFRFX3lJZzBYekZjTHk5SzgzZ2ZHdWo0cTZGS2VVcVNCXzBOdjZFdUFZUU9kc1RvV3JUcmI0dUFVRzJNZkdVbWNON3Q1Z28yY3NKQ3hQbzJjaGs5LVhlOHk4eXdHVHRiemJFRk5zMWVsNUZHYWVndw?oc=5"
+        },
+        {
+          "name": "ET EnergyWorld",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONUZVWi12OV9OZ21xZ3Z1VGlzRkJpMkFGZDlNbkgtZmluOEZxdEV3YWJzQTFwVWNmUE54Vl9pT2YtdUwyM3VBcEVWRVpvSVREd2VjVjZyWnl0MFhVYXBRSkRBOVZvbWZRSG90NDVMNzN2RGUweDloMzk1Wk9xUWdJVlJuZDdjLS1QLUxBMFRfMnBFckZsbDRWRlQwMGUxdHIzMnlxRHMydW1aNDJ6YVZNZW1pMlRjbVRpWk1jMFdsSkJNS3J0c29YR0d1VnVLaEpOU1pIazJYQU1CaWZKZmhoWjlCeVQxTGMx0gHuAUFVX3lxTFA4VkIyUENZa2Y1UHN5bnBSeXhwcWdBUVB1TmhNNVdCLXl6X3BEQVdWbmpPRUVKTTBVYjVfWUJubTY3ei0xZXJYemJNV2NjUXRxX2dHNHJ5MmF0eHZHRnhnckNVTklYSUY2WThQMm9YajBxRWc2ZHdIUmpZVTR1UC16S1k0WUNkbVNENWR2RlIxUWxIVmpPb1lmd1lGNndwNVZ2TkEwbGhHdEpyS3NxUnM2bEh3SUFxVnRwazMwaFdLTTJ4MjVfdHBjam5sZEU1bk5sR3lyV0Fmc0VLN1REREI0QnFJYTBYVEsyeXJjZkE?oc=5"
+        },
+        {
+          "name": "MillenniumPost",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjg3X0xpbU82Ymx2eGdzckRZS19KMUJXblNtYmZKSHlyZTBneG1rR1A4UzU3OWhmdWEwR2kwMTBpTUphbWc3QnZWN1pzWVJSVjN1bFNiblplak5MRVBnWEFiaVIzVHoxRkNTV1VEQjdEdE9IMFBHMVYzNzBPbG9Pa3JaU3NuUjhhLWRIT0ROUk1DNGxFQml5S25qTVJHWEZ0VDBsMG53c3dMYW9hRWtr0gG0AUFVX3lxTE45RHcwaEFnWHpsRGpxVHdISG0zQnBZTFFJalB2VFd3NEhLaDRBMUdzT2RmRS0xQTg4eGtfSW5KRzJHVnRsdnZ4dk5PazF0UHY0Ul9EaXV4Um9HaFRzUk5tTXNEYUxvQWNoX28yQl9hRkViMDdiRnZ1VVVXcnZaenZFRmdIdUVCd0hTRExBdW45Q3hyX3NqOVU5Uzg4bVJPSEtGRENLdFhaQWtPWUw1UjBER0FTVQ?oc=5"
+        }
+      ],
+      "coverage": 4,
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/ambanis-reliance-drives-india-venezuela-oil-imports-to-seven-year-high-kpler-data/articleshow/134760129.cms",
+      "published": "2026-10-07T08:09:29+00:00"
+    },
+    {
+      "id": "starlink-builds-20-gateway-sites-in-india-says-user-data-wil",
+      "lead": false,
+      "sector": "Consumer",
+      "title": "Starlink builds 20 gateway sites in India, says user data will stay in country",
+      "dek": "Starlink has constructed 20 gateway sites across India to develop its satellite communication services. The company designed its operations with specific security controls to comply with Indian regulations.",
+      "why": "",
+      "source": "ET Consumer",
+      "also": [
+        {
+          "name": "ET CIO",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ3RNdXVnUGpkUjdzTVowdHl0MG1tT1VWTzN3OEVFdHNRcnNwbndwZ0p5dnRMNXJzaGJidG5BSDRrbVZkV1hncGl0ZlliTXpTb3RiVjF6U3Q5ZEN3d2xQM0hYdVZfdEZQMlpQU3VnREl2cFctQ3I3dFk5enVXZFplWjQxOE5ZY0c4N0dlMjB1dlY0Zk0tcENhR0JfMGVpQVhEV2VPTjMtMi1Mb2pQV3hRR1lUWTVwd0FtS3ZzV0ktUTBnWEdMVkh2TlR0UlpDTlp1QWt2LWE4c1JWYkFJZWJ0bDZR0gHnAUFVX3lxTE9MVjFia0ZrZWFkWjRNdGEwUTR6VlcxQVMtMjhrWmxya3FSTXctWWdybVltMmRfRW42bEYyd3p5cU9UUFgzLXlwNDVjUWNmYUZvQUZWd0dac2xxWGJJSUt1UXgtRkp1ZDhtNnQ4T2xOY05tNko5ZlFLanFDc19RWmxVa0dsNTBOMVBlYUlJNDFNcm5CSURvdDlOYnFfTXpYNXVPOFNldmdETkxzTGF4c3dtVHgtNjFDbkpHNWJWN3JhS3lYYlV1Yzg3ZFdOVzNPU2VrN3lnUHdTNWpsWUk4N1BEY2ZXczJ3MA?oc=5"
+        },
+        {
+          "name": "PGurus",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ0RUUUU2bDVnT1pJNmthQ1FRYmRNTHlaWUVPRDdhdkFPY3ZDTnBTMFp5VFI1ZkliS0pKNjZyWlliYWdYR1o4LWo5bHM2X3JMZGRHYXdUNnBneG9ZeUJMZkdMWl92enNUUGxJenpNZnZZZEpVYXhzSm1qb1kzOHF5ZFVtcEZlMGswMHl6c1B1bVduTDVoUUZiQkVGSmFHek0?oc=5"
+        },
+        {
+          "name": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZVJQVndubmhXWmdJMks0Q2NldWg5eUhCREVjX1VSblZvRlIzVXhhT216TzVXMzExZi1iSUhnUDZRdU9fcXJnLVRweWtWNHZqdmJFWlQxaFVHQnRmTGJlN3hsM1Rya1F3M3ZubUVWMncyLS1xQU1jOXQ1WFpnNlFmM3QtaXU4c2NBR29fR0Q5d2lQeDR3dUFMclVQX3VUM3dWTjUzU1FHZmNmaGF2TDB2eDdxTXNTOHVVS01WcGl5TWRRTGExeGUtYjdicU1RcWVaRFh4U203VGp6NlZlSzIxZ01CS1ZnZEd30gHuAUFVX3lxTE9LUVk4WWt3R09DQmVLN1pJTVNkVDQ1VlJ6REFXdUVQYk1EaUJlcEpPSG13V3dCb3B5dmFCaENIa1lGUjY1WG9rU05nWkRRMGh2VHpTQjlVQ0h4XzEyTE9YZ2gtTTJxQ1M3djVubE9XQndlUURheWhxNjZhbzJfME01czFWSTBfZ3JQUGhhOG9aMmI2RmVPbWpKVDJYME5UUjlOeFljbFo3RFdvTGVOZDV6TGIxQS1oaTFKTUVod1VscnBwSU9pMlZpZ1ZfdU5hOVYyRFhIZVR2UE9lajRVM091Ql9McVluS3k4TVA2QWc?oc=5"
+        }
+      ],
+      "coverage": 4,
+      "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/starlink-builds-20-gateway-sites-in-india-says-user-data-will-stay-in-country/articleshow/134759623.cms",
+      "published": "2026-10-07T07:41:04+00:00"
+    },
+    {
+      "id": "how-india-is-turning-seaweed-into-an-alternative-to-crude-oi",
+      "lead": false,
+      "sector": "Energy & Industrials",
+      "title": "How India Is Turning Seaweed Into an Alternative to Crude Oil",
+      "dek": "Sea6 Energy: How India Is Turning Seaweed Into an Alternative to Crude Oil Sify News",
+      "why": "",
+      "source": "Sify News",
+      "also": [
+        {
+          "name": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdzZsZTlzNnFmS2FaeDlXd0R1MkRkQUExektDNjNac1VVaWVSOTVfTlFHbnY1NkxJMUVScXZ3VlJBS1E2OVN3R1Z3cm85NEpDQmlnTzZVcF84bW01ZHM4Yk1SVjVVRlhISlJWU2pDeGpJSnJOMmFUeE1ZVEo0ZVFURnI2eUFSbThXMTBpcTQ1aFl5SnUyaldEMXMtMnUxaDgtNUowNUZyTWxNdG1jZEhNUFVjaWdEcGFIQURCVWVfTEJ5NUdHNmdwcXg1Q0YtemVJcVRtekV5alZ4c29POFJyVDV2WGIwdjZoSzNsUmluM3B0OVp30gH6AUFVX3lxTE1wc0oyS0x1ZTJPVXJtUFpYNUVGa3paOWI5Rl9yUnNucHp1bjh3ZktSY194ZFFJekNybTNRSWF1QzZuTm14cktVUS1jakU0Q19wSzJVbzhVbFVVYk9iQmQ3TzhORUtsWEs1bk9CS25uZHBBNHJrRjZfWnJOYTl1UXpqSUdkczVFd0NxSGhVd0tIaU5pNlB3c2RTTjNra1Q4dTQ2QVo5a2psSjBqbHUycWI4TGxmZVl6M3JqZTE5QlJTa0IyWFNweXhDVllpdV9mSmdIcHp0VC1Sd0swTktkVXlmUGNPTjRlTmdxSEpUX2VoUUNnd1Z1WGJOb0E?oc=5"
+        },
+        {
+          "name": "BusinessLine",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSUNZM2lTdmhLdGFqXzc1NENxN1B3NE9HdDl0clNNbjBUSmkyRGM5WGR4ZnY1SFNoak1SajNOVEVoVHEtUTM0U19YZ2lQSl9ESjBhNmppVS1YNFNoUmx1ZWpoaDkxTmVSa252dkpLSWtMcXpqNDBTengxZFdIb3ZfQ3BTeVQ5SFhHaGZzZU9va0ZWSkNlZGpyQzRscUpEUjNyNWEyOElyemd4dkFCSmNTNmNWX3lpS29wNG9DMVVKblRMUE9ud3RZZ183YUN2S21GUGVLaDZ0Nkg2LUMzbWVFUThvQmsyTkk10gHvAUFVX3lxTE1MVWNiRi1jU2FnYnAwcy03WWFxcW9DOGZ2c25zU1Z0T0syTkZQMmpwd2hsRjJWbVBDdUNzcDhCV25RRDVQT010RV9HeERtN3dqNi0wRWNHYW9XS1lvamF6bTRxb0xxR3ZhQ19LY0tpUFpWWUZ1TlpLVTUxVWNlekJsWm82N0lVSjM1MUlzUm9acG1uckZIay1OZTJIVTZtcERYTVp2VzlOdmdNZ0JpRlo0eGl1b0puN0VjdEpWRF93eGZkcGVfR20wLTVLVG5TdVZrZjZiTjNWTnRES1JEYktueEdjQXd3RkZNa0JMOVpV?oc=5"
+        },
+        {
+          "name": "Kalkine India",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZHNfZGpRNEdLUm04WWw2UEgtVllVRkd5R0pEbXFiTVE1NFZpaEVkcGhHUk5fdWV3OVlRMElzNWw1S1o0U0xyRVYyVkh6bS1UOE9jUGhOMEg0cEZrb2FveEswVHJKVHA2NE9tY1otRVQ2VEwxWUR5OGxQOGM2dFQyanZqTjdtQVM4dkRJTDlPX2g4LVp6NUxDZjRuQmd1TWk4TF9SWnY0N2lyMjFnV1JtNjR1MlZrQXlOVnZDSV9JRzE1aTV1cXhF?oc=5"
+        }
+      ],
+      "coverage": 4,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLWp3ZGpJTm9YYlZfeUlNaTFrYTZwZ2EyWkl0TU5BRFNjdFI3TG55UnJJaEJVY0JPZVFUWlROdUhXYTFLVmtheFdrTUttcnR0VnlrUzREU3FVSnNPWndWS1hWVmhVVGJYcUE2bDg2a0w1dWNBeVc2QnloUGk4Nm14a1VfU1VURF9IRU1kbDRVZUhZU1Nld3RsU1owTE4tVTdNUlhqeXA2dXk5UQ?oc=5",
+      "published": "2026-10-07T07:19:22+00:00"
+    },
+    {
+      "id": "india-crude-steel-production-up-10-deliveries-rise-15",
+      "lead": false,
+      "sector": "Deals & IPOs",
+      "title": "India crude steel production up 10%; deliveries rise 15%",
+      "dek": "Tata Steel Q2 Update: India crude steel production up 10%; deliveries rise 15% IndiaIPO",
+      "why": "",
+      "source": "IndiaIPO",
+      "also": [
+        {
+          "name": "CNBC TV18",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOFBsdzJmMENSc3NUWFhWN1hxN3lhekpVZkFJcy1QaUZ4cTJjRUZkbzVVU1pIOWFQRzBHYjU5QWdzZkJBUlZIZS1STmlRaGlDcU53OEhvU2ZXOVZTNzZBTDlKMTN0SEpxN2JiZXFWMVNRZUFvU1YyaXM1a2hsSG1kUFI1ampaU2YtRGFGeEVTWnVxOWNWbkl3S1FqanFJOXh0X2xfQ2ZBUU5kN2c0aTZSRmxhYnJWMGk0cjdhNjFtcUo0c0h5NGVLUXNwbDZpWDVId3BDZtIB2gFBVV95cUxPRnkzY2FLdF9nOHE0XzBWY0F5dzFqSXZDRXRiLUc5VWtEUy04YTZpZ0FWQ01ST0JZbkdObmI4NEJIaXVBVDJDMU9Jal9Bc0hyS0RVdWlmdXdsSE9udU9pQ2lNS05IVF9raGJKbXJMR04yTzVVWGhxeFdjLXVEbjlEQjZ1bS1DVU5UZjVWQkFLd1M4RjY5bTZnOHBrenoyYXpNc3lYZE5LeTV5bng4dWRWVEpjTGhfd3YzTVdtOXN5dXdSWVJJdllGeWl6VU5vWWdlQXRIcjh0UFhVZw?oc=5"
+        },
+        {
+          "name": "Sahi",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNWhUSDlBeVVTRy1wd3ZzN083VHM1V3RtUGZyOGZZNHVtVGJsVkN0OHZTbVFkd2pVYUItMFpxVTRWUmpITWNVd18wQ1diaTQ1dlgtQUtneHE2N2F4SGRoVk9pMm9uUF9aMlRFdWZBaFFTN2lvZlZ3OWNQbnpfLXdITHJSdUowbWExeGNGZ19ycEZBb0JQUVNoXw?oc=5"
+        }
+      ],
+      "coverage": 3,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWFCOXhNZktyY256U1Jick0xcl9vSExZVUhfcmdBZGR5ajhqOEF1YmhwMVd2d28wWkZPNXdtTnVYOTdqRWdKYXVrTDFnZkhwZ19HZUtJQnNwOThVQVZrN2JmWVN0WXQ4RU1QSXFDUWhSREVMMmZFZXlkdjlRYldaanFTSkx4RnZVVV9KOFJBVnA0S1hGNF9jeXpyTFRQbWRuRnM5U0s4Sk56U0lmLWRj?oc=5",
+      "published": "2026-10-07T18:36:01+00:00"
+    },
+    {
+      "id": "quanfluence-raises-10-mn-to-build-full-stack-photonic-quantu",
+      "lead": false,
+      "sector": "Startups",
+      "title": "Quanfluence Raises $10 Mn To Build Full-Stack Photonic Quantum Computer",
+      "dek": "",
+      "why": "",
+      "source": "Inc42",
+      "also": [
+        {
+          "name": "Bharat Fast",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN20taWNLWk1KUHNvRTlwQWxrRTJ6bk9MQzZBZkNKVFFVVDdSMTcwR3RMZ1FaYnZia1NrS29LVDQ2Zjdkb21saWNXY0M4cC1XZDVRQWs5d05pNlBvWGc0eVdMdlNxam5nbXU3RUV6NW5wTlVqam5wSFUxeVpHSzNxd0xLTnJyT0Z5UTlUOWNFUQ?oc=5"
+        },
+        {
+          "name": "Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3pGS2Y2bzN1QjdBTHk4Tk1EbXRqdVNlb28teFVqR1RrODVyeFF3LVl0OEU3QnNYQmY0YTVYME1YeDlYRHJQNTU2dWNzeGdoVW1JbDJCVWVWMGQ0S3A5LU93RzFRQ21NRzc1T2RiZHEzRldDZDlwN1J5dVhlRDFoMkpjT1gyNkV3RUgzUjcxVGtPYjQzdVVVMkpwOGNzRkdNTW9qREVRaEo2TEI2NVk0R01xLUhubFc2WXZKMmxTSkpZQWUtSXhpYllsYV8xR0dv0gHQAUFVX3lxTE9vekZLZjZvM3VCN0FMeThOTURtdGp1U2Vvby14VWpHVGs4NXJ4UXctWXQ4RTdCc1hCZjRhNVgwTVh4OVhEclA1NTZ1Y3N4Z2hVbUlsMkJVZVYwZDRLcDktT3dHMVFDbU1HNzVPZGJkcTNGV0NkOXA3Unl1WGVEMWgySmNPWDI2RXdFSDNSNzFUa09iNDN1VVUySnA4Y3NGR01Nb2pERVFoSjZMQjY1WTRHTXEtSG5sVzZZdkoybFNKSllBZS1JeGliWWxhXzFHR28?oc=5"
+        },
+        {
+          "name": "Siliconindia",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNk5OMWNETTBvMVl2eGU1ZG9SM2Mzd1dVR1lGNi1MMTVuY1ZZRThCY2NnUll0a0h0TFJPdEdaTXQwcjNUTHFIRkdDZ2p2WXF5Z1lyM0VRMVNHNVcwNUkxWGJSdDRTZm51alJSaGNzQTB2QUExYnZ6ZnZlNS1ZVGZWYVFldnZTWWtyQTVxdFJnZDIwT0NXcDNYdFlnUXRoMm03OF80TGNlMGZaak5qeFZJeDhYd3ZJcDJVYktYdUtveTJGcGhlbmZvby1IdEJ6ZjRsR21NVlNzVF8xY1E?oc=5"
+        }
+      ],
+      "coverage": 4,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQzBOZ1ZfcVk5YmlzZWZUU1p3M09abGE4RF9wNDRsckRmc0JINkhFa3RObTM2LVZIT0pSNEtHWHFZZ0dQNHNoUkR2ZC0xQ25IRGdzRGFJbzh1WEN4dnZ1VUl5XzBBME9jY0lJdnJYaklMWExIV1VGQTFhdmdNeGtBZ3FIOExsd2YyajdIaUMwMDZCdXV5SVlxQWRR?oc=5",
+      "published": "2026-10-07T03:30:00+00:00"
+    },
+    {
+      "id": "eu-agrees-to-sanction-over-1-600-people-and-entities-linked",
+      "lead": false,
+      "sector": "India & World",
+      "title": "EU agrees to sanction over 1,600 people and entities linked to Russia's war",
+      "dek": "",
+      "why": "",
+      "source": "Euronews.com",
+      "also": [
+        {
+          "name": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTGV0LUdzWFFmbUNGMXpCMmQ4ejVJb2VmNnozQldyX2ZCUXNEd0N3eUhQMHRLRG5SNHNKd19acS1jQ2l3aVc2V2gycERocmUteFRYRXQyM0QxR0NUWTNPM2xZWkpMbE4zdzlLWHVqbDZRMXJfbGUyZE5kTUEzYTFMVGtodVVabzMtSDhrZ285T2IyRGJ3R2ZUd1RuQ3Y2N3p6czRpaw?oc=5"
+        },
+        {
+          "name": "صوت الإمارات",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc3llSk1KcWZXeWVZZl9kNDhDWjNvVVJGMGZxbGViMWViZGFkLXc3ZjlESnlzcjRfR09ydHIyVk9sU0RlQ3pKYnV1S2tPUUFEUFJXNUhyN0RJQ1BTTkNuWW1wVDgySTBUa0ZDd2k5eTdCNi1qMGUwbVBEbnFLbjZzb25VZmp6UlVQZTVrbG5kTjNrRkpGTmppNURHVHVGVG5PVS1uZWQ1MnhHcUNrbEgwTDNxMmZxeUlmRWl3akxNckx1N0E2OE9IbXNwY0Q?oc=5"
+        },
+        {
+          "name": "وكالة الأنباء السورية – سانا",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnMUNmTlpfYnZWcGJiczZkdXBaVmRpbFIwV1paRWtjTmxKMEZSWHdGOTZLQ2NUV19ISEplR0h5a3ZIMTJBSVVoX1lMVjhwdGdVN0Y0?oc=5"
+        }
+      ],
+      "coverage": 4,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVmhrZDJ5ZFhaUDlaeE5WaUMwQ0ktTk9ORkNsVmlOencxb05LZTFmNnFaYTJCbE90Qjl5Qm1rWXYxSE9GYjF1dFJCbUNlQjY3TDNyWnZpQUptMHRkUWxZMGh4elcybEY4bl9SNFp4RFcwOGVtcnoxbjZFZl9iQUJFZEE0NDdpcnBrNUwyZV83ZUI2bE14cVJZQ0RVWDRzUHdPbDEwYW5OUXNnS21HN3c?oc=5",
+      "published": "2026-10-07T12:23:12+00:00"
+    },
+    {
+      "id": "eu-ambassadors-wave-through-largest-ever-list-of-russia-sanc",
+      "lead": false,
+      "sector": "India & World",
+      "title": "EU ambassadors wave through largest-ever list of Russia sanctions",
+      "dek": "",
+      "why": "",
+      "source": "The Kyiv Independent",
+      "also": [
+        {
+          "name": "UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNU9mdVJ2dVZFLWVHYU9VclAxeDZJd2ZDb2hZcVYxM05iT3pEOTZ6QWw1Q0M1TjZOSEhXVlA0TVEzb1p2b01nektmdTJvZFlFczFHWkNmTVNSTDNyeDg5WDNUOG05ZjZLcFh5UG80R09RNHREMXZXaGxmTXFNZzV3RXUxRjZmTlZmR1E1bjhtdURzUVdaRW9OMzQ4TGpVY1l2N1BQTk5ELTUzSjZZ?oc=5"
+        },
+        {
+          "name": "Наша Ніва",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15MmJRcTRrX0pnc0F6Sy1HV0RzaWxRdWFaRFN4bkZTUUJRdllPUTJIMFBBZXdtV1lHVHBxSlQxNHpEV1Y0Qy1Ra2pCc9IBS0FVX3lxTE15MmJRcTRrX0pnc0F6Sy1HV0RzaWxRdWFaRFN4bkZTUUJRdllPUTJIMFBBZXdtV1lHVHBxSlQxNHpEV1Y0Qy1Ra2pCcw?oc=5"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NdlZsSnd5cDFzclA1ZFdTZ3dSSWdxVFQ2c2FJNEdOZjdFS0lUbWdVT014SE9Fb09tN2phdmRvME1fRFdqS1B2S1Q2R09xT3ZncTAwZ0xLVWRmSTZ2dVJFSENGR0_SAXBBVV95cUxQSG13T01LeDVtVnJSVnBxRE40NUpUbzZCbFo2TXVjemdaUmpYaXhESUVzY1lXNzh4c2NPZzN5N1FuX3Vnc0c1RG5qVFpYSHNvS2d6elk3YlYyMGN2ZjM2dmhfbnhkZS1Ra3pTdkk4YS1D?oc=5"
+        }
+      ],
+      "coverage": 4,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHMycVV1MUF3ZnpUNWpSVjZWWDFXN0NId29UYktrTWRfdHFrWk1wcGIxbnJJM21MaXIyel82anNQS1dtRTVDUUpsOUhNUFN1al9jLTlDblQtalQ2NjhpVEd5c2pHUVp5aWJkQkZCZ2tjSVl0S2dwWDNRSmluMGNtNWx2NWVLOWlrcy0yNTNqS3VUUkNaTDNYOFY4Unc?oc=5",
+      "published": "2026-10-07T11:51:18+00:00"
+    },
+    {
+      "id": "infineon-completes-acquisition-of-c2i-semiconductors",
+      "lead": false,
+      "sector": "Deals & IPOs",
+      "title": "Infineon completes acquisition of C2i Semiconductors",
+      "dek": "",
+      "why": "",
+      "source": "varindia",
+      "also": [
+        {
+          "name": "EE Times India",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVXdacUd0TmNXNXc2bllETDRXWXl0OWhSR3FpODN0OTVMeWx3Zi01TGQ1RU9VbjM5cXNyeF9Ka2k2UUhKNkRiY1FaYkZfWm1fZFdSdHRDMEJKODJ1VzRtLW5WMWl2T0trMlJObDZ6VmFyOXMzLVBBQWNrT0tpVkJ6NTBrRmRsU2M?oc=5"
+        },
+        {
+          "name": "Konsulteer",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX2QzNndjeDlNUkpBTHF0dXJFYzFpcGRqZ2o0NVBkbEpTQ1BFQW5sTzB3V0Q1WF9WYVhkekVrNTljMjJSN0lCQXNMSm5yMi02bGQ3VC1tRkU3bVhVRDU2c3NiTVJwZ3VsMW5sM1lnYldJeGFPV05YQXNYX1ZOMDBqVm1OTW9MU3JjZi1DYV9BcVMyNm44MlVNSnVfeWRiWlJ6Uy10cVFYNmFtUmxvOVdpOHJB?oc=5"
+        }
+      ],
+      "coverage": 3,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmEyUjNXbk1hU1daaUZ4OGxOeGVBX0RicDMyaVlpbjg3QTlkV205b0s0SFJQVXpDdnk2anFWTzgtRjg1akxWOHZRUDhKVmtLUWVqRHpvS0hpWlc0VG5sUVcyNm1vZWhvLXhWVUhxRDBXMlRaWVRxMUhuR2lnT1hEQWppUjhnekhwV1E?oc=5",
+      "published": "2026-10-07T09:44:42+00:00"
+    },
+    {
+      "id": "jaishankar-discusses-bilateral-ties-with-cote-d-ivoire",
+      "lead": false,
+      "sector": "India & World",
+      "title": "Jaishankar discusses bilateral ties with Cote d'Ivoire",
+      "dek": "The Minister arrived in Cote d'Ivoire from Ghana on the second leg of his three-nation tour of African countries, which also includes Ethiopia",
+      "why": "",
+      "source": "The Hindu National",
+      "also": [
+        {
+          "name": "Rediff MoneyWiz",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb3IyTWt4eDNZQUhBZHVUSXkwVm1SM3ByQWdlMkxzbkNXeVZRQlA0Zi0tdW9sZnd6SUd2bG55Y3RCaXNlZUxuWG5CM0pwcktYNktySm9JYUN6UUs1ajNJeUJ5Q29fQVVLWWE1dUFkZzQzaDc1ckVaVWhGQWN6UWtJbkJ5ZDEzaFF3VWJkcFlRNmgzWjdWUFFYWmJxX1RiREdtU1U5YkFtUWhpWEXSAbABQVVfeXFMTmY5UUJ1N0otblkxV3NlSWlvTXZkcTY2ZGQweWRIbkJGSHY0XzdOU1VYVkRTUVNaOVA0QVA2RVY1Tk5OOXJ2am1SVUpNbl82UE9IaFFoc09mQndYNWpxTmJTcmYyNFNneHZKQjN4QTRLckpaV3MxMHFnb0phMjFUNnY4UlhTN3NmcE1LMWZLT1kxZlFYY3U2TG1oSGFvbWVGSTY2QktIZHhOb2lIUEI5eWI?oc=5"
+        },
+        {
+          "name": "The Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNktJaUczTDdHM0MyVlVLbzhjdk9qLTd2ZUlONlpORldzZVJpcWMzbmVYVlZ3MS1hbkRuaDlUQXFHbUM3QnNtNGRwdVhfTVZKbzczOXBOd2tVamd6djVDY0FsZUFRN2VlMVNlUWZTWDduZUpZaDg0Y3dQR2VWc2w3cVJjWE04UUFnUmJrbndEZHZqWlRxOWdScVhkM1dqRENpZWo2MG1pSHVLVW1zX2V2b2FTNjNpUXU2TC1iUDlMS3o3ZUsyUDkzazlR0gHOAUFVX3lxTFA0Z0xsWHZIdHpyWjBHa1dib2sxQlhXdnBkY2VGekE1eWFmU211TWZhbzhYQ0JEQTh2eXVEejRwZ1ZZTzNfWGRPdGlrUDRlM1hTcjBIM1RVMnlTczNzTTlPU3ZKcmd3WWh2dDRhNVcxakM2SlVQWEtTRkZnQWNGT1kxUUo4bUtZR01iRU1nRHdLd2RBbU5ZLWRGN0kyRDFLbDFsX3JhNnc0ZTMzTUNkMXZFTk5VdzZLeGw1TDNIWmZzYkxST2I0VnJ4dWlRalJn?oc=5"
+        }
+      ],
+      "coverage": 3,
+      "url": "https://www.thehindu.com/news/national/jaishankar-discusses-bilateral-ties-with-cote-divoire/article71558153.ece",
+      "published": "2026-10-08T00:16:04+00:00"
+    },
+    {
+      "id": "india-s-ipo-boom-defies-its-battered-stock-market",
+      "lead": false,
+      "sector": "Deals & IPOs",
+      "title": "India's IPO boom defies its battered stock market",
+      "dek": "",
+      "why": "",
+      "source": "Gulf News",
+      "also": [
+        {
+          "name": "Free Press Journal",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3NFMXBuSzFZcUZ4ZG96T3YxYklKY0dJX2ljQ2Yybm5RcnFPOVlHQ1VfV285Ny1SLVpPTUE2YklIT1g0eEs1MjY2RUhmcmVBbjBSVVotRVYyX1BjdHRuMlk4dXdrRVdzTWdYcU5PX3BNUjFlMm9PRlRzM2hTdGFkRm1ybVJtYUxxWXNlelhwdE5TWWxVSGVuWNIBngFBVV95cUxPRGtxVUFMa3FwanpUbnhZR2hjb3RyRkY0Skd0alhpaUtNalRCNGpmekQ2Q3NEUEFjeTJEMEk1ZHROVVJNY01FUFBWd3duY1VmYTFOV3dQaXV2V2xBdXNPQlpjSnIwSGluZFJwaW5DcGJ6RXlVaWJ2eDc4dUpCZm9rVE9nQnRvNnhxMXVzTW9CMHVrR0toT3JsYXZrTDR1dw?oc=5"
+        },
+        {
+          "name": "ThePrint",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa1NRVk9URWhVaDRQSVVnSmpOWThmN3lZLXN4N3VYaDRxUGwxUzBfVlQ5bnJ2M0lxYm1lc183M011b3JRWWxXMGFGUVRTazA2Rk9FVjhlQzBIYVprUkdrNW8xS3BVSEpkZlYwd1lnbldvOU9MajQ2b1NHQV9ndkg0TTVaQy1ETUN6RHo2bW5ZTkE4S0Q1NUNyQTVFbnpYd9IBowFBVV95cUxPSGtrdEF4WTdveG1MbXItLTlQeC1NT0NNSDNpUk5OaUtBRVBESGNaU09KSzBVWnVSa2hLX0QtSmZJN0dQNXFDdGgzYkp1aEhoUGgtTk9rcXVOSDRtV0M1a01aZU9XMzlsbVBZeHIzbm1mNHZCN2Qxc3ZVOE9WSzl4T0RseUZtN3d3SVBoX1BNLUNkRzBSYjlUTmFqRHJrc0ZuQlFz?oc=5"
+        }
+      ],
+      "coverage": 3,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMnJWYm1iQ2xaZVBGWndlQVcydzdHbFlEYWdxSjhYM0FSLURfNGpKbzk3bmF6MGhUUUJIVmZsODhoY3hBTEdzbHUzcWJZZHdKYUdqVC0xenVmcy1xQjhwMk1NaEFNUGk4ZTNCZFNIazVtU2h6TEpOYmhJNmttdWVsYzYtcjN0emdWUFBIanAyTHM0eFNRckp3RjBLM3Z3aEXSAbIBQVVfeXFMTUlVTHJta293RGRkalIwR1NqS3A4UmVmbzRhdlFPOXpsZTBmUkR6Y0M0YmM0ZUxQVkszYU54WVhjOWFFczVFYjlwYTRBeFNMbmx0cm83dkU5ZXJlbWozd19veHM1ZjJpRDdtenhJdmJqNGFEVnk5SHBfX3RzOE1Ua0F2Z3RIR1owN1U4TDB2UzI2Rk1KaG1NVHZOYkVBdUVvWlFHWUZGMG5ERmhnTTdzcG9rQQ?oc=5",
+      "published": "2026-10-07T02:00:00+00:00"
+    },
+    {
+      "id": "the-infrastructure-bet-behind-india-s-digital-growth",
+      "lead": false,
+      "sector": "Energy & Industrials",
+      "title": "The Infrastructure Bet Behind India's Digital Growth",
+      "dek": "Jio IPO: The Infrastructure Bet Behind India's Digital Growth Urban Acres",
+      "why": "",
+      "source": "Urban Acres",
+      "also": [
+        {
+          "name": "CRN Asia",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc1ZVbFZmVG9aOHdEd1hVcFBJRHlmeTBUU2Q2SkRuY1BUcl9WSERhdHhkZDVoMkZTNlQzbTA2SkZBRGV1QzZGb2k4cTVMVVJwdXJaV0ZWVENjVlNQR2t5NWlkUDZtMG5wQnYwR1ZqYW82UzdWR1hKdWZ6aDE0b3plWWpLZ2VDN2ROdWpOZXVuYUMxMEN5Ni1BMU5CMTNmZGZXaWZyV3dZcF9HbDYxVm5RQzlCWFZvR2o0VjlUb0N6blE4dVc2S1hLUU5lZVN2Zw?oc=5"
+        },
+        {
+          "name": "tele.net.in",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLVJKeUxXMHNCMk4xVURndjAya0Z2SG9kWUNranQ5ekdpM3pyM3BvSGo5WDJwczlFWHJYbGl3dU0xNDhRU2lBa1NsQ04xUVlYUXVFTXhiM3VERWFhcmEtNDhDNkRDaEdZOE9TbThoUDZ3LUtaMkhPd3g4TFFFTFhMYVNzb3FXYjVNSTh1VF9iSmd1NkRKTXcxTHNNM1VibTF5T3BGa29qMlk5M1lUNV9JZUpaY2FHSVBOTjFoeGMyVlJEQWVselRYYmI4emcwckJGSW1FLQ?oc=5"
+        }
+      ],
+      "coverage": 3,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaHE3aGFhT2kweFk4WFYyM2pac0ctZENYRWZkeEwzeU5DbUEyODY2RWxOa1QzOEJRQV8zb2MxdXpFbFk2N0dDbHcwYzl4OTNvb0RpWDFPb1BXSEFnNkhxZ3hFUF81Ml9RU0FJS29vSThJUnltUlIwWFRBclRrZXNsRTI5aUtESlhLOExrVlRlRQ?oc=5",
+      "published": "2026-10-07T13:24:27+00:00"
+    },
+    {
+      "id": "pizza-brand-the-dough-therapy-raises-rs-5-25-cr-in-seed-roun",
+      "lead": false,
+      "sector": "Startups",
+      "title": "Pizza brand The Dough Therapy raises Rs 5.25 Cr in seed round",
+      "dek": "",
+      "why": "",
+      "source": "Entrackr",
+      "also": [
+        {
+          "name": "Siliconindia",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRzl4M2lrTEU4RWx2aVl0LXAwSnlnbEZPdGFTVVI4eDNjRjZGNVhSVDNJMkUzenBuby1hcV85MU9qRmlrd2tjdGM4bVVwckJnelk0OEZGMWJmS2pLeGpwUWM1SU9MLVk2ZFZxYWt6ZGJMTTVUbnc1cmJ2anJpSWhuT292bmR6dk9aUS11N0QzZU1WV1RPN2lGcmhaNGhFNkYxd3dhNEowXzlmVmRNN0F0QnA5d0F2ODRYZUk1a0RObW1nX1hibF92eEhYUQ?oc=5"
+        },
+        {
+          "name": "https://ascendants.in/",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcUVQd0ZRSXNhRHFuZDUycWplY0NDa1RZSmpwTU5zUGU0YXVQd21HSWIyZFd0M2Y1R1hVNjNwTHlTcDl3aUFJM2pWZldRcEF2TURCTE8yb2J6aFBPTnVVRzgzZG1JTC1NWmotUExpNXlFeGozOWNoWHhNTS15MmNGT3JOZmdSQjRXb3Jub3J5OHM1c0ZT?oc=5"
+        }
+      ],
+      "coverage": 3,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUo2WTA1NUxWQ2JZemh2SHpkNkxBem9SSGE1dGxkRlNIbmNrU3I0czJoaW1YSE9vNG0zZW1QdUlYMF9vNk5zelVrd1NidE5KTFZOb3A0d1pqU1F1TEpBX2IzYkxiZnQ1dmdaZnJyckp2Qjc0TjVER3hpNGdNbDV4eExGTjFhUWV3bEw4akNzVHppZUx4OC1fNHE1TVNXSzB20gGgAUFVX3lxTE9lSjZZMDU1TFZDYll6aHZIemQ2TEF6b1JIYTV0bGRGU0huY2tTcjRzMmhpbVhIT280bTNlbVB1SVgwX282TnN6VWt3U2J0TkpMVk5vcDR3WmpTUXVMSkFfYjNiTGJmdDV2Z1pmcnJySnZCNzRONURHeGk0Z01sNXh4TEZOMWFRZXdsTDhqQ3NUemllTHg4LV80cTVNU1dLMHY?oc=5",
+      "published": "2026-10-07T11:48:41+00:00"
+    }
+  ]
+}
