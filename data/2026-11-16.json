@@ -1,0 +1,276 @@
+{
+  "date": "2026-11-16",
+  "dateLabel": "Monday, 16 November 2026",
+  "builtAt": "2026-11-16T13:39:01.345902+05:30",
+  "standfirst": "19 stories across 4 sectors · consolidated from 22 reports of 139 collected",
+  "sectors": [
+    "Consumer",
+    "IT & AI",
+    "India & World",
+    "Markets"
+  ],
+  "stories": [
+    {
+      "id": "eicher-motors-shares-vroom-like-its-bullet-stock-price-jumps",
+      "lead": true,
+      "sector": "Markets",
+      "title": "Eicher Motors shares vroom like its Bullet, stock price jumps over 3%; what brokerages say post Q2; Buy or avoid? Target",
+      "dek": "Eicher Motors shares rose over 3% after it reported 15% year-on-year profit growth and record quarterly revenue of ₹7,422 crore. Royal Enfield motorcycle sales climbed 15% to a record 3.77 lakh units, while VECV sales increased 28.2%.",
+      "why": "",
+      "source": "Mint Markets",
+      "also": [
+        {
+          "name": "ET Markets",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-stock-price-livestock-price-today-live-updates-16-nov-2026/liveblog/135870264.cms"
+        }
+      ],
+      "coverage": 2,
+      "url": "https://www.livemint.com/market/stock-market-news/eicher-motors-shares-vroom-like-its-bullet-stock-price-jumps-over-3-what-brokerages-say-post-q2-buy-or-avoid-target-11794804317886.html",
+      "published": "2026-11-16T05:00:54+00:00"
+    },
+    {
+      "id": "dpdp-rules-may-boost-demand-for-cybersecurity-professionals",
+      "lead": true,
+      "sector": "IT & AI",
+      "title": "DPDP rules may boost demand for cybersecurity professionals and security services: Report",
+      "dek": "The implementation of the Digital Personal Data Protection (DPDP) Rules is expected to create fresh demand for cybersecurity professionals and managed security services in India, as companies strengthen their systems to protect personal data, monitor security…",
+      "why": "",
+      "source": "ET Tech",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/tech/internet/dpdp-rules-may-boost-demand-for-cybersecurity-professionals-and-security-services-report/articleshow/135874969.cms",
+      "published": "2026-11-16T06:12:51+00:00"
+    },
+    {
+      "id": "aqi-poor-in-parts-of-kolkata-outskirts-amid-chhath-celebrati",
+      "lead": true,
+      "sector": "India & World",
+      "title": "AQI 'poor' in parts of Kolkata, outskirts amid Chhath celebrations",
+      "dek": "Barrackpore on the northern fringes of Kolkata recorded an Air Quality Index (AQI) of 230, placing it in the 'poor' category, according to air monitoring data",
+      "why": "",
+      "source": "The Hindu National",
+      "also": [],
+      "coverage": 1,
+      "url": "https://www.thehindu.com/news/cities/kolkata/aqi-poor-in-parts-of-kolkata-outskirts-amid-chhath-celebrations/article71707178.ece",
+      "published": "2026-11-16T08:05:54+00:00"
+    },
+    {
+      "id": "coal-india-s-mahanadi-coalfields-ipo-price-band-set-at-129-1",
+      "lead": false,
+      "sector": "Markets",
+      "title": "Coal India's Mahanadi Coalfields IPO price band set at ₹129 - ₹136 per share | Check GMP, issue details, key dates",
+      "dek": "Mahanadi Coalfields has set its IPO price band at ₹129-136 per share. The offer, open from 19 to 23 November, is a 10% stake sale by Coal India, which will receive the proceeds. Shares are tentatively due to list on BSE and NSE on 27 November.",
+      "why": "",
+      "source": "Mint Markets",
+      "also": [
+        {
+          "name": "ET Markets",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-stock-price-livestock-price-today-live-updates-16-nov-2026/liveblog/135871357.cms"
+        }
+      ],
+      "coverage": 2,
+      "url": "https://www.livemint.com/market/ipo/coal-indias-mahanadi-coalfields-ipo-price-band-set-at-rs-129-rs-136-per-share-check-gmp-issue-details-key-dates-11794795588725.html",
+      "published": "2026-11-16T02:51:38+00:00"
+    },
+    {
+      "id": "sensex-nifty-cheer-as-bulls-fpis-back-in-indian-stock-market",
+      "lead": false,
+      "sector": "Markets",
+      "title": "Sensex, Nifty cheer as Bulls, FPIs back in Indian stock market; pump in over ₹84k cr in Nov so far",
+      "dek": "FPIs invested ₹84,291 crore in Indian equities in November, helping the Sensex and Nifty extend their recovery and drawing buying into broader markets. Analysts cite earnings growth, reasonable valuations and global portfolio shifts as drivers.",
+      "why": "",
+      "source": "More rally ahead?",
+      "also": [
+        {
+          "name": "Mint Markets",
+          "url": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-16-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11794789061627.html"
+        }
+      ],
+      "coverage": 2,
+      "url": "https://www.livemint.com/market/stock-market-news/sensex-nifty-cheer-as-bulls-fpis-back-in-indian-stock-market-pump-in-over-rs-84k-cr-in-nov-so-far-more-rally-ahead-11794736253974.html",
+      "published": "2026-11-15T10:57:55+00:00"
+    },
+    {
+      "id": "why-vodafone-idea-s-q-o-q-drop-in-mobile-subscriber-base-is",
+      "lead": false,
+      "sector": "Markets",
+      "title": "Why Vodafone Idea's q-o-q drop in mobile subscriber base is a worrying sign",
+      "dek": "Instead of Q2 revenue and profitability, investors should focus on cash Ebitda, given Vodafone's heavy capital expenditure and government debt burden of almost ₹1.5 trillion.",
+      "why": "",
+      "source": "Mint Markets",
+      "also": [],
+      "coverage": 1,
+      "url": "https://www.livemint.com/market/mark-to-market/vodafone-idea-mobile-subscribers-drop-worrying-sign-arpu-11794810234187.html",
+      "published": "2026-11-16T07:42:49+00:00"
+    },
+    {
+      "id": "amber-enterprises-shares-resume-losing-run-tank-over-8-after",
+      "lead": false,
+      "sector": "Markets",
+      "title": "Amber Enterprises shares resume losing run, tank over 8% after weak Q2 from peer Kaynes Technology. Is more fall ahead?",
+      "dek": "Amber Enterprises shares fell 8.4% on 16 November as weaker-than-expected results from peer Kaynes Technology hurt sentiment toward electronics manufacturers.",
+      "why": "",
+      "source": "Mint Markets",
+      "also": [],
+      "coverage": 1,
+      "url": "https://www.livemint.com/market/stock-market-news/amber-enterprises-shares-resume-losing-run-tank-over-8-after-weak-q2-from-peer-kaynes-technology-is-more-fall-ahead-11794813833370.html",
+      "published": "2026-11-16T07:41:17+00:00"
+    },
+    {
+      "id": "tvs-supply-chain-solutions-shares-jump-17-after-q2-results-s",
+      "lead": false,
+      "sector": "Markets",
+      "title": "TVS Supply Chain Solutions shares jump 17% after Q2 results, surge 24% in 2 weeks; what lies ahead? Key levels to watch",
+      "dek": "TVS Supply Chain Solutions shares surged 17% after Q2 FY27 revenue rose 38% year on year to ₹3,687.2 crore and net profit more than doubled to ₹36.5 crore. The company cited broad-based growth, operational improvements and strong new-business wins.",
+      "why": "",
+      "source": "Mint Markets",
+      "also": [],
+      "coverage": 1,
+      "url": "https://www.livemint.com/market/stock-market-news/tvs-supply-chain-solutions-shares-jump-17-after-q2-results-surge-24-in-2-weeks-what-lies-ahead-key-levels-to-watch-11794812073703.html",
+      "published": "2026-11-16T07:17:52+00:00"
+    },
+    {
+      "id": "why-kaynes-technology-shares-crashed-20-to-52-week-low-stock",
+      "lead": false,
+      "sector": "Markets",
+      "title": "Why Kaynes Technology shares crashed 20% to 52-week low? stock down 54% in a year | What stock market experts say",
+      "dek": "Kaynes Technology shares hit 20% lower circuit after Q2 FY27 net profit fell 61.6% year-on-year, despite modest revenue growth. Brokerages cited weakness in smart metering, rising debt and uneven segment performance, while auditor observations and financial…",
+      "why": "",
+      "source": "Mint Markets",
+      "also": [],
+      "coverage": 1,
+      "url": "https://www.livemint.com/market/stock-market-news/why-kaynes-technology-shares-crashed-20-to-52-week-low-stock-down-54-in-a-year-what-stock-market-experts-say-11794807033272.html",
+      "published": "2026-11-16T06:28:00+00:00"
+    },
+    {
+      "id": "alibaba-unveils-new-flagship-ai-model-with-safety-upgrades",
+      "lead": false,
+      "sector": "IT & AI",
+      "title": "Alibaba unveils new flagship AI model with safety upgrades",
+      "dek": "China's Alibaba unveiled its new flagship artificial intelligence model Qwen4-Max on Sunday, saying it enhanced the system's ability to handle complex professional and scientific work while improving protections against safety risks.",
+      "why": "",
+      "source": "ET Tech",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibaba-unveils-new-flagship-ai-model-with-safety-upgrades/articleshow/135874755.cms",
+      "published": "2026-11-16T05:49:15+00:00"
+    },
+    {
+      "id": "eicher-races-to-meet-royal-enfield-demand-wave-amid-margin-w",
+      "lead": false,
+      "sector": "Markets",
+      "title": "Eicher races to meet Royal Enfield demand wave amid margin woes",
+      "dek": "Eicher's shares have gained nearly 12% in the past year, vis-a-vis just a 2% rise in the Nifty Auto index. Triggers could be limited in the near term, given looming margin woes.",
+      "why": "",
+      "source": "Mint Markets",
+      "also": [],
+      "coverage": 1,
+      "url": "https://www.livemint.com/market/mark-to-market/eicher-motors-royal-enfield-demand-capacity-margin-pressure-11794804813115.html",
+      "published": "2026-11-16T05:41:37+00:00"
+    },
+    {
+      "id": "pakistan-s-participation-in-sco-civilisational-forum-explain",
+      "lead": false,
+      "sector": "India & World",
+      "title": "Pakistan's participation in SCO Civilisational Forum | Explained",
+      "dek": "The Ministry of Culture, in collaboration with the Ministry of External Affairs, will organise the first SCO Civilisational Dialogue Forum from November 20-22 at the Purana Qila (Old Fort) in New Delhi",
+      "why": "",
+      "source": "The Hindu National",
+      "also": [],
+      "coverage": 1,
+      "url": "https://www.thehindu.com/news/international/pakistans-participation-in-sco-civilisational-forum-explained/article71707102.ece",
+      "published": "2026-11-16T08:03:02+00:00"
+    },
+    {
+      "id": "special-trains-from-santragachi-to-prasanthi-nilayam-for-sat",
+      "lead": false,
+      "sector": "India & World",
+      "title": "Special trains from Santragachi to Prasanthi Nilayam for Sathya Sai Baba birth centenary",
+      "dek": "The trains will stop at Duvvada, Vijayawada and other stations in coastal Andhra Pradesh",
+      "why": "",
+      "source": "The Hindu National",
+      "also": [],
+      "coverage": 1,
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/special-trains-from-santragachi-to-prasanthi-nilayam-for-sathya-sai-baba-birth-centenary/article71706994.ece",
+      "published": "2026-11-16T08:01:46+00:00"
+    },
+    {
+      "id": "anti-india-summit-bjp-accuses-rahul-of-providing-platform-t",
+      "lead": false,
+      "sector": "India & World",
+      "title": "'Anti-India Summit': BJP accuses Rahul of providing platform to anti-India forces in Hyderabad",
+      "dek": "The BJP spokesperson Gaurav Bhatia alleged that while Mr. Gandhi makes similar statements in India, a foreign national was now mocking the Indian mandate from an Indian platform",
+      "why": "",
+      "source": "The Hindu National",
+      "also": [],
+      "coverage": 1,
+      "url": "https://www.thehindu.com/news/national/anti-india-summit-bjp-accuses-rahul-of-providing-platform-to-anti-india-forces-in-hyderabad/article71707146.ece",
+      "published": "2026-11-16T08:00:46+00:00"
+    },
+    {
+      "id": "20-cows-found-dead-in-farmland-near-sriperumbudur-villagers",
+      "lead": false,
+      "sector": "India & World",
+      "title": "20 cows found dead in farmland near Sriperumbudur, villagers suspect poisoning",
+      "dek": "Police are investigating the deaths in Vellarai village of Kolathur panchayat, where villagers allege a local resident poisoned the grazing cattle",
+      "why": "",
+      "source": "The Hindu National",
+      "also": [],
+      "coverage": 1,
+      "url": "https://www.thehindu.com/news/cities/chennai/20-cows-found-dead-in-farmland-near-sriperumbudur-villagers-suspect-poisoning/article71705705.ece",
+      "published": "2026-11-16T07:52:38+00:00"
+    },
+    {
+      "id": "patients-allege-rat-bites-dog-roaming-in-rajasthan-s-pali-go",
+      "lead": false,
+      "sector": "India & World",
+      "title": "Patients allege rat bites, dog roaming in Rajasthan's Pali govt hospital ward; staff faces action",
+      "dek": "The management also placed rat poison at several locations in the ward to prevent further incidents, and a team remained engaged in improving the ward's arrangements until late Sunday (November 15) night",
+      "why": "",
+      "source": "The Hindu National",
+      "also": [],
+      "coverage": 1,
+      "url": "https://www.thehindu.com/news/national/rajasthan/patients-allege-rat-bites-dog-roaming-in-rajasthans-pali-govt-hospital-ward-staff-faces-action/article71707128.ece",
+      "published": "2026-11-16T07:50:58+00:00"
+    },
+    {
+      "id": "kerala-police-find-similarities-between-gurumurthy-kochi-syn",
+      "lead": false,
+      "sector": "India & World",
+      "title": "Kerala Police find similarities between Gurumurthy, Kochi synagogue arson cases; yet to find evidence of Lawrence Bishnoi links",
+      "dek": "Thrissur police are investigating case against Tamil Nadu native Gurumurthy who was arrested recently from Palakkad for alleged links with criminal networks, while NIA has taken over probe into arson case",
+      "why": "",
+      "source": "The Hindu National",
+      "also": [],
+      "coverage": 1,
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-police-find-similarities-between-gurumurthy-kochi-synagogue-arson-cases-yet-to-find-evidence-of-lawrence-bishnoi-links/article71707127.ece",
+      "published": "2026-11-16T07:47:17+00:00"
+    },
+    {
+      "id": "supreme-court-asks-centre-states-to-file-status-reports-on-s",
+      "lead": false,
+      "sector": "India & World",
+      "title": "Supreme Court asks Centre, States to file status reports on setting up of special courts to hear NDPS Act cases",
+      "dek": "Supreme Court took note of the submissions of Additional Solicitor General Aishwarya Bhati, appearing for the Centre, that not much progress has been made in pursuance of the orders passed by the apex court recently on setting up of special courts",
+      "why": "",
+      "source": "The Hindu National",
+      "also": [],
+      "coverage": 1,
+      "url": "https://www.thehindu.com/news/national/supreme-court-asks-centre-states-to-file-status-reports-on-setting-up-of-special-courts-to-hear-ndps-act-cases/article71707052.ece",
+      "published": "2026-11-16T07:45:04+00:00"
+    },
+    {
+      "id": "glenmark-launches-generic-of-inlyta-tablets-for-kidney-cance",
+      "lead": false,
+      "sector": "Consumer",
+      "title": "Glenmark launches generic of Inlyta tablets for kidney cancer treatment in US",
+      "dek": "Glenmark Pharmaceuticals Inc has announced the launch of Axitinib Tablets in the United States in two strengths. These tablets are a generic version of Pfizer's Inlyta, used for advanced renal cell carcinoma treatment.",
+      "why": "",
+      "source": "ET Consumer",
+      "also": [],
+      "coverage": 1,
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/glenmark-launches-generic-of-inlyta-tablets-for-kidney-cancer-treatment-in-us/articleshow/135875104.cms",
+      "published": "2026-11-16T07:06:45+00:00"
+    }
+  ]
+}
